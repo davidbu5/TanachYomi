@@ -1,0 +1,14 @@
+{
+  "name": "tanach-yomi",
+  "version": "1.0.0",
+  "description": "api for calculating the tanach-yomi seder by the mesora separation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hebcal": "^2.3.2"
+  }
+}
