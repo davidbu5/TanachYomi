@@ -4,11 +4,24 @@ Hebcal.defaultCity = 'Jerusalem';
 const year = getYear(5780);
 const weeks = getYearByWeeksAndWeekdays(year);
 const holidays = getHolidaysForYear(year);
+//console.log(weeks);
 
-console.log(holidays.map(h=>h.getDesc('h')));
+//console.log(holidays.map(h=>h.getDesc('h')));
+
+var index = 0;
 for (var holiday of holidays) {
-
+    var day = weeks[intDivide(index, 7)][index % 7];
+    while (!day ||
+        day[0].getMonth() !== holiday.date.getMonth() ||
+        day[0].getDate() !== holiday.date.getDate()) {
+        
+        index++;
+        day = weeks[intDivide(index, 7)][index % 7];
+    }
+    console.log(day);
 }
+
+function intDivide(x, y) { return Math.floor(x / y); }
 
 function getYear(yearNum) {
     var year = new Hebcal(yearNum);
@@ -44,7 +57,7 @@ function getYearByWeeksAndWeekdays(year) {
     var currWeek = Array(7);
     for (var i = 0; i < daysInYearNum; i++) {
         const currDay = yearDays[i];
-        currWeek[currDay.getDay()] = [currDay.getMonthName(), currDay.getDate()];
+        currWeek[currDay.getDay()] = [currDay];
 
         // if curr day is Shabbos
         if (currDay.getDay() === 6) {
