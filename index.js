@@ -1,15 +1,27 @@
 var Hebcal = require('hebcal');
 Hebcal.defaultCity = 'Jerusalem';
 
-const year = getYear(5780);
+const year = getYear(5779);
 const weeks = getYearByWeeksAndWeekdays(year);
-const holidays = getHolidaysForYear(year);
-//console.log(weeks);
+const holidays = getHolidaysForYear(year).sort((a,b) => {
+    var aMonth = a.date.getMonth();
+    var bMonth = b.date.getMonth();
+    if (aMonth > bMonth) return 1
+    else if (aMonth < bMonth) return -1
+    else
+        if (a.date.getDate() > b.date.getDate()) return 1
+        else if (a.date.getDate() < b.date.getDate()) return -1
+        else return 0;
+});
+console.log(holidays);
 
 //console.log(holidays.map(h=>h.getDesc('h')));
 
 var index = 0;
+
 for (var holiday of holidays) {
+    //console.log(holiday);
+    
     var day = weeks[intDivide(index, 7)][index % 7];
     while (!day ||
         day[0].getMonth() !== holiday.date.getMonth() ||
@@ -18,7 +30,7 @@ for (var holiday of holidays) {
         index++;
         day = weeks[intDivide(index, 7)][index % 7];
     }
-    console.log(day);
+    //console.log(day);
 }
 
 function intDivide(x, y) { return Math.floor(x / y); }
@@ -50,7 +62,7 @@ function getYearByWeeksAndWeekdays(year) {
     // sort the year days starting by Tishrei and not by Nissan
     const firstRoshHashanaDate = year.find("rosh_hashana").filter(d => d.day == 1)[0]
     const firstRoshHashanaIndex = findIndexOfDate(year, firstRoshHashanaDate);
-    const untilNisan = yearDays.slice(firstRoshHashanaIndex)
+    const untilNisan = yearDays.splice(firstRoshHashanaIndex)
     yearDays = untilNisan.concat(yearDays);
 
     // filling the weeks array
