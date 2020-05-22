@@ -2,7 +2,6 @@ var Hebcal = require('hebcal');
 Hebcal.defaultCity = 'Jerusalem';
 
 const year = getYear(5779);
-const weeks = getYearByWeeksAndWeekdays(year);
 const holidays = getHolidaysForYear(year).sort((a,b) => {
     var aMonth = a.date.getMonth();
     var bMonth = b.date.getMonth();
@@ -13,25 +12,26 @@ const holidays = getHolidaysForYear(year).sort((a,b) => {
         else if (a.date.getDate() < b.date.getDate()) return -1
         else return 0;
 });
-console.log(holidays);
-
-//console.log(holidays.map(h=>h.getDesc('h')));
+//console.log(year);
 
 var index = 0;
-
+const days = year.days();
 for (var holiday of holidays) {
     //console.log(holiday);
     
-    var day = weeks[intDivide(index, 7)][index % 7];
+    var day = days[index];
     while (!day ||
-        day[0].getMonth() !== holiday.date.getMonth() ||
-        day[0].getDate() !== holiday.date.getDate()) {
+        day.getMonth() !== holiday.date.getMonth() ||
+        day.getDate() !== holiday.date.getDate()) {
         
         index++;
-        day = weeks[intDivide(index, 7)][index % 7];
+        day = days[index];
     }
-    //console.log(day);
+    day.holiday = holiday;
 }
+
+const weeks = getYearByWeeksAndWeekdays(year);
+console.log(weeks);
 
 function intDivide(x, y) { return Math.floor(x / y); }
 
@@ -69,11 +69,14 @@ function getYearByWeeksAndWeekdays(year) {
     var currWeek = Array(7);
     for (var i = 0; i < daysInYearNum; i++) {
         const currDay = yearDays[i];
-        currWeek[currDay.getDay()] = [currDay];
-
+        currWeek[currDay.getDay()] = [currDay.getMonthName('h'), currDay.getDate()];
+        // if curr day is a holiday
+        if (currDay.holiday) {
+            currWeek[currDay.getDay()][2] = currDay.holiday.getDesc('h');
+        }
         // if curr day is Shabbos
         if (currDay.getDay() === 6) {
-            currWeek[currDay.getDay()][2] = currDay.getParsha('h')[0]
+            currWeek[currDay.getDay()][3] = currDay.getParsha('h')[0]
             // add the week to the array and start new week
             weeksArray.push(currWeek);
             currWeek = Array(7);
