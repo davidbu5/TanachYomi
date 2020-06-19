@@ -2,7 +2,7 @@ var Hebcal = require('hebcal');
 Hebcal.defaultCity = 'Jerusalem';
 
 exports.getYearByWeeks = function (yearNum) {
-    const year = getYear(5779);
+    const year = getYear(yearNum);
     const holidays = getHolidaysForYear(year).sort(holidaysSort);
     setHolidaysOnYear(year, holidays);
     const weeks = getYearByWeeksAndWeekdays(year);
