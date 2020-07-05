@@ -1,7 +1,7 @@
-var Hebcal = require('hebcal');
+var Hebcal: any = require('hebcal');
 Hebcal.defaultCity = 'Jerusalem';
 
-exports.getYearByWeeks = function (yearNum) {
+export function getYearByWeeks(yearNum: number) {
     const year = getYear(yearNum);
     const holidays = getHolidaysForYear(year).sort(holidaysSort);
     setHolidaysOnYear(year, holidays);
@@ -98,7 +98,7 @@ function getYearByWeeksAndWeekdays(year) {
 
 function getHolidaysForYear(year) {
     var holidaysConcat = Object.values(year.holidays)
-        .flat(Infinity);
+        .flat(Infinity) as any[];
 
     const excluded = [
         "ערב יום כיפור",
