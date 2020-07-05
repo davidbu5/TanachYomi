@@ -1,6 +1,7 @@
 const simchasTorahName = 'שמיני עצרת / שמחת תורה';
 import {getYearByWeeks} from './year';
-export function getSimchasTorahYear(yearNum: number) {
+import { Day } from './models/day';
+export function getSimchasTorahYearByWeeks(yearNum: number) {
     const mainYear = getYearByWeeks(yearNum);
     const secondaryYear = getYearByWeeks(yearNum + 1);
 
@@ -28,30 +29,30 @@ export function getSimchasTorahYear(yearNum: number) {
     return joinedYears;
 }
 
-function removeDaysBeforeSimchasTorahInclude(week) {
+function removeDaysBeforeSimchasTorahInclude(week: Day[]) {
     for (let i = 0; i < week.length; i++) {
         let day = week[i];
         week[i] = null;
-        if (day[3] === simchasTorahName) {
+        if (day.holidayName === simchasTorahName) {
             break;
         }
     }
 }
 
-function removeDaysAfterSimchasTorah(week) {
+function removeDaysAfterSimchasTorah(week: Day[]) {
     for (let i = week.length - 1; i >= 0; i--) {
         let day = week[i];
-        if (day[3] === simchasTorahName) {
+        if (day.holidayName === simchasTorahName) {
             break;
         }
         week[i] = null;
     }
 }
 
-function getHolidayWeekIndices(weeks, holidayName) {
+function getHolidayWeekIndices(weeks: Day[][], holidayName) {
     const indices = [];
     weeks.forEach((week, index) => {
-        if (week.some(day => day[3] === holidayName)) {
+        if (week.some(day => day.holidayName === holidayName)) {
             indices.push(index);
         }
     })

@@ -113,7 +113,9 @@ function getHolidaysForYear(year) {
         "יום השואה",
         "יום ירושלים",
         "פסח שני",
-        "התחלת ספירת העומר"
+        "התחלת ספירת העומר",
+        "תענית בכורות",
+        'ל"ג בעומר'
     ];
 
     var filteredHolidays = holidaysConcat.filter(h => {
