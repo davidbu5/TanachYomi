@@ -24,7 +24,6 @@ export function getTanachLearningYear(yearNum: number) {
     const learningDaysCount = learningDays.length;
     const seders = getSedersByLearningDaysCount(learningDaysCount);
     learningDays.forEach(day => day.seder = seders.shift())
-    console.log(learningDaysCount);
     
     return year;
 }

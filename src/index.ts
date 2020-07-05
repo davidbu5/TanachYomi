@@ -1,3 +1,5 @@
-import {getTanachLearningYear} from './tanachLearningYear';
+import { getTanachLearningYear } from './tanachLearningYear';
 
-getTanachLearningYear(5780);
+const year = getTanachLearningYear(5780)
+
+console.log(JSON.stringify(year, null, 4));
