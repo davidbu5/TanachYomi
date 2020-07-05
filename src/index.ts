@@ -1,3 +1,4 @@
+const simchasTorahName = 'שמיני עצרת / שמחת תורה';
 const yearModule = require('./year');
 
 const y5780 = yearModule.getYearByWeeks(5780);
@@ -15,13 +16,37 @@ if (!lastWeek[6]) {
 }
 
 let joinedYears = y5780.concat(y5781); // concat years
-const simchasTorahIndices = getHolidayWeekIndices(joinedYears, 'שמיני עצרת / שמחת תורה');
-console.log(simchasTorahIndices);
+let simchasTorahIndices = getHolidayWeekIndices(joinedYears, simchasTorahName);
 
-simchasTorahIndices.length = simchasTorahIndices[1];
+
+joinedYears.length = simchasTorahIndices[1] + 1;
 joinedYears = joinedYears.splice(simchasTorahIndices[0]);
+
+removeDaysBeforeSimchasTorahInclude(joinedYears[0]);
+removeDaysAfterSimchasTorah(joinedYears[joinedYears.length - 1]);
+
 console.log(joinedYears);
 
+
+function removeDaysBeforeSimchasTorahInclude(week) {
+    for (let i = 0; i < week.length; i++) {
+        let day = week[i];
+        week[i] = null;
+        if (day[3] === simchasTorahName) {
+            break;
+        }
+    }
+}
+
+function removeDaysAfterSimchasTorah(week) {
+    for (let i = week.length - 1; i >= 0; i--) {
+        let day = week[i];
+        if (day[3] === simchasTorahName) {
+            break;
+        }
+        week[i] = null;
+    }
+}
 
 function getHolidayWeekIndices(weeks, holidayName) {
     const indices = [];
