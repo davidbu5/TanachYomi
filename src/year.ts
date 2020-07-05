@@ -1,6 +1,7 @@
 import { Day } from "./models/day";
 
 var Hebcal: any = require('hebcal');
+var gematriya: any = require('gematriya');
 Hebcal.defaultCity = 'Jerusalem';
 
 export function getYearByWeeks(yearNum: number) {
@@ -80,9 +81,8 @@ function getYearByWeeksAndWeekdays(year) {
         }
 
         currWeek[currDay.getDay()] = new Day(
-            currDay.getMonthName('h'),
-            currDay.getDate('h'),
-            `${currDay.greg().getDate()}/${currDay.greg().getMonth()+1}`
+            getHebrewRepresentation(currDay),
+            getGregRepresentation(currDay)
         )
 
         // if curr day is a holiday
@@ -101,6 +101,19 @@ function getYearByWeeksAndWeekdays(year) {
     currWeek = null;
 
     return weeksArray;
+}
+function getHebrewRepresentation(currDay) {
+    return `${convertGematriya(currDay.getDate('h'))} ${currDay.getMonthName('h')}`
+}
+
+
+function getGregRepresentation(currDay) {
+    return `${currDay.greg().getDate()}/${currDay.greg().getMonth()+1}`
+}
+
+function convertGematriya(num: number) {
+    let converted: string = gematriya(num);
+    return converted.replace(/["']+/g, '');
 }
 
 function getHolidaysForYear(year) {
