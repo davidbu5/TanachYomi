@@ -19,6 +19,7 @@
     "typescript": "^3.9.6",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12",
-    "acorn": ">=6.4.1"
+    "acorn": ">=6.4.1",
+    "websocket-extensions": ">=0.1.4"
   }
 }
