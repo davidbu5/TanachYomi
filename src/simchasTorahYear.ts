@@ -1,5 +1,5 @@
 const simchasTorahName = 'שמיני עצרת / שמחת תורה';
-import {getYearByWeeks} from './year';
+import {getYearByWeeks} from './hebrewYear';
 import { Day } from './models/day';
 export function getSimchasTorahYearByWeeks(yearNum: number) {
     const mainYear = getYearByWeeks(yearNum);

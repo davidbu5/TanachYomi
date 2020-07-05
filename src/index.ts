@@ -1,3 +1,3 @@
 import {getTanachLearningYear} from './tanachLearningYear';
 
-console.log(getTanachLearningYear(5780));
+getTanachLearningYear(5780);
