@@ -1,3 +1,5 @@
+import { Day } from "./models/day";
+
 var Hebcal: any = require('hebcal');
 Hebcal.defaultCity = 'Jerusalem';
 
@@ -57,7 +59,7 @@ function findIndexOfDate(year, date) {
 }
 
 function getYearByWeeksAndWeekdays(year) {
-    const weeksArray = [];
+    const weeksArray: Day[][] = [];
     var yearDays = year.days()
     const daysInYearNum = yearDays.length;
 
@@ -68,7 +70,7 @@ function getYearByWeeksAndWeekdays(year) {
     yearDays = untilNisan.concat(yearDays);
 
     // filling the weeks array
-    var currWeek = Array(7);
+    var currWeek = Array<Day>(7);
     for (var i = 0; i < daysInYearNum; i++) {
         const currDay = yearDays[i];
         if (i === 5) {
@@ -77,14 +79,19 @@ function getYearByWeeksAndWeekdays(year) {
             // console.log(list.sort());
         }
 
-        currWeek[currDay.getDay()] = [currDay.getMonthName('h'), currDay.getDate('h'), `${currDay.greg().getDate()}/${currDay.greg().getMonth()+1}`];
+        currWeek[currDay.getDay()] = new Day(
+            currDay.getMonthName('h'),
+            currDay.getDate('h'),
+            `${currDay.greg().getDate()}/${currDay.greg().getMonth()+1}`
+        )
+
         // if curr day is a holiday
         if (currDay.holiday) {
-            currWeek[currDay.getDay()][3] = currDay.holiday.getDesc('h');
+            currWeek[currDay.getDay()].holidayName = currDay.holiday.getDesc('h');
         }
         // if curr day is Shabbos
         if (currDay.getDay() === 6) {
-            currWeek[currDay.getDay()][4] = currDay.getParsha('h')[0]
+            currWeek[currDay.getDay()].parashatShavua = currDay.getParsha('h')[0]
             // add the week to the array and start new week
             weeksArray.push(currWeek);
             currWeek = Array(7);
