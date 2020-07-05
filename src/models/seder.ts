@@ -1,5 +1,5 @@
 import { RawSeder } from "./rawSeder";
-
+const index = 0;
 export class Seder {
     constructor(
         public bookName: string,
@@ -14,11 +14,13 @@ export class Seder {
         if (!rawSeder.splittingOptions) {
             return rawSeder;
         }
-        return new Seder(
+        const seder = new Seder(
             rawSeder.bookName,
             rawSeder.sederInBook,
             rawSeder.perek,
             rawSeder.pasuk
         )
+        seder['index'] = rawSeder['index'];
+        return seder;
     }
 }

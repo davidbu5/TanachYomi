@@ -12,6 +12,7 @@ export function getSedersByLearningDaysCount(count: number): Seder[] {
     let notMeuberetExtraSedersCountLeftToAdd = notMeuberetExtraSedersCount;
     const seders = [];
     const rawSeders = getRawSeders();
+    const index = 0;
     for (const rawSeder of rawSeders) {
 
         if (rawSeder.splittingOptions &&
@@ -27,7 +28,7 @@ export function getSedersByLearningDaysCount(count: number): Seder[] {
     }
 
     if (isMeuberet) {
-        // add the last 25 seders
+        seders.push(...rawSeders.slice(-25))
     }
 
     return seders;
