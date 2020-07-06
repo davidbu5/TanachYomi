@@ -1,6 +1,11 @@
 import { Day } from "./models/day";
 var xl = require('excel4node');
-var wb = new xl.Workbook();
+var wb = new xl.Workbook({
+    defaultFont: {
+        size: 8,
+        name: 'David'
+    }
+});
 const basicBorderStyle = {
     style: 'thin',
     color: 'black'
@@ -13,6 +18,11 @@ function getBorderStyle(right?, left?, top?, bottom?) {
     if (left) settings['left'] = basicBorderStyle;
     return wb.createStyle({ border: settings })
 }
+const smallBoldFont = wb.createStyle({ font: { bold: true } })
+const largeFont = wb.createStyle({ font: { size: 11 } })
+const largerFont = wb.createStyle({ font: { size: 12 } })
+const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center' } })
+const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right' } })
 
 export function createExcelFromWeeks(weeks: Day[][]) {
 
@@ -31,7 +41,7 @@ export function createExcelFromWeeks(weeks: Day[][]) {
 function addHeadToSheet(sheet) {
     const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת']
     days.forEach((day, index) => {
-        sheet.cell(1, index * 2 + 1, 1, index * 2 + 2, true).string(day).style(getBorderStyle(true, true, true, true))
+        sheet.cell(1, index * 2 + 1, 1, index * 2 + 2, true).string(day).style(getBorderStyle(true, true, true, true)).style(largerFont)
     })
 }
 
@@ -56,20 +66,23 @@ function addDayToSheet(sheet, weekIndex: number, dayIndex: number, day: Day) {
 
     if (day) {
         sheet.cell(startIndexFromTop, startIndexFromLeft).string(day.hebrewRepresentation)
-        sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string(day.gregRepresentation)
+        sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string(day.gregRepresentation).style(rightTextAlign)
 
         if (day.holidayName) {
             sheet.cell(startIndexFromTop + 1, startIndexFromLeft,
-                startIndexFromTop + 1, startIndexFromLeft + 1).string(day.holidayName)
+                startIndexFromTop + 1, startIndexFromLeft + 1).string(day.holidayName).style(smallBoldFont).style(centerTextAlign)
         }
 
         if (day.seder && day.seder.toNotMesoraString) {
             sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
-                startIndexFromTop + 2, startIndexFromLeft + 1).string(day.seder.toNotMesoraString())
+                startIndexFromTop + 2, startIndexFromLeft + 1).string(day.seder.toNotMesoraString()).style(largeFont)
         }
-        if (day.parashatShavua) {
+        if (day.parashatShavua &&
+            day.parashatShavua !== day.holidayName &&
+            day.parashatShavua.indexOf('חול המועד') === -1 &&
+            day.parashatShavua.indexOf('סוכות') === -1) {
             sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
-                startIndexFromTop + 2, startIndexFromLeft + 1).string(day.parashatShavua)
+                startIndexFromTop + 2, startIndexFromLeft + 1).string(day.parashatShavua).style(smallBoldFont)
         }
     }
 }

@@ -1,5 +1,5 @@
 const simchasTorahName = 'שמיני עצרת';
-import {getYearByWeeks} from './hebrewYear';
+import { getYearByWeeks } from './hebrewYear';
 import { Day } from './models/day';
 export function getSimchasTorahYearByWeeks(yearNum: number) {
     const mainYear = getYearByWeeks(yearNum);
@@ -25,6 +25,10 @@ export function getSimchasTorahYearByWeeks(yearNum: number) {
 
     removeDaysBeforeSimchasTorahInclude(joinedYears[0]);
     removeDaysAfterSimchasTorah(joinedYears[joinedYears.length - 1]);
+
+    if (joinedYears[0][6] === null) {
+        joinedYears = joinedYears.splice(1);
+    }
 
     return joinedYears;
 }

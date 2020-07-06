@@ -16,7 +16,9 @@ export class Seder {
         
         if (this.innerBookName) {
             if (this.innerBookName.length === 1) {
-                bookName = this.bookName + this.innerBookName
+                const bookShortName = this.bookName === "דברי הימים" ?
+                                            "דבהי" : this.bookName.slice(0, 3)
+                bookName = bookShortName + "'" + this.innerBookName
             } else {
                 bookName = this.innerBookName
             }
@@ -30,7 +32,8 @@ export class Seder {
             rawSeder.bookName,
             rawSeder.sederInBook,
             rawSeder.perek,
-            rawSeder.pasuk
+            rawSeder.pasuk,
+            rawSeder.innerBookName
         )
         
         return seder;

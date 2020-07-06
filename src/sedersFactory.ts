@@ -27,7 +27,7 @@ export function getSedersByLearningDaysCount(count: number): Seder[] {
     }
 
     if (isMeuberet) {
-        seders.push(...rawSeders.slice(-25))
+        seders.push(...rawSeders.slice(-25).map(Seder.fromRawSeder))
     }
 
     return seders;

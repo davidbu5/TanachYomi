@@ -91,7 +91,8 @@ function getYearByWeeksAndWeekdays(year) {
         }
         // if curr day is Shabbos
         if (currDay.getDay() === 6) {
-            currWeek[currDay.getDay()].parashatShavua = currDay.getParsha('h')[0]
+            const parsha = currDay.getParsha('h');
+            currWeek[currDay.getDay()].parashatShavua = parsha.join("-");
             // add the week to the array and start new week
             weeksArray.push(currWeek);
             currWeek = Array(7);
@@ -134,7 +135,7 @@ function normalizeHolidayName(name: string) {
         return 'שביעי של פסח';
     }
     if (isStringContains(name, 'פסח')) {
-        return 'פסח';
+        return 'חוה"מ';
     }
     if (isStringContains(name, "צום יז' בתמוז")) {
         return 'צום יז תמוז';
