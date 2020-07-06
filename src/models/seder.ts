@@ -5,7 +5,8 @@ export class Seder {
         public bookName: string,
         public sederInBook: string,
         public perek: string,
-        public pasuk: string
+        public pasuk: string,
+        public innerBookName?: string,
     ) {
 
     }

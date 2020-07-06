@@ -1,0 +1,1942 @@
+[
+    {
+        "bookName": "יהושע",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ב",
+        "perek": "ג",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ג",
+        "perek": "ד",
+        "pasuk": "כד"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ד",
+        "perek": "ו",
+        "pasuk": "כז",
+        "splittingOptions": [
+            {
+                "bookName": "יהושע",
+                "sederInBook": "ד1",
+                "perek": "ו",
+                "pasuk": "כז"
+            },
+            {
+                "bookName": "יהושע",
+                "sederInBook": "ד2",
+                "perek": "ח",
+                "pasuk": "א"
+            }
+        ]
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ה",
+        "perek": "ח",
+        "pasuk": "לג"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ו",
+        "perek": "י",
+        "pasuk": "ח"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ז",
+        "perek": "י",
+        "pasuk": "מב"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ח",
+        "perek": "יג",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "ט",
+        "perek": "יד",
+        "pasuk": "טו"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "י",
+        "perek": "יז",
+        "pasuk": "ד"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "יא",
+        "perek": "יח",
+        "pasuk": "כח"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "יב",
+        "perek": "יט",
+        "pasuk": "נא"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "יג",
+        "perek": "כא",
+        "pasuk": "מא"
+    },
+    {
+        "bookName": "יהושע",
+        "sederInBook": "יד",
+        "perek": "כב",
+        "pasuk": "לד"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ב",
+        "perek": "ב",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ג",
+        "perek": "ג",
+        "pasuk": "לא"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ד",
+        "perek": "ה",
+        "pasuk": "לא"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ה",
+        "perek": "ו",
+        "pasuk": "מ"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ו",
+        "perek": "ח",
+        "pasuk": "ג"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ז",
+        "perek": "ט",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ח",
+        "perek": "י",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "ט",
+        "perek": "יא",
+        "pasuk": "לב"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "י",
+        "perek": "יג",
+        "pasuk": "כד"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "יא",
+        "perek": "טז",
+        "pasuk": "ג"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "יב",
+        "perek": "יח",
+        "pasuk": "ו"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "יג",
+        "perek": "יט",
+        "pasuk": "כ"
+    },
+    {
+        "bookName": "שופטים",
+        "sederInBook": "יד",
+        "perek": "כ",
+        "pasuk": "כז"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ב",
+        "perek": "ב",
+        "pasuk": "י",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ג",
+        "perek": "ג",
+        "pasuk": "כ",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ד",
+        "perek": "ו",
+        "pasuk": "יד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ה",
+        "perek": "ט",
+        "pasuk": "ב",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ו",
+        "perek": "י",
+        "pasuk": "כד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ז",
+        "perek": "יב",
+        "pasuk": "כב",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ח",
+        "perek": "יד",
+        "pasuk": "כג",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ט",
+        "perek": "טו",
+        "pasuk": "יז",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "י",
+        "perek": "טז",
+        "pasuk": "יח",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "יא",
+        "perek": "יז",
+        "pasuk": "לז",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "יב",
+        "perek": "יח",
+        "pasuk": "יד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "יג",
+        "perek": "כ",
+        "pasuk": "ד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "יד",
+        "perek": "כ",
+        "pasuk": "מב",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "טו",
+        "perek": "כג",
+        "pasuk": "ד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "טז",
+        "perek": "כד",
+        "pasuk": "כ",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "יז",
+        "perek": "כה",
+        "pasuk": "לג",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "יח",
+        "perek": "כו",
+        "pasuk": "כה",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "יט",
+        "perek": "כח",
+        "pasuk": "כד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כ",
+        "perek": "ל",
+        "pasuk": "כה",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כא",
+        "perek": "ב",
+        "pasuk": "ז",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כב",
+        "perek": "ג",
+        "pasuk": "כא",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כג",
+        "perek": "ה",
+        "pasuk": "י",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כד",
+        "perek": "ז",
+        "pasuk": "טז",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כה",
+        "perek": "י",
+        "pasuk": "יג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כו",
+        "perek": "יב",
+        "pasuk": "יג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כז",
+        "perek": "יג",
+        "pasuk": "כה",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כח",
+        "perek": "יד",
+        "pasuk": "לג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "כט",
+        "perek": "טו",
+        "pasuk": "לז",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "ל",
+        "perek": "יז",
+        "pasuk": "כ",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "לא",
+        "perek": "יח",
+        "pasuk": "כז",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "לב",
+        "perek": "יט",
+        "pasuk": "מ",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "לג",
+        "perek": "כא",
+        "pasuk": "ז",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "שמואל",
+        "sederInBook": "לד",
+        "perek": "כב",
+        "pasuk": "נא",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ב",
+        "perek": "א",
+        "pasuk": "מח",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ג",
+        "perek": "ב",
+        "pasuk": "מה",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ד",
+        "perek": "ד",
+        "pasuk": "כ",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ה",
+        "perek": "ו",
+        "pasuk": "יג",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ו",
+        "perek": "ז",
+        "pasuk": "כא",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ז",
+        "perek": "ח",
+        "pasuk": "יא",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ח",
+        "perek": "ח",
+        "pasuk": "נח",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ט",
+        "perek": "י",
+        "pasuk": "ט",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "י",
+        "perek": "יא",
+        "pasuk": "כח",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "יא",
+        "perek": "יב",
+        "pasuk": "כד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "יב",
+        "perek": "יג",
+        "pasuk": "לא",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "יג",
+        "perek": "טו",
+        "pasuk": "ח",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "יד",
+        "perek": "טז",
+        "pasuk": "טו",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "טו",
+        "perek": "יז",
+        "pasuk": "כד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "טז",
+        "perek": "יח",
+        "pasuk": "לט",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "יז",
+        "perek": "כ",
+        "pasuk": "יג",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "יח",
+        "perek": "כא",
+        "pasuk": "יח",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "יט",
+        "perek": "כב",
+        "pasuk": "מג",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כ",
+        "perek": "ב",
+        "pasuk": "טו",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כא",
+        "perek": "ד",
+        "pasuk": "כו",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כב",
+        "perek": "ו",
+        "pasuk": "כג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כג",
+        "perek": "ז",
+        "pasuk": "טז",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כד",
+        "perek": "ט",
+        "pasuk": "יג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כה",
+        "perek": "י",
+        "pasuk": "טו",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כו",
+        "perek": "יב",
+        "pasuk": "ג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כז",
+        "perek": "יג",
+        "pasuk": "כג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כח",
+        "perek": "טו",
+        "pasuk": "ז",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "כט",
+        "perek": "טז",
+        "pasuk": "כ",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "ל",
+        "perek": "יח",
+        "pasuk": "ו",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "לא",
+        "perek": "יט",
+        "pasuk": "יט",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "לב",
+        "perek": "כ",
+        "pasuk": "ח",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "לג",
+        "perek": "כב",
+        "pasuk": "ב",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "לד",
+        "perek": "כג",
+        "pasuk": "כה",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "מלכים",
+        "sederInBook": "לה",
+        "perek": "כד",
+        "pasuk": "יח",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ב",
+        "perek": "ד",
+        "pasuk": "ג"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ג",
+        "perek": "ו",
+        "pasuk": "ג"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ד",
+        "perek": "ט",
+        "pasuk": "ו"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ה",
+        "perek": "יא",
+        "pasuk": "ב"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ו",
+        "perek": "יד",
+        "pasuk": "ב"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ז",
+        "perek": "טז",
+        "pasuk": "ה"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ח",
+        "perek": "יט",
+        "pasuk": "כה"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "ט",
+        "perek": "כב",
+        "pasuk": "כג"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "י",
+        "perek": "כד",
+        "pasuk": "כג"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "יא",
+        "perek": "כז",
+        "pasuk": "יב"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "יב",
+        "perek": "כט",
+        "pasuk": "כג"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "יג",
+        "perek": "לב",
+        "pasuk": "יח"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "יד",
+        "perek": "לה",
+        "pasuk": "י"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "טו",
+        "perek": "לז",
+        "pasuk": "כ"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "טז",
+        "perek": "מ",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "יז",
+        "perek": "מא",
+        "pasuk": "כז"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "יח",
+        "perek": "מד",
+        "pasuk": "ו"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "יט",
+        "perek": "מה",
+        "pasuk": "יז"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "כ",
+        "perek": "מח",
+        "pasuk": "ב"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "כא",
+        "perek": "מט",
+        "pasuk": "כו"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "כב",
+        "perek": "נב",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "כג",
+        "perek": "נה",
+        "pasuk": "יג"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "כד",
+        "perek": "נח",
+        "pasuk": "יד"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "כה",
+        "perek": "סא",
+        "pasuk": "ט"
+    },
+    {
+        "bookName": "ישעיהו",
+        "sederInBook": "כו",
+        "perek": "סה",
+        "pasuk": "ט"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ב",
+        "perek": "ג",
+        "pasuk": "ד"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ג",
+        "perek": "ה",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ד",
+        "perek": "ו",
+        "pasuk": "ג"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ה",
+        "perek": "ז",
+        "pasuk": "כג"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ו",
+        "perek": "ט",
+        "pasuk": "כג"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ז",
+        "perek": "יב",
+        "pasuk": "טו"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ח",
+        "perek": "יד",
+        "pasuk": "כב"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ט",
+        "perek": "יז",
+        "pasuk": "ז",
+        "splittingOptions": [
+            {
+                "bookName": "ירמיהו",
+                "sederInBook": "ט1",
+                "perek": "יז",
+                "pasuk": "ז"
+            },
+            {
+                "bookName": "ירמיהו",
+                "sederInBook": "ט2",
+                "perek": "יז",
+                "pasuk": "כו"
+            }
+        ]
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "י",
+        "perek": "יח",
+        "pasuk": "יט"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "יא",
+        "perek": "כ",
+        "pasuk": "יג"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "יב",
+        "perek": "כג",
+        "pasuk": "ו"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "יג",
+        "perek": "כד",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "יד",
+        "perek": "כו",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "טו",
+        "perek": "כז",
+        "pasuk": "ה"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "טז",
+        "perek": "כט",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "יז",
+        "perek": "ל",
+        "pasuk": "ט"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "יח",
+        "perek": "לא",
+        "pasuk": "לב"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "יט",
+        "perek": "לב",
+        "pasuk": "כב"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כ",
+        "perek": "לג",
+        "pasuk": "טז"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כא",
+        "perek": "לה",
+        "pasuk": "י"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כב",
+        "perek": "לו",
+        "pasuk": "כו"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כג",
+        "perek": "לח",
+        "pasuk": "ח"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כד",
+        "perek": "לט",
+        "pasuk": "יח"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כה",
+        "perek": "מב",
+        "pasuk": "יב"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כו",
+        "perek": "מד",
+        "pasuk": "כ"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כז",
+        "perek": "מו",
+        "pasuk": "כז"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כח",
+        "perek": "מט",
+        "pasuk": "ב"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "כט",
+        "perek": "נ",
+        "pasuk": "ה"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "ל",
+        "perek": "נא",
+        "pasuk": "י"
+    },
+    {
+        "bookName": "ירמיהו",
+        "sederInBook": "לא",
+        "perek": "נא",
+        "pasuk": "נט"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ב",
+        "perek": "ג",
+        "pasuk": "יב"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ג",
+        "perek": "ו",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ד",
+        "perek": "ח",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ה",
+        "perek": "י",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ו",
+        "perek": "יא",
+        "pasuk": "כ"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ז",
+        "perek": "יד",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ח",
+        "perek": "טז",
+        "pasuk": "יד"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "ט",
+        "perek": "טז",
+        "pasuk": "ס"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "י",
+        "perek": "יח",
+        "pasuk": "ט"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "יא",
+        "perek": "כ",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "יב",
+        "perek": "כ",
+        "pasuk": "מא"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "יג",
+        "perek": "כב",
+        "pasuk": "טז"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "יד",
+        "perek": "כג",
+        "pasuk": "כז"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "טו",
+        "perek": "כד",
+        "pasuk": "כד"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "טז",
+        "perek": "כו",
+        "pasuk": "כ"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "יז",
+        "perek": "כח",
+        "pasuk": "יג"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "יח",
+        "perek": "כט",
+        "pasuk": "כא"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "יט",
+        "perek": "לב",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כ",
+        "perek": "לג",
+        "pasuk": "טז"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כא",
+        "perek": "לד",
+        "pasuk": "כו"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כב",
+        "perek": "לו",
+        "pasuk": "כה"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כג",
+        "perek": "לז",
+        "pasuk": "כח"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כד",
+        "perek": "לט",
+        "pasuk": "כב"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כה",
+        "perek": "מ",
+        "pasuk": "מה"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כו",
+        "perek": "מב",
+        "pasuk": "יג"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כז",
+        "perek": "מג",
+        "pasuk": "כז"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כח",
+        "perek": "מה",
+        "pasuk": "טו"
+    },
+    {
+        "bookName": "יחזקאל",
+        "sederInBook": "כט",
+        "perek": "מז",
+        "pasuk": "יב"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "הושע"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ב",
+        "perek": "ו",
+        "pasuk": "ב",
+        "innerBookName": "הושע"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ג",
+        "perek": "י",
+        "pasuk": "יב",
+        "innerBookName": "הושע"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ד",
+        "perek": "יד",
+        "pasuk": "ו",
+        "innerBookName": "הושע"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ה",
+        "perek": "ב",
+        "pasuk": "כז",
+        "innerBookName": "יואל"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ו",
+        "perek": "ב",
+        "pasuk": "י",
+        "innerBookName": "עמוס"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ז",
+        "perek": "ה",
+        "pasuk": "יד",
+        "innerBookName": "עמוס"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ח",
+        "perek": "ז",
+        "pasuk": "טו",
+        "innerBookName": "עמוס"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "ט",
+        "perek": "א",
+        "pasuk": "כא",
+        "innerBookName": "עובדיה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "י",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "מיכה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "יא",
+        "perek": "ד",
+        "pasuk": "ה",
+        "innerBookName": "מיכה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "יב",
+        "perek": "ז",
+        "pasuk": "כ",
+        "innerBookName": "מיכה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "יג",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "חבקוק"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "יד",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "צפניה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "טו",
+        "perek": "ג",
+        "pasuk": "כ",
+        "innerBookName": "צפניה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "טז",
+        "perek": "ב",
+        "pasuk": "כג",
+        "innerBookName": "חגי"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "יז",
+        "perek": "ד",
+        "pasuk": "ב",
+        "innerBookName": "זכריה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "יח",
+        "perek": "ו",
+        "pasuk": "יד",
+        "innerBookName": "זכריה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "יט",
+        "perek": "ח",
+        "pasuk": "כג",
+        "innerBookName": "זכריה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "כ",
+        "perek": "יב",
+        "pasuk": "א",
+        "innerBookName": "זכריה"
+    },
+    {
+        "bookName": "תרי עשר",
+        "sederInBook": "כא",
+        "perek": "יד",
+        "pasuk": "כא",
+        "innerBookName": "זכריה"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ב",
+        "perek": "יא",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ג",
+        "perek": "כ",
+        "pasuk": "י"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ד",
+        "perek": "כט",
+        "pasuk": "יא"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ה",
+        "perek": "לה",
+        "pasuk": "כח"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ו",
+        "perek": "מא",
+        "pasuk": "יד"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ז",
+        "perek": "מט",
+        "pasuk": "יט"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ח",
+        "perek": "נז",
+        "pasuk": "יב"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "ט",
+        "perek": "סז",
+        "pasuk": "ח"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "י",
+        "perek": "עב",
+        "pasuk": "כ"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "יא",
+        "perek": "עח",
+        "pasuk": "לח"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "יב",
+        "perek": "פד",
+        "pasuk": "יג"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "יג",
+        "perek": "צ",
+        "pasuk": "יז"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "יד",
+        "perek": "קא",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "טו",
+        "perek": "קה",
+        "pasuk": "מה"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "טז",
+        "perek": "קיא",
+        "pasuk": "י"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "יז",
+        "perek": "קיט",
+        "pasuk": "עב"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "יח",
+        "perek": "קכח",
+        "pasuk": "ו"
+    },
+    {
+        "bookName": "תהלים",
+        "sederInBook": "יט",
+        "perek": "קמ",
+        "pasuk": "יד"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "ב",
+        "perek": "ה",
+        "pasuk": "יח"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "ג",
+        "perek": "ט",
+        "pasuk": "יא"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "ד",
+        "perek": "יד",
+        "pasuk": "ד"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "ה",
+        "perek": "יח",
+        "pasuk": "י"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "ו",
+        "perek": "כב",
+        "pasuk": "כא"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "ז",
+        "perek": "כה",
+        "pasuk": "יג"
+    },
+    {
+        "bookName": "משלי",
+        "sederInBook": "ח",
+        "perek": "כח",
+        "pasuk": "טז"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "ב",
+        "perek": "ה",
+        "pasuk": "כז"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "ג",
+        "perek": "יא",
+        "pasuk": "יט"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "ד",
+        "perek": "יז",
+        "pasuk": "ט"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "ה",
+        "perek": "כב",
+        "pasuk": "ל"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "ו",
+        "perek": "כט",
+        "pasuk": "יד"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "ז",
+        "perek": "לג",
+        "pasuk": "לג"
+    },
+    {
+        "bookName": "איוב",
+        "sederInBook": "ח",
+        "perek": "לח",
+        "pasuk": "לה"
+    },
+    {
+        "bookName": "שיר השירים",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א",
+        "splittingOptions": [
+            {
+                "bookName": "שיר השירים",
+                "sederInBook": "א1",
+                "perek": "א",
+                "pasuk": "א"
+            },
+            {
+                "bookName": "שיר השירים",
+                "sederInBook": "א2",
+                "perek": "ה",
+                "pasuk": "ב"
+            }
+        ]
+    },
+    {
+        "bookName": "רות",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א",
+        "splittingOptions": [
+            {
+                "bookName": "רות",
+                "sederInBook": "א1",
+                "perek": "א",
+                "pasuk": "א"
+            },
+            {
+                "bookName": "רות",
+                "sederInBook": "א2",
+                "perek": "ב",
+                "pasuk": "יב"
+            }
+        ]
+    },
+    {
+        "bookName": "איכה",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "קהלת",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "קהלת",
+        "sederInBook": "ב",
+        "perek": "ג",
+        "pasuk": "יג"
+    },
+    {
+        "bookName": "קהלת",
+        "sederInBook": "ג",
+        "perek": "ז",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "קהלת",
+        "sederInBook": "ד",
+        "perek": "ט",
+        "pasuk": "ז"
+    },
+    {
+        "bookName": "אסתר",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "אסתר",
+        "sederInBook": "ב",
+        "perek": "ב",
+        "pasuk": "ה"
+    },
+    {
+        "bookName": "אסתר",
+        "sederInBook": "ג",
+        "perek": "ג",
+        "pasuk": "ח"
+    },
+    {
+        "bookName": "אסתר",
+        "sederInBook": "ד",
+        "perek": "ו",
+        "pasuk": "יא"
+    },
+    {
+        "bookName": "אסתר",
+        "sederInBook": "ה",
+        "perek": "ח",
+        "pasuk": "טז"
+    },
+    {
+        "bookName": "דניאל",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א"
+    },
+    {
+        "bookName": "דניאל",
+        "sederInBook": "ב",
+        "perek": "ב",
+        "pasuk": "לה"
+    },
+    {
+        "bookName": "דניאל",
+        "sederInBook": "ג",
+        "perek": "ג",
+        "pasuk": "ל"
+    },
+    {
+        "bookName": "דניאל",
+        "sederInBook": "ד",
+        "perek": "י",
+        "pasuk": "ב",
+        "innerBookName": "ה"
+    },
+    {
+        "bookName": "דניאל",
+        "sederInBook": "ה",
+        "perek": "ו",
+        "pasuk": "יא"
+    },
+    {
+        "bookName": "דניאל",
+        "sederInBook": "ו",
+        "perek": "ט",
+        "pasuk": "ד"
+    },
+    {
+        "bookName": "דניאל",
+        "sederInBook": "ז",
+        "perek": "י",
+        "pasuk": "כא"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "עזרא"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ב",
+        "perek": "ג",
+        "pasuk": "יג",
+        "innerBookName": "עזרא"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ג",
+        "perek": "ו",
+        "pasuk": "יח",
+        "innerBookName": "עזרא"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ד",
+        "perek": "ח",
+        "pasuk": "לה",
+        "innerBookName": "עזרא"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ה",
+        "perek": "א",
+        "pasuk": "יא",
+        "innerBookName": "נחמיה"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ו",
+        "perek": "ג",
+        "pasuk": "לח",
+        "innerBookName": "נחמיה"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ז",
+        "perek": "ו",
+        "pasuk": "טו",
+        "innerBookName": "נחמיה"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ח",
+        "perek": "ח",
+        "pasuk": "י",
+        "innerBookName": "נחמיה"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "ט",
+        "perek": "י",
+        "pasuk": "א",
+        "innerBookName": "נחמיה"
+    },
+    {
+        "bookName": "עזרא ונחמיה",
+        "sederInBook": "י",
+        "perek": "יב",
+        "pasuk": "כז",
+        "innerBookName": "נחמיה"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "א",
+        "perek": "א",
+        "pasuk": "א",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ב",
+        "perek": "ד",
+        "pasuk": "י",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ג",
+        "perek": "ו",
+        "pasuk": "לד",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ד",
+        "perek": "ח",
+        "pasuk": "מ",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ה",
+        "perek": "יא",
+        "pasuk": "ט",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ו",
+        "perek": "יב",
+        "pasuk": "מא",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ז",
+        "perek": "טז",
+        "pasuk": "לו",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ח",
+        "perek": "יט",
+        "pasuk": "יג",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "ט",
+        "perek": "כב",
+        "pasuk": "יט",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "י",
+        "perek": "כו",
+        "pasuk": "ה",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "יא",
+        "perek": "כח",
+        "pasuk": "י",
+        "innerBookName": "א"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "יב",
+        "perek": "ב",
+        "pasuk": "ג",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "יג",
+        "perek": "ה",
+        "pasuk": "יד",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "יד",
+        "perek": "ז",
+        "pasuk": "יא",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "טו",
+        "perek": "ט",
+        "pasuk": "כד",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "טז",
+        "perek": "יב",
+        "pasuk": "יב",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "יז",
+        "perek": "טו",
+        "pasuk": "טו",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "יח",
+        "perek": "יח",
+        "pasuk": "יח",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "יט",
+        "perek": "כ",
+        "pasuk": "לא",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "כ",
+        "perek": "כג",
+        "pasuk": "יא",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "כא",
+        "perek": "כו",
+        "pasuk": "ב",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "כב",
+        "perek": "כט",
+        "pasuk": "יא",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "כג",
+        "perek": "לא",
+        "pasuk": "י",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "כד",
+        "perek": "לד",
+        "pasuk": "ב",
+        "innerBookName": "ב"
+    },
+    {
+        "bookName": "דברי הימי",
+        "sederInBook": "כה",
+        "perek": "לה",
+        "pasuk": "ו",
+        "innerBookName": "ב"
+    }
+]
