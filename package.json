@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "excel4node": "^1.7.2",
     "hebcal": "^2.3.2"
   },
   "devDependencies": {

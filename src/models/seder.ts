@@ -10,18 +10,29 @@ export class Seder {
     ) {
 
     }
+
+    toNotMesoraString() {
+        let bookName = this.bookName;
+        
+        if (this.innerBookName) {
+            if (this.innerBookName.length === 1) {
+                bookName = this.bookName + this.innerBookName
+            } else {
+                bookName = this.innerBookName
+            }
+        }
+        return `${bookName} ${this.perek} ${this.pasuk}`
+    }
     
     static fromRawSeder(rawSeder: RawSeder) {
-        if (!rawSeder.splittingOptions) {
-            return rawSeder;
-        }
+
         const seder = new Seder(
             rawSeder.bookName,
             rawSeder.sederInBook,
             rawSeder.perek,
             rawSeder.pasuk
         )
-        seder['index'] = rawSeder['index'];
+        
         return seder;
     }
 }

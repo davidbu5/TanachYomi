@@ -87,7 +87,7 @@ function getYearByWeeksAndWeekdays(year) {
 
         // if curr day is a holiday
         if (currDay.holiday) {
-            currWeek[currDay.getDay()].holidayName = currDay.holiday.getDesc('h');
+            currWeek[currDay.getDay()].holidayName = normalizeHolidayName(currDay.holiday.getDesc('h'));
         }
         // if curr day is Shabbos
         if (currDay.getDay() === 6) {
@@ -108,12 +108,57 @@ function getHebrewRepresentation(currDay) {
 
 
 function getGregRepresentation(currDay) {
-    return `${currDay.greg().getDate()}/${currDay.greg().getMonth()+1}`
+    return `${currDay.greg().getDate()}/${currDay.greg().getMonth() + 1}`
 }
 
 function convertGematriya(num: number) {
     let converted: string = gematriya(num);
     return converted.replace(/["']+/g, '');
+}
+
+function normalizeHolidayName(name: string) {
+    const hanukaName = 'חנוכה';
+    if (isStringContains(name, hanukaName)) {
+        return hanukaName;
+    }
+    if (isStringContains(name, 'עשרה בטבת')) {
+        return 'צום י טבת';
+    }
+    if (isStringContains(name, 'ט"ו בשבט')) {
+        return 'רה"ש לאילנות';
+    }
+    if (isStringContains(name, 'פסח יום א')) {
+        return 'פסח';
+    }
+    if (isStringContains(name, 'פסח יום ז')) {
+        return 'שביעי של פסח';
+    }
+    if (isStringContains(name, 'פסח')) {
+        return 'פסח';
+    }
+    if (isStringContains(name, "צום יז' בתמוז")) {
+        return 'צום יז תמוז';
+    }
+    if (isStringContains(name, 'ראש השנה')) {
+        return 'ראש השנה';
+    }
+    if (isStringContains(name, 'סוכות יום א')) {
+        return 'סוכות';
+    }
+    if (isStringContains(name, 'הושענא רבה')) {
+        return 'הושענא רבה';
+    }
+    if (isStringContains(name, 'שמיני עצרת')) {
+        return 'שמיני עצרת';
+    }
+    if (isStringContains(name, 'סוכות')) {
+        return 'חוה"מ';
+    }
+    return name;
+}
+
+function isStringContains(str1, str2) {
+    return str1.indexOf(str2) >= 0;
 }
 
 function getHolidaysForYear(year) {

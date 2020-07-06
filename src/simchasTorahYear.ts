@@ -1,4 +1,4 @@
-const simchasTorahName = 'שמיני עצרת / שמחת תורה';
+const simchasTorahName = 'שמיני עצרת';
 import {getYearByWeeks} from './hebrewYear';
 import { Day } from './models/day';
 export function getSimchasTorahYearByWeeks(yearNum: number) {

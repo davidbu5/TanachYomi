@@ -1,5 +1,5 @@
 import { getTanachLearningYear } from './tanachLearningYear';
+import { createExcelFromWeeks } from './excelFactory';
 
-const year = getTanachLearningYear(5780)
-
-console.log(JSON.stringify(year, null, 4));
+const year = getTanachLearningYear(5780);
+createExcelFromWeeks(year)
