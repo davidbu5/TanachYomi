@@ -1,4 +1,4 @@
-import { Day } from "./models/day";
+import { Day } from "../models/day";
 
 var Hebcal: any = require('hebcal');
 var gematriya: any = require('gematriya');

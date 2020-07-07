@@ -1,4 +1,4 @@
-import { Seder } from "./models/seder";
+import { Seder } from "../models/seder";
 import { getRawSeders } from "./rawSedersRepo"
 
 const normalYearSeders = 293;

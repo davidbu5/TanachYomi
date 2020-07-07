@@ -1,6 +1,6 @@
 import { getSimchasTorahYearByWeeks } from './simchasTorahYear';
 import { getSedersByLearningDaysCount } from './sedersFactory';
-import { Day } from './models/day';
+import { Day } from '../models/day';
 
 const noLearnHolidays = [
     'פורים',

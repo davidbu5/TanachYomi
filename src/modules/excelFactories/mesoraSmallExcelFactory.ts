@@ -1,4 +1,4 @@
-import { Day } from "../models/day";
+import { Day } from "../../models/day";
 var xl = require('excel4node');
 var wb = new xl.Workbook({
     defaultFont: {
