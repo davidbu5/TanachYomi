@@ -1,4 +1,4 @@
-import { Day } from "./models/day";
+import { Day } from "../models/day";
 var xl = require('excel4node');
 var wb = new xl.Workbook({
     defaultFont: {
@@ -24,7 +24,7 @@ const largerFont = wb.createStyle({ font: { size: 12 } })
 const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center' } })
 const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right' } })
 
-export function createExcelFromWeeks(weeks: Day[][]) {
+export function createNotMesoraExcelFromWeeks(weeks: Day[][]) {
 
     var sheet = wb.addWorksheet('Calendar', {
         sheetView: {
@@ -35,7 +35,7 @@ export function createExcelFromWeeks(weeks: Day[][]) {
     addHeadToSheet(sheet)
     weeks.forEach((week, index) => addWeekToSheet(sheet, index, week))
 
-    wb.write("out.xlsx")
+    wb.write("notMesora.xlsx")
 }
 
 function addHeadToSheet(sheet) {

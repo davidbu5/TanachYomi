@@ -1,5 +1,9 @@
 import { getTanachLearningYear } from './tanachLearningYear';
-import { createExcelFromWeeks } from './excelFactory';
+import { createNotMesoraExcelFromWeeks } from './excelFactories/notMesoraExcelFactory';
+import { createMesoraExcelFromWeeks } from './excelFactories/mesoraExcelFactory';
+import { createMesoraSmallExcelFromWeeks } from './excelFactories/mesoraSmallExcelFactory';
 
 const year = getTanachLearningYear(5780);
-createExcelFromWeeks(year)
+createNotMesoraExcelFromWeeks(year)
+createMesoraExcelFromWeeks(year)
+createMesoraSmallExcelFromWeeks(year)
