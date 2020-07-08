@@ -4,15 +4,19 @@
   "description": "Api for calculating the tanach-yomi seder according to the mesora separation. for more info: https://www.tanachyomi.co.il/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "excel4node": "^1.7.2",
-    "hebcal": "^2.3.2"
+    "express": "^4.17.1",
+    "hebcal": "^2.3.2",
+    "helmet": "^3.23.3"
   },
   "devDependencies": {
+    "@types/express": "^4.17.7",
+    "@types/helmet": "0.0.47",
     "@types/node": "^14.0.14",
     "acorn": ">=6.4.1",
     "kind-of": ">=6.0.3",
