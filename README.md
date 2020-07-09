@@ -6,13 +6,13 @@ Info rights belongs to the sites' owner.
 
 # API:
 
-## localhost/year/<yearNum>
+## localhost/year/:yearNum:
 
 Will return JSON array representing the learning year days attached by the corresponding seders for every day.
 
 For example: localhost/year/5780
 
-## localhost/year/<yearNum>/excel/<excelType>
+## localhost/year/:yearNum:/excel/:excelType:
 
 Will return an Excel file (xlsx formatted) that includes  the learning calendar.
 
