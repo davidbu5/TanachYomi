@@ -24,7 +24,7 @@ const largerFont = wb.createStyle({ font: { size: 12 } })
 const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center' } })
 const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right' } })
 
-export function createNotMesoraExcelFromWeeks(weeks: Day[][]) {
+export function createNotMesoraExcelFromWeeks(weeks: Day[][], objectToWriteOn?: any) {
 
     var sheet = wb.addWorksheet('Calendar', {
         sheetView: {
@@ -35,7 +35,7 @@ export function createNotMesoraExcelFromWeeks(weeks: Day[][]) {
     addHeadToSheet(sheet)
     weeks.forEach((week, index) => addWeekToSheet(sheet, index, week))
 
-    wb.write("notMesora.xlsx")
+    wb.write("notMesora.xlsx", objectToWriteOn)
 }
 
 function addHeadToSheet(sheet) {
