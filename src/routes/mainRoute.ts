@@ -3,6 +3,6 @@ import { yearRouter } from './year.route';
 
 export function getMainRouter() {
     const mainRouter = express.Router();
-    mainRouter.get('/year', yearRouter)
+    mainRouter.use('/year', yearRouter)
     return mainRouter;
 }

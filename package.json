@@ -4,7 +4,9 @@
   "description": "Api for calculating the tanach-yomi seder according to the mesora separation. for more info: https://www.tanachyomi.co.il/",
   "main": "index.js",
   "scripts": {
-    "test": "webpack --config ./webpack.config.test.js && cd tests && node ./excels.js"
+    "test": "webpack --config ./webpack.config.test.js && cd tests && node ./excels.js && cd..",
+    "watch": "webpack --config ./webpack.config.dev.js",
+    "start": "nodemon ./dist/server.js"
   },
   "author": "",
   "license": "ISC",
