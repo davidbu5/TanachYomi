@@ -2,8 +2,7 @@ Api for calculating the tanach-yomi seder according to the mesora separation.
 
 For more info: https://www.tanachyomi.co.il/
 
-Info rights and calculation methods rights belongs to the site's owner.
-
+Info rights and calculation method rights belongs to the site's owner.
 
 
 
