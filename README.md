@@ -6,7 +6,7 @@ The API is live in address: https://tanachyomiapi.herokuapp.com/
 
 For more info: https://www.tanachyomi.co.il/
 
-Info rights belongs to the sites' owner.
+Info rights belongs to the site's owner.
 
 # API:
 
