@@ -4,7 +4,7 @@ For more info: https://www.tanachyomi.co.il/
 
 Info rights and calculation method rights belongs to the site's owner.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
 
 The API is live in address: https://tanachyomiapi.herokuapp.com/
 
