@@ -1,5 +1,9 @@
 Api for calculating the tanach-yomi seder according to the mesora separation.
 
+The API is live in address: https://tanachyomiapi.herokuapp.com/
+
+(For example: https://tanachyomiapi.herokuapp.com/year/5780/excel/1)
+
 For more info: https://www.tanachyomi.co.il/
 
 Info rights belongs to the sites' owner.
