@@ -7,4 +7,4 @@ app.use(helmet());
 
 app.use('/', getMainRouter());
 
-app.listen(80, ()=>console.log('Starting at port 80'))
+app.listen(process.env.PORT||80, ()=>console.log('Starting at port 80'))

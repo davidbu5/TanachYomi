@@ -6,12 +6,14 @@
   "scripts": {
     "test": "webpack --config ./webpack.config.test.js && cd tests && node ./excels.js && cd..",
     "watch": "webpack --config ./webpack.config.dev.js --watch",
-    "build": "webpack --config ./webpack.config.dev.js",
-    "start": "npm run build && nodemon ./dist/server.js"
+    "build": "npm i && webpack --config ./webpack.config.dev.js",
+    "start": "node ./dist/server.js",
+    "deploy": "npm run build && gcloud app deploy"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/storage": "^5.1.1",
     "excel4node": "^1.7.2",
     "express": "^4.17.1",
     "hebcal": "^2.3.2",
