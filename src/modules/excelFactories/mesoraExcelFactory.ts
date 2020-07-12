@@ -1,16 +1,11 @@
 import { Day } from "../../models/day";
 var xl = require('excel4node');
-var wb = new xl.Workbook({
-    defaultFont: {
-        size: 8,
-        name: 'David'
-    }
-});
+
 const basicBorderStyle = {
     style: 'thin',
     color: 'black'
 };
-function getBorderStyle(right?, left?, top?, bottom?) {
+function getBorderStyle(wb, right?, left?, top?, bottom?) {
     const settings = {};
     if (top) settings['top'] = basicBorderStyle;
     if (bottom) settings['bottom'] = basicBorderStyle;
@@ -18,13 +13,14 @@ function getBorderStyle(right?, left?, top?, bottom?) {
     if (left) settings['left'] = basicBorderStyle;
     return wb.createStyle({ border: settings })
 }
-const smallBoldFont = wb.createStyle({ font: { bold: true } })
-const largeFont = wb.createStyle({ font: { size: 11 } })
-const largerFont = wb.createStyle({ font: { size: 12 } })
-const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center' } })
-const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right' } })
-
 export function createMesoraExcelFromWeeks(weeks: Day[][], objectToWriteOn?: any) {
+    
+    var wb = new xl.Workbook({
+        defaultFont: {
+            size: 8,
+            name: 'David'
+        }
+    });
 
     var sheet = wb.addWorksheet('Calendar', {
         sheetView: {
@@ -32,36 +28,42 @@ export function createMesoraExcelFromWeeks(weeks: Day[][], objectToWriteOn?: any
         }
     });
 
-    addHeadToSheet(sheet)
-    weeks.forEach((week, index) => addWeekToSheet(sheet, index, week))
+    addHeadToSheet(wb, sheet)
+    weeks.forEach((week, index) => addWeekToSheet(wb, sheet, index, week))
 
     wb.write("mesora.xlsx", objectToWriteOn)
 }
 
-function addHeadToSheet(sheet) {
+function addHeadToSheet(wb, sheet) {
+    const largerFont = wb.createStyle({ font: { size: 12 } })
     const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת']
     days.forEach((day, index) => {
-        sheet.cell(1, index * 2 + 1, 1, index * 2 + 2, true).string(day).style(getBorderStyle(true, true, true, true)).style(largerFont)
+        sheet.cell(1, index * 2 + 1, 1, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(largerFont)
     })
 }
 
-function addWeekToSheet(sheet, weekIndex: number, week: Day[]) {
-    week.forEach((day, dayIndex) => addDayToSheet(sheet, weekIndex, dayIndex, day))
+function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {
+    week.forEach((day, dayIndex) => addDayToSheet(wb, sheet, weekIndex, dayIndex, day))
 }
 
-function addDayToSheet(sheet, weekIndex: number, dayIndex: number, day: Day) {
+function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day) {
 
+    const smallBoldFont = wb.createStyle({ font: { bold: true } })
+    const largeFont = wb.createStyle({ font: { size: 11 } })
+    const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center' } })
+    const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right' } })
+    
     const startIndexFromLeft = dayIndex * 2 + 1;
     const startIndexFromTop = weekIndex * 3 + 2;
 
-    sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(false, true))
-    sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string("").style(getBorderStyle(true))
+    sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(wb, false, true))
+    sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string("").style(getBorderStyle(wb, true))
 
     sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
-        startIndexFromTop + 2, startIndexFromLeft + 1, true).string("").style(getBorderStyle(true, true, false, true))
+        startIndexFromTop + 2, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true, false, true))
 
     sheet.cell(startIndexFromTop + 1, startIndexFromLeft,
-        startIndexFromTop + 1, startIndexFromLeft + 1, true).string("").style(getBorderStyle(true, true))
+        startIndexFromTop + 1, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true))
 
 
     if (day) {

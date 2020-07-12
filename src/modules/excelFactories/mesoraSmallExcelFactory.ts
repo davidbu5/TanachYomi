@@ -1,16 +1,11 @@
 import { Day } from "../../models/day";
 var xl = require('excel4node');
-var wb = new xl.Workbook({
-    defaultFont: {
-        size: 8,
-        name: 'David'
-    }
-});
+
 const basicBorderStyle = {
     style: 'thin',
     color: 'black'
 };
-function getBorderStyle(right?, left?, top?, bottom?) {
+function getBorderStyle(wb, right?, left?, top?, bottom?) {
     const settings = {};
     if (top) settings['top'] = basicBorderStyle;
     if (bottom) settings['bottom'] = basicBorderStyle;
@@ -18,12 +13,14 @@ function getBorderStyle(right?, left?, top?, bottom?) {
     if (left) settings['left'] = basicBorderStyle;
     return wb.createStyle({ border: settings })
 }
-const boldFont = wb.createStyle({ font: { bold: true } })
-const largerFont = wb.createStyle({ font: { size: 10 } })
-const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center' } })
-const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right', readingOrder: 'contextDependent', justifyLastLine: false } })
-
 export function createMesoraSmallExcelFromWeeks(weeks: Day[][], objectToWriteOn?: any) {
+
+    var wb = new xl.Workbook({
+        defaultFont: {
+            size: 8,
+            name: 'David'
+        }
+    });
 
     var sheet = wb.addWorksheet('Calendar', {
         sheetView: {
@@ -31,25 +28,31 @@ export function createMesoraSmallExcelFromWeeks(weeks: Day[][], objectToWriteOn?
         }
     });
 
-    addHeadToSheet(sheet)
-    weeks.forEach((week, index) => addWeekToSheet(sheet, index, week))
+    addHeadToSheet(wb, sheet)
+    weeks.forEach((week, index) => addWeekToSheet(wb, sheet, index, week))
 
     wb.write("mesoraSmall.xlsx", objectToWriteOn)
 }
 
-function addHeadToSheet(sheet) {
+function addHeadToSheet(wb, sheet) {
+    const largerFont = wb.createStyle({ font: { size: 10 } })
+    
     const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי']
     days.forEach((day, index) => {
-        sheet.cell(1, index + 1).string(day).style(getBorderStyle(true, true, true, true)).style(largerFont)
+        sheet.cell(1, index + 1).string(day).style(getBorderStyle(wb, true, true, true, true)).style(largerFont)
     })
 }
 
-function addWeekToSheet(sheet, weekIndex: number, week: Day[]) {
-    week.forEach((day, dayIndex) => addDayToSheet(sheet, weekIndex, dayIndex, day))
+function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {
+    week.forEach((day, dayIndex) => addDayToSheet(wb, sheet, weekIndex, dayIndex, day))
 }
 
-function addDayToSheet(sheet, weekIndex: number, dayIndex: number, day: Day) {
+function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day) {
 
+    const boldFont = wb.createStyle({ font: { bold: true } })
+    const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center' } })
+    const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right', readingOrder: 'contextDependent', justifyLastLine: false } })
+    
     if (dayIndex === 6) {
         return;
     }
@@ -57,9 +60,9 @@ function addDayToSheet(sheet, weekIndex: number, dayIndex: number, day: Day) {
     const startIndexFromLeft = dayIndex + 1;
     const startIndexFromTop = weekIndex * 3 + 2;
 
-    sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(true, true))
-    sheet.cell(startIndexFromTop + 1, startIndexFromLeft).string("").style(getBorderStyle(true, true)).style(rightTextAlign)
-    sheet.cell(startIndexFromTop + 2, startIndexFromLeft).string("").style(getBorderStyle(true, true, false, true))
+    sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(wb, true, true))
+    sheet.cell(startIndexFromTop + 1, startIndexFromLeft).string("").style(getBorderStyle(wb, true, true)).style(rightTextAlign)
+    sheet.cell(startIndexFromTop + 2, startIndexFromLeft).string("").style(getBorderStyle(wb, true, true, false, true))
 
     if (day) {
         sheet.cell(startIndexFromTop, startIndexFromLeft).string(day.hebrewRepresentation)
