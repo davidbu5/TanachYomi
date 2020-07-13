@@ -10,24 +10,30 @@ export function getSedersByLearningDaysCount(count: number): Seder[] {
         notMeuberetExtraSedersCount -= 25;
     }
     let notMeuberetExtraSedersCountLeftToAdd = notMeuberetExtraSedersCount;
-    const seders = [];
-    const rawSeders = getRawSeders();
+    const seders: Seder[] = [];
+    const rawSeders = getRawSeders().reverse();
+    // running on the seders from the last seder to the first
+    // like in LIFO method (you can search on google)
     for (const rawSeder of rawSeders) {
 
         if (rawSeder.splittingOptions &&
             notMeuberetExtraSedersCountLeftToAdd > 0) {
 
-            rawSeder.splittingOptions.forEach(function (splittedRaw) {
-                seders.push(Seder.fromRawSeder(splittedRaw))
+            // running on splitted seder in normal order (not reversed)
+            rawSeder.splittingOptions.reverse().forEach(function (splittedRaw) {
+                seders.unshift(Seder.fromRawSeder(splittedRaw))
             })
             notMeuberetExtraSedersCountLeftToAdd--;
         } else {
-            seders.push(Seder.fromRawSeder(rawSeder))
+            // adding the current seder to the start
+            seders.unshift(Seder.fromRawSeder(rawSeder))
         }
     }
 
     if (isMeuberet) {
-        seders.push(...rawSeders.slice(-25).map(Seder.fromRawSeder))
+        // adding the seders of Divrei Hayamim to the end
+        // and reversing them again because adding to the end of the list
+        seders.push(...rawSeders.slice(0, 25).map(Seder.fromRawSeder).reverse())
     }
 
     return seders;
