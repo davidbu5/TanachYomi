@@ -26,7 +26,7 @@ yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {
     const yearNum = parseInt(yearNumString);
     if (yearNum > 5900 || yearNum < 5700) {
         res.status(401);
-        return res.send("Year number should be a year close to this year (5700-5900")
+        return res.send("Year number should be a year close to 5780 year (5700-5900")
     }
 
     const excelTypeString = req.params['excelType'] as string;
@@ -42,9 +42,9 @@ yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {
     const year = getTanachLearningYear(yearNum)
     res.status(200);
     switch (excelType) {
-        case (1): return createNotMesoraExcelFromWeeks(year, res);
-        case (2): return createMesoraExcelFromWeeks(year, res);
-        case (3): return createMesoraSmallExcelFromWeeks(year, res);
+        case (1): return createNotMesoraExcelFromWeeks(year, yearNum, res);
+        case (2): return createMesoraExcelFromWeeks(year, yearNum, res);
+        case (3): return createMesoraSmallExcelFromWeeks(year, yearNum, res);
     }
 });
 

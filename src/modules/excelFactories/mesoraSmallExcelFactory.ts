@@ -13,7 +13,7 @@ function getBorderStyle(wb, right?, left?, top?, bottom?) {
     if (left) settings['left'] = basicBorderStyle;
     return wb.createStyle({ border: settings })
 }
-export function createMesoraSmallExcelFromWeeks(weeks: Day[][], objectToWriteOn?: any) {
+export function createMesoraSmallExcelFromWeeks(weeks: Day[][], yearNum?: number, objectToWriteOn?: any) {
 
     var wb = new xl.Workbook({
         defaultFont: {
@@ -31,7 +31,7 @@ export function createMesoraSmallExcelFromWeeks(weeks: Day[][], objectToWriteOn?
     addHeadToSheet(wb, sheet)
     weeks.forEach((week, index) => addWeekToSheet(wb, sheet, index, week))
 
-    wb.write("mesoraSmall.xlsx", objectToWriteOn)
+    wb.write(`${yearNum ? yearNum + " " : ""}RegularSmall.xlsx`, objectToWriteOn)
 }
 
 function addHeadToSheet(wb, sheet) {

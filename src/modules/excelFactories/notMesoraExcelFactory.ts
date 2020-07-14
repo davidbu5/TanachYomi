@@ -14,7 +14,7 @@ function getBorderStyle(wb, right?, left?, top?, bottom?) {
     return wb.createStyle({ border: settings })
 }
 
-export function createNotMesoraExcelFromWeeks(weeks: Day[][], objectToWriteOn?: any) {
+export function createNotMesoraExcelFromWeeks(weeks: Day[][], yearNum?: number, objectToWriteOn?: any) {
 
     var wb = new xl.Workbook({
         defaultFont: {
@@ -32,7 +32,7 @@ export function createNotMesoraExcelFromWeeks(weeks: Day[][], objectToWriteOn?: 
     addHeadToSheet(wb, sheet)
     weeks.forEach((week, index) => addWeekToSheet(wb, sheet, index, week))
 
-    wb.write("notMesora.xlsx", objectToWriteOn)
+    wb.write(`${yearNum ? yearNum + " " : ""}RegularPrakim.xlsx`, objectToWriteOn)
 }
 
 function addHeadToSheet(wb, sheet) {
