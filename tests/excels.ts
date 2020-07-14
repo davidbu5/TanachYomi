@@ -3,7 +3,7 @@ import { createNotMesoraExcelFromWeeks } from '../src/modules/excelFactories/not
 import { createMesoraExcelFromWeeks } from '../src/modules/excelFactories/mesoraExcelFactory';
 import { createMesoraSmallExcelFromWeeks } from '../src/modules/excelFactories/mesoraSmallExcelFactory';
 
-const yearNum = 5780;
+const yearNum = 5782;
 const year = getTanachLearningYear(yearNum);
 createNotMesoraExcelFromWeeks(year, yearNum)
 //createMesoraExcelFromWeeks(year, yearNum)

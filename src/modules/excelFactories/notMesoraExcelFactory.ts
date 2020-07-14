@@ -44,7 +44,7 @@ export function createNotMesoraExcelFromWeeks(weeks: Day[][], yearNum?: number, 
             header: 0.001,
             footer: 0.001,
             top: 0.45,
-            bottom: 0.17,
+            bottom: 0.3,
             right: 0.8,
             left: 0.8
         }
@@ -116,14 +116,14 @@ function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {
     let startIndexFromTop = weekIndex * 3 + 3;
 
     if (weekIndex === 26) {
-        addWeekdaysHeaderToSheet(wb, startIndexFromTop + 7, sheet)
+        addWeekdaysHeaderToSheet(wb, startIndexFromTop + 6, sheet)
     }
     if (weekIndex > 26) {
-        startIndexFromTop += 5
+        startIndexFromTop += 4
     }
     sheet.row(startIndexFromTop).setHeight(10)
     sheet.row(startIndexFromTop + 1).setHeight(8.5)
-    sheet.row(startIndexFromTop + 2).setHeight(11.3)
+    sheet.row(startIndexFromTop + 2).setHeight(11)
 
     week.forEach((day, dayIndex) => {
 
@@ -143,7 +143,7 @@ function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day)
     let startIndexFromTop = weekIndex * 3 + 3;
 
     if (weekIndex > 26) {
-        startIndexFromTop += 5
+        startIndexFromTop += 4
     }
 
     sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(wb, false, true, true))
