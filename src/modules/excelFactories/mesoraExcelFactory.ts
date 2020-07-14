@@ -25,21 +25,75 @@ export function createMesoraExcelFromWeeks(weeks: Day[][], yearNum?: number, obj
     var sheet = wb.addWorksheet('Calendar', {
         sheetView: {
             rightToLeft: true
+        },
+        pageSetup: {
+            paperSize: 'A4_PAPER'
+        },
+        sheetFormat: {
+            defaultColWidth: 11,
         }
     });
 
-    addHeadToSheet(wb, sheet)
+    // TODO: get gematria year
+    addSiteHeaderToSheet(wb, sheet)
+    addWeekdaysHeaderToSheet(wb, sheet)
     weeks.forEach((week, index) => addWeekToSheet(wb, sheet, index, week))
 
     wb.write(`${yearNum ? yearNum + " " : ""}Regular.xlsx`, objectToWriteOn)
 }
 
-function addHeadToSheet(wb, sheet) {
+function addSiteHeaderToSheet(wb, sheet) {
+
+    const centerWrappedTextAlign = wb.createStyle({
+        alignment: {
+            horizontal: 'center',
+            vertical: 'center',
+            wrapText: true
+        }
+    })
+
+    const header = [
+        {
+            name: "Guttman Adii",
+            underline: true,
+            size: 14
+        },
+        '‏לוח תנ"ך יומי תש"פ',
+        {
+            name: "Guttman Adii",
+            underline: false,
+            size: 14
+        },
+        '  ',
+        {
+            underline: false,
+            name: "Guttman Adii",
+            bold: true,
+            size: 11
+        },
+        'לימוד כל התנ"ך בשנה אחת - ע"פ חלוקת ה"סדרים" של המסורה',
+        "\n",
+        {
+            name: "Arial",
+            size: 8
+        },
+        "לפרטים נוספים: www.tanachyomi.co.il"
+    ]
+
+    sheet.cell(1, 1, 1, 7 * 2, true)
+        .string(header)
+        .style(centerWrappedTextAlign);
+
+    sheet.row(1).setHeight(29.40)
+}
+
+function addWeekdaysHeaderToSheet(wb, sheet) {
     const largerFont = wb.createStyle({ font: { size: 12 } })
     const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת']
     days.forEach((day, index) => {
-        sheet.cell(1, index * 2 + 1, 1, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(largerFont)
+        sheet.cell(2, index * 2 + 1, 2, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(largerFont)
     })
+    sheet.row(2).setHeight(12)
 }
 
 function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {
@@ -54,7 +108,7 @@ function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day)
     const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right' } })
     
     const startIndexFromLeft = dayIndex * 2 + 1;
-    const startIndexFromTop = weekIndex * 3 + 2;
+    const startIndexFromTop = weekIndex * 3 + 3;
 
     sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(wb, false, true))
     sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string("").style(getBorderStyle(wb, true))
