@@ -1,8 +1,6 @@
 import { Day } from "../models/day";
 
-var Hebcal: any = require('hebcal');
 var gematriya: any = require('gematriya');
-Hebcal.defaultCity = 'Jerusalem';
 
 export function getYearByWeeks(yearNum: number) {
     const year = getYear(yearNum);
@@ -41,6 +39,8 @@ function holidaysSort(a, b) {
 }
 
 function getYear(yearNum) {
+    var Hebcal: any = require('hebcal');
+    Hebcal.defaultCity = 'Jerusalem';
     var year = new Hebcal(yearNum);
     return year;
 }
@@ -174,7 +174,9 @@ function getHolidaysForYear(year) {
         "פסח שני",
         "התחלת ספירת העומר",
         "תענית בכורות",
-        'ל"ג בעומר'
+        'ל"ג בעומר',
+        "פורים קטן",
+        "שושן פורים קטן"
     ];
 
     var filteredHolidays = holidaysConcat.filter(h => {

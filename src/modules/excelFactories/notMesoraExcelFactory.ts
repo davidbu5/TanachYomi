@@ -121,8 +121,11 @@ function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {
     if (weekIndex > 26) {
         startIndexFromTop += 4
     }
-    sheet.row(startIndexFromTop).setHeight(10)
+    sheet.row(startIndexFromTop).setHeight(8)
     sheet.row(startIndexFromTop + 1).setHeight(8.5)
+    // if (week.every(d => !d||!d.holidayName)) {
+    //     sheet.row(startIndexFromTop + 1).setHeight(7.5)
+    // }
     sheet.row(startIndexFromTop + 2).setHeight(11)
 
     week.forEach((day, dayIndex) => {
