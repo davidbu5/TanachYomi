@@ -11,7 +11,7 @@ export function getSedersByLearningDaysCount(count: number): Seder[] {
     }
     let notMeuberetExtraSedersCountLeftToAdd = notMeuberetExtraSedersCount;
     const seders: Seder[] = [];
-    const rawSeders = getRawSeders().reverse();
+    const rawSeders = [...getRawSeders()].reverse();
     // running on the seders from the last seder to the first
     // like in LIFO method (you can search on google)
     for (const rawSeder of rawSeders) {
@@ -19,8 +19,8 @@ export function getSedersByLearningDaysCount(count: number): Seder[] {
         if (rawSeder.splittingOptions &&
             notMeuberetExtraSedersCountLeftToAdd > 0) {
 
-            // running on splitted seder in normal order (not reversed)
-            rawSeder.splittingOptions.reverse().forEach(function (splittedRaw) {
+            [...rawSeder.splittingOptions].reverse().forEach(function (splittedRaw) {
+                // adding the current seder to the start
                 seders.unshift(Seder.fromRawSeder(splittedRaw))
             })
             notMeuberetExtraSedersCountLeftToAdd--;

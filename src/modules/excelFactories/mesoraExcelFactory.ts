@@ -27,7 +27,6 @@ export function createMesoraExcelFromWeeks(weeks: Day[][], yearNum?: number, obj
         'margins': {
             'top': 0.68
         },
-
         sheetView: {
             rightToLeft: true
         },
@@ -35,10 +34,9 @@ export function createMesoraExcelFromWeeks(weeks: Day[][], yearNum?: number, obj
             paperSize: 'LETTER_PAPER'
         },
         sheetFormat: {
-            defaultColWidth: 9.6,
+            defaultColWidth: 9.6
         }
     });
-    // TODO: get gematria year
     addSiteHeaderToSheet(wb, sheet, yearNum)
     addWeekdaysHeaderToSheet(wb, sheet)
     weeks.forEach((week, index) => addWeekToSheet(wb, sheet, index, week))
@@ -127,8 +125,8 @@ function addWeekdaysHeaderToSheet(wb, sheet) {
         sheet.cell(88, index * 2 + 1, 88, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
     })
 
-    sheet.row(3).setHeight(12)
-    sheet.row(88).setHeight(12)
+    sheet.row(3).setHeight(12.3)
+    sheet.row(88).setHeight(12.3)
 }
 
 function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {

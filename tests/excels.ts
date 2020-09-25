@@ -6,11 +6,14 @@ import { createMesoraSmallExcelFromWeeks } from '../src/modules/excelFactories/m
 const years = [5782];
 
 years.forEach(yearNum => {
+    var cp = require("child_process");
+
+    cp.exec("taskkill /F /IM excel.exe")
+
     const year = getTanachLearningYear(yearNum);
-    //createNotMesoraExcelFromWeeks(year, yearNum)
-    createMesoraExcelFromWeeks(year, yearNum)
+    createNotMesoraExcelFromWeeks(year, yearNum)
+    // createMesoraExcelFromWeeks(year, yearNum)
     //createMesoraSmallExcelFromWeeks(year, yearNum);
 
-    var cp = require("child_process");
-    cp.exec("start excel \"C:/Dev/Node/TanachYomi/tests/5782 Regular.xlsx\""); // notice this without a callback..
+    cp.exec("start excel \"C:/Dev/Node/TanachYomi/tests/5782 RegularPrakim.xlsx\""); // notice this without a callback..
 })
