@@ -12,8 +12,8 @@ years.forEach(yearNum => {
 
     const year = getTanachLearningYear(yearNum);
     createNotMesoraExcelFromWeeks(year, yearNum)
-    // createMesoraExcelFromWeeks(year, yearNum)
-    //createMesoraSmallExcelFromWeeks(year, yearNum);
+    createMesoraExcelFromWeeks(year, yearNum)
+    createMesoraSmallExcelFromWeeks(year, yearNum);
 
-    cp.exec("start excel \"C:/Dev/Node/TanachYomi/tests/5782 RegularPrakim.xlsx\""); // notice this without a callback..
+    cp.exec("start excel \"C:/Dev/Node/TanachYomi/tests/5782 RegularSmall.xlsx\""); // notice this without a callback..
 })
