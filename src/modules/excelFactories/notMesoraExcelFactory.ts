@@ -111,11 +111,11 @@ function getCalendarName(yearNum: number) {
 
 function addWeekdaysHeaderToSheet(wb, sheet) {
     const weekdayHeaderStyle = wb.createStyle({
-        font: {
-            size: 11
-        },
         alignment: {
             veritcal: 'center'
+        },
+        font: {
+            size: 11
         }
     });
 

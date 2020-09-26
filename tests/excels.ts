@@ -15,5 +15,5 @@ years.forEach(yearNum => {
     createMesoraExcelFromWeeks(year, yearNum)
     createMesoraSmallExcelFromWeeks(year, yearNum);
 
-    cp.exec("start excel \"C:/Dev/Node/TanachYomi/tests/5782 RegularSmall.xlsx\""); // notice this without a callback..
+    cp.exec("start excel \"C:/Dev/Node/TanachYomi/tests/5782 Regular.xlsx\""); // notice this without a callback..
 })
