@@ -121,8 +121,8 @@ function addWeekdaysHeaderToSheet(wb, sheet) {
 
     const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת']
     days.forEach((day, index) => {
-        sheet.cell(3, index * 2 + 1, 3, index * 2 + 2, true).string(day).style(weekdayHeaderStyle).style(getBorderStyle(wb, true, true, true, true))
-        sheet.cell(88, index * 2 + 1, 88, index * 2 + 2, true).string(day).style(weekdayHeaderStyle).style(getBorderStyle(wb, true, true, true, true))
+        sheet.cell(3, index * 2 + 1, 3, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
+        sheet.cell(88, index * 2 + 1, 88, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
     })
 
     sheet.row(3).setHeight(12.3)
