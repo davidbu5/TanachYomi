@@ -28,7 +28,7 @@ export function createMesoraA4ExcelFromWeeks(weeks: Day[][], yearNum?: number, o
             'top': 0.68
         },
         sheetView: {
-            rightToLeft: true
+            rightToLeft: false
         },
         pageSetup: {
             paperSize: 'A4_PAPER'
@@ -41,11 +41,12 @@ export function createMesoraA4ExcelFromWeeks(weeks: Day[][], yearNum?: number, o
     addWeekdaysHeaderToSheet(wb, sheet)
     weeks.forEach((week, index) => addWeekToSheet(wb, sheet, index, week))
 
-    for (const i of [0, 1, 2, 3, 4, 5, 6]) {
-        sheet.column(i * 2 + 1).setWidth(11.2);
-        sheet.column(i * 2 + 2).setWidth(9.6);
+    for (const i of [0, 1, 2, 3, 4, 5, 6].reverse()) {
+        sheet.column(i * 2 + 1).setWidth(10.2);
+        sheet.column(i * 2 + 2).setWidth(8.4);
     }
-    sheet.column(14).setWidth(5);
+    // sheet.column(13).setWidth(7);
+    // sheet.column(14).setWidth(5.5);
 
     wb.write(`${yearNum ? yearNum + " " : ""}Regular A4.xlsx`, objectToWriteOn)
 }
@@ -115,45 +116,50 @@ function addWeekdaysHeaderToSheet(wb, sheet) {
             vertical: 'center'
         },
         font: {
-            size: 11
+            size: 10
         }
     });
 
     const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת']
-    days.forEach((day, index) => {
+    days.forEach((day, rawIndex) => {
+        const index = 6 - rawIndex;
         sheet.cell(3, index * 2 + 1, 3, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
-        sheet.cell(88, index * 2 + 1, 88, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
+        sheet.cell(94, index * 2 + 1, 94, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
     })
+    
 
     sheet.row(3).setHeight(12.3)
-    sheet.row(88).setHeight(12.3)
+    sheet.row(94).setHeight(12.3)
 }
 
 function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {
     let firstRowIndex = weekIndex * 3 + 4;
-    if (firstRowIndex >= 88) {
+    if (firstRowIndex >= 94) {
         firstRowIndex++;
     }
-    sheet.row(firstRowIndex).setHeight(9)
+    
+    sheet.row(firstRowIndex).setHeight(9.2)
     sheet.row(firstRowIndex + 1).setHeight(8)
-    sheet.row(firstRowIndex + 2).setHeight(11.5)
-    week.forEach((day, dayIndex) => addDayToSheet(wb, sheet, weekIndex, dayIndex, day))
+    sheet.row(firstRowIndex + 2).setHeight(11.7)
+    week.forEach((day, dayIndex) => addDayToSheet(wb, sheet, weekIndex, 6 - dayIndex, day))
 }
 
 function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day) {
 
     const smallBoldFont = wb.createStyle({ font: { bold: true } })
-    const largeFont = wb.createStyle({ font: { size: 11 } })
+    const largeFont = wb.createStyle({ font: { size: 9 } })
     const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center', vertical: 'center' } })
     const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right', vertical: 'center' } })
     const leftTextAlign = wb.createStyle({ alignment: { horizontal: 'left', vertical: 'center' } })
     const centerVerticalAlign = wb.createStyle({ alignment: { vertAlign: 'center', vertical: 'center' } })
+    const bottomVerticalAlign = wb.createStyle({ alignment: { vertAlign: 'bottom', vertical: 'bottom' } })
 
     const startIndexFromLeft = dayIndex * 2 + 1;
     let startIndexFromTop = weekIndex * 3 + 4;
-    if (startIndexFromTop >= 88) {
+    if (startIndexFromTop >= 94) {
         startIndexFromTop++;
     }
+
 
     sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(wb, false, true)).style(centerVerticalAlign)
     sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string("").style(getBorderStyle(wb, true)).style(centerVerticalAlign)
@@ -161,12 +167,13 @@ function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day)
     sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
         startIndexFromTop + 2, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true, false, true)).style(centerVerticalAlign)
 
+
     sheet.cell(startIndexFromTop + 1, startIndexFromLeft,
         startIndexFromTop + 1, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true)).style(centerVerticalAlign)
 
     if (day) {
-        sheet.cell(startIndexFromTop, startIndexFromLeft).string(day.hebrewRepresentation)
-        sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string(day.gregRepresentation).style(leftTextAlign).style(centerVerticalAlign)
+        sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string(day.hebrewRepresentation).style(rightTextAlign).style(centerVerticalAlign)
+        sheet.cell(startIndexFromTop, startIndexFromLeft).string(day.gregRepresentation).style(leftTextAlign).style(centerVerticalAlign)
 
         if (day.holidayName) {
             sheet.cell(startIndexFromTop + 1, startIndexFromLeft,
@@ -177,15 +184,15 @@ function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day)
             sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
                 startIndexFromTop + 2, startIndexFromLeft + 1).string([
                     {
-                        size: 11
+                        size: 10
                     },
                     day.seder.bookName,
                     {
-                        size: 9
+                        size: 8
                     },
                     " ס' ",
                     {
-                        size: 11
+                        size: 10
                     },
                     day.seder.sederInBook
                 ])
