@@ -14,7 +14,7 @@ function getBorderStyle(wb, right?, left?, top?, bottom?) {
     if (left) settings['left'] = basicBorderStyle;
     return wb.createStyle({ border: settings })
 }
-export function createMesoraA4ExcelFromWeeks(weeks: Day[][], yearNum?: number, objectToWriteOn?: any) {
+export function createNotMesoraA4ExcelFromWeeks(weeks: Day[][], yearNum?: number, objectToWriteOn?: any) {
 
     var wb = new xl.Workbook({
         defaultFont: {
@@ -48,7 +48,7 @@ export function createMesoraA4ExcelFromWeeks(weeks: Day[][], yearNum?: number, o
     // sheet.column(13).setWidth(7);
     // sheet.column(14).setWidth(5.5);
 
-    wb.write(`${yearNum ? yearNum + " " : ""}Regular A4.xlsx`, objectToWriteOn)
+    wb.write(`${yearNum ? yearNum + " " : ""}RegularPrakim A4.xlsx`, objectToWriteOn)
 }
 
 function addSiteHeaderToSheet(wb, sheet, yearNum: number) {
@@ -197,6 +197,11 @@ function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day)
                     day.seder.sederInBook
                 ])
         }
+        if (day.seder && day.seder.toNotMesoraString) {
+            sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
+                startIndexFromTop + 2, startIndexFromLeft + 1).string(day.seder.toNotMesoraString()).style(centerVerticalAlign).style(largeFont)
+        }
+        
         if (day.parashatShavua &&
             day.parashatShavua !== day.holidayName &&
             day.parashatShavua.indexOf('חול המועד') === -1 &&

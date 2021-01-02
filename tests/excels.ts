@@ -5,7 +5,7 @@ import { createMesoraSmallExcelFromWeeks } from '../src/modules/excelFactories/m
 import { createMesoraA4ExcelFromWeeks } from '../src/modules/excelFactories/mesoraA4ExcelFactory';
 var cp = require("child_process");
 
-const years = [5782];
+const years = [5781];
 
 cp.exec("taskkill /F /IM excel.exe")
 years.forEach(yearNum => {
