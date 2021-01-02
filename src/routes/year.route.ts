@@ -3,6 +3,8 @@ import { getTanachLearningYear } from '../modules/tanachLearningYear';
 import { createNotMesoraExcelFromWeeks } from '../modules/excelFactories/notMesoraExcelFactory';
 import { createMesoraExcelFromWeeks } from '../modules/excelFactories/mesoraExcelFactory';
 import { createMesoraSmallExcelFromWeeks } from '../modules/excelFactories/mesoraSmallExcelFactory';
+import { createNotMesoraA4ExcelFromWeeks } from '../modules/excelFactories/notMesoraA4ExcelFactory';
+import { createMesoraA4ExcelFromWeeks } from '../modules/excelFactories/mesoraA4ExcelFactory';
 
 const yearRouter = express.Router();
 
@@ -36,7 +38,10 @@ yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {
         return res.send(`ExcelType should be a valid number:
                          1: Not mesora separation
                          2: Mesora separation - large
-                         3: Mesora separation - small`);
+                         3: Mesora separation - small
+                         
+                         4: A4 Not mesora separation
+                         5: A4 Mesora separation - large`);
     }
     const excelType = parseInt(excelTypeString);
     const year = getTanachLearningYear(yearNum)
@@ -45,6 +50,8 @@ yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {
         case (1): return createNotMesoraExcelFromWeeks(year, yearNum, res);
         case (2): return createMesoraExcelFromWeeks(year, yearNum, res);
         case (3): return createMesoraSmallExcelFromWeeks(year, yearNum, res);
+        case (4): return createNotMesoraA4ExcelFromWeeks(year, yearNum, res);
+        case (5): return createMesoraA4ExcelFromWeeks(year, yearNum, res);
     }
 });
 
