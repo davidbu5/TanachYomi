@@ -124,60 +124,57 @@ function addWeekdaysHeaderToSheet(wb, sheet) {
     days.forEach((day, rawIndex) => {
         const index = 6 - rawIndex;
         sheet.cell(3, index * 2 + 1, 3, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
-        sheet.cell(93, index * 2 + 1, 93, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
+        sheet.cell(89, index * 2 + 1, 89, index * 2 + 2, true).string(day).style(getBorderStyle(wb, true, true, true, true)).style(weekdayHeaderStyle)
     })
     
 
-    sheet.row(3).setHeight(12.3)
-    sheet.row(93).setHeight(12.3)
+    sheet.row(3).setHeight(14)
+    sheet.row(89).setHeight(14)
 }
 
 function addWeekToSheet(wb, sheet, weekIndex: number, week: Day[]) {
     let firstRowIndex = weekIndex * 3 + 4;
-    if (firstRowIndex >= 91) {
-        firstRowIndex+= 3;
+    if (firstRowIndex >= 88) {
+        firstRowIndex += 2;
     }
     
-    sheet.row(firstRowIndex).setHeight(9.2)
-    sheet.row(firstRowIndex + 1).setHeight(8)
-    sheet.row(firstRowIndex + 2).setHeight(11.7)
+    sheet.row(firstRowIndex).setHeight(9.7)
+    sheet.row(firstRowIndex + 1).setHeight(9)
+    sheet.row(firstRowIndex + 2).setHeight(12)
     week.forEach((day, dayIndex) => addDayToSheet(wb, sheet, weekIndex, 6 - dayIndex, day))
 }
 
 function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day) {
 
     const smallBoldFont = wb.createStyle({ font: { bold: true } })
-    const largeFont = wb.createStyle({ font: { size: 9 } })
-    const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center', vertical: 'center' } })
-    const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right', vertical: 'center' } })
-    const leftTextAlign = wb.createStyle({ alignment: { horizontal: 'left', vertical: 'center' } })
-    const centerVerticalAlign = wb.createStyle({ alignment: { vertAlign: 'center', vertical: 'center' } })
-    const bottomVerticalAlign = wb.createStyle({ alignment: { vertAlign: 'bottom', vertical: 'bottom' } })
+    const centerTextAlign = wb.createStyle({ alignment: { horizontal: 'center', vertAlign: 'center', vertical: 'center' } })
+    const rightTextAlign = wb.createStyle({ alignment: { horizontal: 'right', vertAlign: 'top', vertical: 'top' } })
+    const leftTextAlign = wb.createStyle({ alignment: { horizontal: 'left', vertAlign: 'top', vertical: 'top' } })
 
     const startIndexFromLeft = dayIndex * 2 + 1;
     let startIndexFromTop = weekIndex * 3 + 4;
-    if (startIndexFromTop >= 91) {
-        startIndexFromTop += 3;
+    if (startIndexFromTop >= 88) {
+        startIndexFromTop += 2;
     }
 
 
-    sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(wb, false, true)).style(centerVerticalAlign)
-    sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string("").style(getBorderStyle(wb, true)).style(centerVerticalAlign)
+    sheet.cell(startIndexFromTop, startIndexFromLeft).string("").style(getBorderStyle(wb, false, true))
+    sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string("").style(getBorderStyle(wb, true))
 
     sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
-        startIndexFromTop + 2, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true, false, true)).style(centerVerticalAlign)
+        startIndexFromTop + 2, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true, false, true))
 
 
     sheet.cell(startIndexFromTop + 1, startIndexFromLeft,
-        startIndexFromTop + 1, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true)).style(centerVerticalAlign)
+        startIndexFromTop + 1, startIndexFromLeft + 1, true).string("").style(getBorderStyle(wb, true, true))
 
     if (day) {
-        sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string(day.hebrewRepresentation).style(rightTextAlign).style(centerVerticalAlign)
-        sheet.cell(startIndexFromTop, startIndexFromLeft).string(day.gregRepresentation).style(leftTextAlign).style(centerVerticalAlign)
+        sheet.cell(startIndexFromTop, startIndexFromLeft + 1).string(day.hebrewRepresentation).style(rightTextAlign)
+        sheet.cell(startIndexFromTop, startIndexFromLeft).string(day.gregRepresentation).style(leftTextAlign)
 
         if (day.holidayName) {
             sheet.cell(startIndexFromTop + 1, startIndexFromLeft,
-                startIndexFromTop + 1, startIndexFromLeft + 1).string(day.holidayName).style(smallBoldFont).style(centerTextAlign).style(centerVerticalAlign)
+                startIndexFromTop + 1, startIndexFromLeft + 1).string(day.holidayName).style(smallBoldFont).style(centerTextAlign)
         }
 
         if (day.seder) {
@@ -202,7 +199,7 @@ function addDayToSheet(wb, sheet, weekIndex: number, dayIndex: number, day: Day)
             day.parashatShavua.indexOf('חול המועד') === -1 &&
             day.parashatShavua.indexOf('סוכות') === -1) {
             sheet.cell(startIndexFromTop + 2, startIndexFromLeft,
-                startIndexFromTop + 2, startIndexFromLeft + 1).string(day.parashatShavua).style(smallBoldFont).style(centerVerticalAlign)
+                startIndexFromTop + 2, startIndexFromLeft + 1).string(day.parashatShavua).style(smallBoldFont).style(rightTextAlign)
         }
     }
 }
