@@ -35,7 +35,7 @@ yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {
 
     const excelTypeString = req.params['excelType'] as string;
     if (!excelTypeString || isNaN(+excelTypeString) ||
-        parseInt(excelTypeString) < 1 || parseInt(excelTypeString) > 3) {
+        parseInt(excelTypeString) < 1 || parseInt(excelTypeString) > 7) {
         res.status(401);
         return res.send(`ExcelType should be a valid number:
                          1: Not mesora separation
