@@ -5,6 +5,8 @@ import { createMesoraExcelFromWeeks } from '../modules/excelFactories/mesoraExce
 import { createMesoraSmallExcelFromWeeks } from '../modules/excelFactories/mesoraSmallExcelFactory';
 import { createNotMesoraA4ExcelFromWeeks } from '../modules/excelFactories/notMesoraA4ExcelFactory';
 import { createMesoraA4ExcelFromWeeks } from '../modules/excelFactories/mesoraA4ExcelFactory';
+import { createMesoraSmallExcelPortraitFromWeeks } from '../modules/excelFactories/mesoraSmallExcelFactoryPortrait';
+import { createMesoraSmallExcelLandscapeFromWeeks } from '../modules/excelFactories/mesoraSmallExcelFactoryLandscape';
 
 const yearRouter = express.Router();
 
@@ -39,9 +41,12 @@ yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {
                          1: Not mesora separation
                          2: Mesora separation - large
                          3: Mesora separation - small
-                         
+                        
+                         The new formats:
                          4: A4 Not mesora separation
-                         5: A4 Mesora separation - large`);
+                         5: A4 Mesora separation - large
+                         6: A4 Mesora separation - small portrait
+                         7: A4 Mesora separation - small landscape`);
     }
     const excelType = parseInt(excelTypeString);
     const year = getTanachLearningYear(yearNum)
@@ -52,6 +57,8 @@ yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {
         case (3): return createMesoraSmallExcelFromWeeks(year, yearNum, res);
         case (4): return createNotMesoraA4ExcelFromWeeks(year, yearNum, res);
         case (5): return createMesoraA4ExcelFromWeeks(year, yearNum, res);
+        case (6): return createMesoraSmallExcelPortraitFromWeeks(year, yearNum, res);
+        case (7): return createMesoraSmallExcelLandscapeFromWeeks(year, yearNum, res);
     }
 });
 
