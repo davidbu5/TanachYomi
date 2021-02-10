@@ -2,10 +2,10 @@ var fs = require('fs')
 var text = fs.readFileSync('./raw.txt', 'utf8');
 
 class BookRawSeders {
-    static fromBlock(text) {
+    static fromBlock(text, bookNum) {
         const lines = text.split("\n");
         const bookName = lines.shift();
-        let rawSeders = lines.map(line => RawSeder.fromLine(bookName, line));
+        let rawSeders = lines.map((line, lineIndex) => RawSeder.fromLine(bookName, bookNum, line, lineIndex + 1));
         const splitted = rawSeders.filter(s => s.sederInBook.indexOf("1") >= 0 ||
                                                s.sederInBook.indexOf("2") >= 0)
 
@@ -28,11 +28,15 @@ class RawSeder {
     perek;
     pasuk;
     innerBookName;
+    
+    urlBookId;
+    urlSederId;
+    urls;
 
-    static fromLine(mainBookName, text) {
+    static fromLine(bookName, bookNum, line, lineNum) {
         const rawSeder = new RawSeder();
-        rawSeder.bookName = mainBookName;
-        const info = text.split(" ")
+        rawSeder.bookName = bookName;
+        const info = line.split(" ")
         if (info.length === 3) {
             rawSeder.sederInBook = info[0];
             rawSeder.perek = info[1];
@@ -44,12 +48,21 @@ class RawSeder {
             rawSeder.perek = info[2];
             rawSeder.pasuk = info[3];
         }
+
+        
+        rawSeder.urlBookId = bookNum;
+        rawSeder.urlSederId = lineNum;
+        rawSeder.urls = RawSeder.getUrls(bookNum, lineNum);
         return rawSeder;
+    }
+
+    static getUrls(bookNum, lineNum) {
+        return {};
     }
 }
 
 var blocks = text.split("\n\n");
 
-var rawSeders = blocks.map(b => BookRawSeders.fromBlock(b)).flat();
+var rawSeders = blocks.map((b, bookIndex) => BookRawSeders.fromBlock(b, bookIndex + 1)).flat();
 
 fs.writeFileSync('./rawSeders.json', JSON.stringify(rawSeders, null, 4))
