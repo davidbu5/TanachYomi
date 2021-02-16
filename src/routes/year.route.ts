@@ -31,7 +31,7 @@ yearRouter.get('/:yearNum/ical', (req, res) => {
     const year = getTanachLearningYear(yearNum)
     const ical = createIcal(year, yearNum)
     res.status(200);
-    res.attachment(`Tanach Yomi ${yearNum}.ical`);
+    res.attachment(`Tanach Yomi ${yearNum}.ics`);
     res.send(ical);
 });
 
