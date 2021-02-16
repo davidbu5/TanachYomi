@@ -9,6 +9,7 @@ export class Day {
     constructor(
         public hebrewRepresentation: string,
         public gregRepresentation: string,
+        public gregDate: Date
     ) {
 
     }

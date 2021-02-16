@@ -7,6 +7,7 @@ import { createNotMesoraA4ExcelFromWeeks } from '../modules/excelFactories/notMe
 import { createMesoraA4ExcelFromWeeks } from '../modules/excelFactories/mesoraA4ExcelFactory';
 import { createMesoraSmallExcelPortraitFromWeeks } from '../modules/excelFactories/mesoraSmallExcelFactoryPortrait';
 import { createMesoraSmallExcelLandscapeFromWeeks } from '../modules/excelFactories/mesoraSmallExcelFactoryLandscape';
+import { createIcal } from '../modules/calendarIntegration/ical';
 
 const yearRouter = express.Router();
 
@@ -19,6 +20,19 @@ yearRouter.get('/:yearNum', (req, res) => {
     const year = getTanachLearningYear(yearNum)
     res.status(200);
     return res.json(year);
+});
+
+yearRouter.get('/:yearNum/ical', (req, res) => {
+    const yearNum = parseInt(req.params['yearNum'] as string);
+    if (!yearNum || isNaN(yearNum)) {
+        res.status(401);
+        return res.send("Year number should be a valid number")
+    }
+    const year = getTanachLearningYear(yearNum)
+    const ical = createIcal(year, yearNum)
+    res.status(200);
+    res.attachment(`Tanach Yomi ${yearNum}.ical`);
+    res.send(ical);
 });
 
 yearRouter.get('/:yearNum/excel/:excelType', (req, res) => {

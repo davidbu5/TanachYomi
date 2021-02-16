@@ -57,8 +57,18 @@ class RawSeder {
     }
 
     static getUrls(bookNum, lineNum) {
-        return {};
+        const b = getNumberStr(bookNum);
+        const l = getNumberStr(lineNum);
+        return {
+            plain: `https://www.tanachyomi.co.il/pagesTanach/b${b}_ch${l}.html`,
+            teamim: `https://www.tanachyomi.co.il/pagesTanachTeamim/b${b}_ch${l}.html`,
+            voice: `https://www.tanachyomi.co.il/pagesTanachVoice/b${b}_ch${l}.mp3`
+        };
     }
+}
+
+function getNumberStr(number) {
+    return number > 9 ? number.toString() : `0${number}`;
 }
 
 var blocks = text.split("\n\n");

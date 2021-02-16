@@ -6,7 +6,11 @@
         "pasuk": "א",
         "urlBookId": 1,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch01.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -15,7 +19,11 @@
         "pasuk": "ז",
         "urlBookId": 1,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch02.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -24,7 +32,11 @@
         "pasuk": "כד",
         "urlBookId": 1,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch03.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -33,7 +45,11 @@
         "pasuk": "כז",
         "urlBookId": 1,
         "urlSederId": 4,
-        "urls": {},
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch04.mp3"
+        },
         "splittingOptions": [
             {
                 "bookName": "יהושע",
@@ -42,7 +58,11 @@
                 "pasuk": "כז",
                 "urlBookId": 1,
                 "urlSederId": 15,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch15.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch15.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch15.mp3"
+                }
             },
             {
                 "bookName": "יהושע",
@@ -51,7 +71,11 @@
                 "pasuk": "א",
                 "urlBookId": 1,
                 "urlSederId": 16,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch16.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch16.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch16.mp3"
+                }
             }
         ]
     },
@@ -62,7 +86,11 @@
         "pasuk": "לג",
         "urlBookId": 1,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch05.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -71,7 +99,11 @@
         "pasuk": "ח",
         "urlBookId": 1,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch06.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -80,7 +112,11 @@
         "pasuk": "מב",
         "urlBookId": 1,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch07.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -89,7 +125,11 @@
         "pasuk": "א",
         "urlBookId": 1,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch08.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -98,7 +138,11 @@
         "pasuk": "טו",
         "urlBookId": 1,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch09.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -107,7 +151,11 @@
         "pasuk": "ד",
         "urlBookId": 1,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch10.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -116,7 +164,11 @@
         "pasuk": "כח",
         "urlBookId": 1,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch11.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -125,7 +177,11 @@
         "pasuk": "נא",
         "urlBookId": 1,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch12.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -134,7 +190,11 @@
         "pasuk": "מא",
         "urlBookId": 1,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch13.mp3"
+        }
     },
     {
         "bookName": "יהושע",
@@ -143,7 +203,11 @@
         "pasuk": "לד",
         "urlBookId": 1,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch14.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -152,7 +216,11 @@
         "pasuk": "א",
         "urlBookId": 2,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch01.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -161,7 +229,11 @@
         "pasuk": "ז",
         "urlBookId": 2,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch02.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -170,7 +242,11 @@
         "pasuk": "לא",
         "urlBookId": 2,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch03.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -179,7 +255,11 @@
         "pasuk": "לא",
         "urlBookId": 2,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch04.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -188,7 +268,11 @@
         "pasuk": "מ",
         "urlBookId": 2,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch05.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -197,7 +281,11 @@
         "pasuk": "ג",
         "urlBookId": 2,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch06.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -206,7 +294,11 @@
         "pasuk": "ז",
         "urlBookId": 2,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch07.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -215,7 +307,11 @@
         "pasuk": "א",
         "urlBookId": 2,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch08.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -224,7 +320,11 @@
         "pasuk": "לב",
         "urlBookId": 2,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch09.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -233,7 +333,11 @@
         "pasuk": "כד",
         "urlBookId": 2,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch10.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -242,7 +346,11 @@
         "pasuk": "ג",
         "urlBookId": 2,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch11.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -251,7 +359,11 @@
         "pasuk": "ו",
         "urlBookId": 2,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch12.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -260,7 +372,11 @@
         "pasuk": "כ",
         "urlBookId": 2,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch13.mp3"
+        }
     },
     {
         "bookName": "שופטים",
@@ -269,7 +385,11 @@
         "pasuk": "כז",
         "urlBookId": 2,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch14.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -279,7 +399,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch01.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -289,7 +413,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch02.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -299,7 +427,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch03.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -309,7 +441,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch04.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -319,7 +455,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch05.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -329,7 +469,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch06.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -339,7 +483,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch07.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -349,7 +497,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch08.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -359,7 +511,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch09.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -369,7 +525,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch10.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -379,7 +539,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch11.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -389,7 +553,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch12.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -399,7 +567,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch13.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -409,7 +581,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch14.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -419,7 +595,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch15.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -429,7 +609,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch16.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -439,7 +623,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch17.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -449,7 +637,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch18.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -459,7 +651,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch19.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -469,7 +665,11 @@
         "innerBookName": "א",
         "urlBookId": 3,
         "urlSederId": 20,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch20.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch20.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch20.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -479,7 +679,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 21,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch21.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch21.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch21.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -489,7 +693,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 22,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch22.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch22.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch22.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -499,7 +707,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 23,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch23.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch23.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch23.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -509,7 +721,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 24,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch24.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch24.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch24.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -519,7 +735,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 25,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch25.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch25.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch25.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -529,7 +749,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 26,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch26.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch26.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch26.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -539,7 +763,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 27,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch27.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch27.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch27.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -549,7 +777,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 28,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch28.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch28.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch28.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -559,7 +791,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 29,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch29.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch29.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch29.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -569,7 +805,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 30,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch30.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch30.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch30.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -579,7 +819,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 31,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch31.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch31.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch31.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -589,7 +833,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 32,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch32.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch32.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch32.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -599,7 +847,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 33,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch33.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch33.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch33.mp3"
+        }
     },
     {
         "bookName": "שמואל",
@@ -609,7 +861,11 @@
         "innerBookName": "ב",
         "urlBookId": 3,
         "urlSederId": 34,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch34.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch34.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch34.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -619,7 +875,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch01.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -629,7 +889,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch02.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -639,7 +903,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch03.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -649,7 +917,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch04.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -659,7 +931,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch05.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -669,7 +945,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch06.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -679,7 +959,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch07.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -689,7 +973,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch08.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -699,7 +987,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch09.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -709,7 +1001,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch10.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -719,7 +1015,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch11.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -729,7 +1029,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch12.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -739,7 +1043,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch13.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -749,7 +1057,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch14.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -759,7 +1071,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch15.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -769,7 +1085,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch16.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -779,7 +1099,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch17.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -789,7 +1113,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch18.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -799,7 +1127,11 @@
         "innerBookName": "א",
         "urlBookId": 4,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch19.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -809,7 +1141,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 20,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch20.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch20.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch20.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -819,7 +1155,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 21,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch21.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch21.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch21.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -829,7 +1169,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 22,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch22.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch22.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch22.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -839,7 +1183,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 23,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch23.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch23.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch23.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -849,7 +1197,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 24,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch24.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch24.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch24.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -859,7 +1211,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 25,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch25.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch25.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch25.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -869,7 +1225,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 26,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch26.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch26.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch26.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -879,7 +1239,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 27,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch27.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch27.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch27.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -889,7 +1253,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 28,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch28.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch28.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch28.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -899,7 +1267,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 29,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch29.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch29.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch29.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -909,7 +1281,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 30,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch30.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch30.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch30.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -919,7 +1295,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 31,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch31.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch31.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch31.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -929,7 +1309,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 32,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch32.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch32.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch32.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -939,7 +1323,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 33,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch33.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch33.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch33.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -949,7 +1337,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 34,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch34.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch34.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch34.mp3"
+        }
     },
     {
         "bookName": "מלכים",
@@ -959,7 +1351,11 @@
         "innerBookName": "ב",
         "urlBookId": 4,
         "urlSederId": 35,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch35.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch35.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch35.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -968,7 +1364,11 @@
         "pasuk": "א",
         "urlBookId": 5,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch01.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -977,7 +1377,11 @@
         "pasuk": "ג",
         "urlBookId": 5,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch02.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -986,7 +1390,11 @@
         "pasuk": "ג",
         "urlBookId": 5,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch03.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -995,7 +1403,11 @@
         "pasuk": "ו",
         "urlBookId": 5,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch04.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1004,7 +1416,11 @@
         "pasuk": "ב",
         "urlBookId": 5,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch05.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1013,7 +1429,11 @@
         "pasuk": "ב",
         "urlBookId": 5,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch06.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1022,7 +1442,11 @@
         "pasuk": "ה",
         "urlBookId": 5,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch07.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1031,7 +1455,11 @@
         "pasuk": "כה",
         "urlBookId": 5,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch08.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1040,7 +1468,11 @@
         "pasuk": "כג",
         "urlBookId": 5,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch09.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1049,7 +1481,11 @@
         "pasuk": "כג",
         "urlBookId": 5,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch10.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1058,7 +1494,11 @@
         "pasuk": "יב",
         "urlBookId": 5,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch11.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1067,7 +1507,11 @@
         "pasuk": "כג",
         "urlBookId": 5,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch12.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1076,7 +1520,11 @@
         "pasuk": "יח",
         "urlBookId": 5,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch13.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1085,7 +1533,11 @@
         "pasuk": "י",
         "urlBookId": 5,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch14.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1094,7 +1546,11 @@
         "pasuk": "כ",
         "urlBookId": 5,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch15.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1103,7 +1559,11 @@
         "pasuk": "א",
         "urlBookId": 5,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch16.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1112,7 +1572,11 @@
         "pasuk": "כז",
         "urlBookId": 5,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch17.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1121,7 +1585,11 @@
         "pasuk": "ו",
         "urlBookId": 5,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch18.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1130,7 +1598,11 @@
         "pasuk": "יז",
         "urlBookId": 5,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch19.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1139,7 +1611,11 @@
         "pasuk": "ב",
         "urlBookId": 5,
         "urlSederId": 20,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch20.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch20.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch20.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1148,7 +1624,11 @@
         "pasuk": "כו",
         "urlBookId": 5,
         "urlSederId": 21,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch21.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch21.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch21.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1157,7 +1637,11 @@
         "pasuk": "ז",
         "urlBookId": 5,
         "urlSederId": 22,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch22.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch22.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch22.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1166,7 +1650,11 @@
         "pasuk": "יג",
         "urlBookId": 5,
         "urlSederId": 23,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch23.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch23.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch23.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1175,7 +1663,11 @@
         "pasuk": "יד",
         "urlBookId": 5,
         "urlSederId": 24,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch24.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch24.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch24.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1184,7 +1676,11 @@
         "pasuk": "ט",
         "urlBookId": 5,
         "urlSederId": 25,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch25.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch25.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch25.mp3"
+        }
     },
     {
         "bookName": "ישעיהו",
@@ -1193,7 +1689,11 @@
         "pasuk": "ט",
         "urlBookId": 5,
         "urlSederId": 26,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch26.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch26.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch26.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1202,7 +1702,11 @@
         "pasuk": "א",
         "urlBookId": 6,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch01.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1211,7 +1715,11 @@
         "pasuk": "ד",
         "urlBookId": 6,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch02.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1220,7 +1728,11 @@
         "pasuk": "א",
         "urlBookId": 6,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch03.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1229,7 +1741,11 @@
         "pasuk": "ג",
         "urlBookId": 6,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch04.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1238,7 +1754,11 @@
         "pasuk": "כג",
         "urlBookId": 6,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch05.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1247,7 +1767,11 @@
         "pasuk": "כג",
         "urlBookId": 6,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch06.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1256,7 +1780,11 @@
         "pasuk": "טו",
         "urlBookId": 6,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch07.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1265,7 +1793,11 @@
         "pasuk": "כב",
         "urlBookId": 6,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch08.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1274,7 +1806,11 @@
         "pasuk": "ז",
         "urlBookId": 6,
         "urlSederId": 9,
-        "urls": {},
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch09.mp3"
+        },
         "splittingOptions": [
             {
                 "bookName": "ירמיהו",
@@ -1283,7 +1819,11 @@
                 "pasuk": "ז",
                 "urlBookId": 6,
                 "urlSederId": 32,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch32.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch32.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch32.mp3"
+                }
             },
             {
                 "bookName": "ירמיהו",
@@ -1292,7 +1832,11 @@
                 "pasuk": "כו",
                 "urlBookId": 6,
                 "urlSederId": 33,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch33.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch33.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch33.mp3"
+                }
             }
         ]
     },
@@ -1303,7 +1847,11 @@
         "pasuk": "יט",
         "urlBookId": 6,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch10.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1312,7 +1860,11 @@
         "pasuk": "יג",
         "urlBookId": 6,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch11.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1321,7 +1873,11 @@
         "pasuk": "ו",
         "urlBookId": 6,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch12.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1330,7 +1886,11 @@
         "pasuk": "ז",
         "urlBookId": 6,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch13.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1339,7 +1899,11 @@
         "pasuk": "א",
         "urlBookId": 6,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch14.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1348,7 +1912,11 @@
         "pasuk": "ה",
         "urlBookId": 6,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch15.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1357,7 +1925,11 @@
         "pasuk": "ז",
         "urlBookId": 6,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch16.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1366,7 +1938,11 @@
         "pasuk": "ט",
         "urlBookId": 6,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch17.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1375,7 +1951,11 @@
         "pasuk": "לב",
         "urlBookId": 6,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch18.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1384,7 +1964,11 @@
         "pasuk": "כב",
         "urlBookId": 6,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch19.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1393,7 +1977,11 @@
         "pasuk": "טז",
         "urlBookId": 6,
         "urlSederId": 20,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch20.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch20.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch20.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1402,7 +1990,11 @@
         "pasuk": "י",
         "urlBookId": 6,
         "urlSederId": 21,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch21.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch21.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch21.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1411,7 +2003,11 @@
         "pasuk": "כו",
         "urlBookId": 6,
         "urlSederId": 22,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch22.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch22.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch22.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1420,7 +2016,11 @@
         "pasuk": "ח",
         "urlBookId": 6,
         "urlSederId": 23,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch23.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch23.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch23.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1429,7 +2029,11 @@
         "pasuk": "יח",
         "urlBookId": 6,
         "urlSederId": 24,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch24.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch24.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch24.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1438,7 +2042,11 @@
         "pasuk": "יב",
         "urlBookId": 6,
         "urlSederId": 25,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch25.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch25.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch25.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1447,7 +2055,11 @@
         "pasuk": "כ",
         "urlBookId": 6,
         "urlSederId": 26,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch26.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch26.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch26.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1456,7 +2068,11 @@
         "pasuk": "כז",
         "urlBookId": 6,
         "urlSederId": 27,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch27.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch27.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch27.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1465,7 +2081,11 @@
         "pasuk": "ב",
         "urlBookId": 6,
         "urlSederId": 28,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch28.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch28.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch28.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1474,7 +2094,11 @@
         "pasuk": "ה",
         "urlBookId": 6,
         "urlSederId": 29,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch29.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch29.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch29.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1483,7 +2107,11 @@
         "pasuk": "י",
         "urlBookId": 6,
         "urlSederId": 30,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch30.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch30.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch30.mp3"
+        }
     },
     {
         "bookName": "ירמיהו",
@@ -1492,7 +2120,11 @@
         "pasuk": "נט",
         "urlBookId": 6,
         "urlSederId": 31,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch31.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch31.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch31.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1501,7 +2133,11 @@
         "pasuk": "א",
         "urlBookId": 7,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch01.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1510,7 +2146,11 @@
         "pasuk": "יב",
         "urlBookId": 7,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch02.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1519,7 +2159,11 @@
         "pasuk": "א",
         "urlBookId": 7,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch03.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1528,7 +2172,11 @@
         "pasuk": "א",
         "urlBookId": 7,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch04.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1537,7 +2185,11 @@
         "pasuk": "א",
         "urlBookId": 7,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch05.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1546,7 +2198,11 @@
         "pasuk": "כ",
         "urlBookId": 7,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch06.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1555,7 +2211,11 @@
         "pasuk": "א",
         "urlBookId": 7,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch07.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1564,7 +2224,11 @@
         "pasuk": "יד",
         "urlBookId": 7,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch08.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1573,7 +2237,11 @@
         "pasuk": "ס",
         "urlBookId": 7,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch09.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1582,7 +2250,11 @@
         "pasuk": "ט",
         "urlBookId": 7,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch10.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1591,7 +2263,11 @@
         "pasuk": "א",
         "urlBookId": 7,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch11.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1600,7 +2276,11 @@
         "pasuk": "מא",
         "urlBookId": 7,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch12.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1609,7 +2289,11 @@
         "pasuk": "טז",
         "urlBookId": 7,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch13.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1618,7 +2302,11 @@
         "pasuk": "כז",
         "urlBookId": 7,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch14.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1627,7 +2315,11 @@
         "pasuk": "כד",
         "urlBookId": 7,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch15.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1636,7 +2328,11 @@
         "pasuk": "כ",
         "urlBookId": 7,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch16.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1645,7 +2341,11 @@
         "pasuk": "יג",
         "urlBookId": 7,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch17.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1654,7 +2354,11 @@
         "pasuk": "כא",
         "urlBookId": 7,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch18.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1663,7 +2367,11 @@
         "pasuk": "א",
         "urlBookId": 7,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch19.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1672,7 +2380,11 @@
         "pasuk": "טז",
         "urlBookId": 7,
         "urlSederId": 20,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch20.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch20.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch20.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1681,7 +2393,11 @@
         "pasuk": "כו",
         "urlBookId": 7,
         "urlSederId": 21,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch21.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch21.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch21.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1690,7 +2406,11 @@
         "pasuk": "כה",
         "urlBookId": 7,
         "urlSederId": 22,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch22.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch22.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch22.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1699,7 +2419,11 @@
         "pasuk": "כח",
         "urlBookId": 7,
         "urlSederId": 23,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch23.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch23.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch23.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1708,7 +2432,11 @@
         "pasuk": "כב",
         "urlBookId": 7,
         "urlSederId": 24,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch24.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch24.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch24.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1717,7 +2445,11 @@
         "pasuk": "מה",
         "urlBookId": 7,
         "urlSederId": 25,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch25.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch25.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch25.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1726,7 +2458,11 @@
         "pasuk": "יג",
         "urlBookId": 7,
         "urlSederId": 26,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch26.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch26.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch26.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1735,7 +2471,11 @@
         "pasuk": "כז",
         "urlBookId": 7,
         "urlSederId": 27,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch27.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch27.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch27.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1744,7 +2484,11 @@
         "pasuk": "טו",
         "urlBookId": 7,
         "urlSederId": 28,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch28.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch28.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch28.mp3"
+        }
     },
     {
         "bookName": "יחזקאל",
@@ -1753,7 +2497,11 @@
         "pasuk": "יב",
         "urlBookId": 7,
         "urlSederId": 29,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch29.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch29.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch29.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1763,7 +2511,11 @@
         "innerBookName": "הושע",
         "urlBookId": 8,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch01.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1773,7 +2525,11 @@
         "innerBookName": "הושע",
         "urlBookId": 8,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch02.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1783,7 +2539,11 @@
         "innerBookName": "הושע",
         "urlBookId": 8,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch03.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1793,7 +2553,11 @@
         "innerBookName": "הושע",
         "urlBookId": 8,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch04.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1803,7 +2567,11 @@
         "innerBookName": "יואל",
         "urlBookId": 8,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch05.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1813,7 +2581,11 @@
         "innerBookName": "עמוס",
         "urlBookId": 8,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch06.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1823,7 +2595,11 @@
         "innerBookName": "עמוס",
         "urlBookId": 8,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch07.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1833,7 +2609,11 @@
         "innerBookName": "עמוס",
         "urlBookId": 8,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch08.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1843,7 +2623,11 @@
         "innerBookName": "עובדיה",
         "urlBookId": 8,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch09.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1853,7 +2637,11 @@
         "innerBookName": "מיכה",
         "urlBookId": 8,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch10.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1863,7 +2651,11 @@
         "innerBookName": "מיכה",
         "urlBookId": 8,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch11.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1873,7 +2665,11 @@
         "innerBookName": "מיכה",
         "urlBookId": 8,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch12.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1883,7 +2679,11 @@
         "innerBookName": "חבקוק",
         "urlBookId": 8,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch13.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1893,7 +2693,11 @@
         "innerBookName": "צפניה",
         "urlBookId": 8,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch14.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1903,7 +2707,11 @@
         "innerBookName": "צפניה",
         "urlBookId": 8,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch15.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1913,7 +2721,11 @@
         "innerBookName": "חגי",
         "urlBookId": 8,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch16.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1923,7 +2735,11 @@
         "innerBookName": "זכריה",
         "urlBookId": 8,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch17.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1933,7 +2749,11 @@
         "innerBookName": "זכריה",
         "urlBookId": 8,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch18.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1943,7 +2763,11 @@
         "innerBookName": "זכריה",
         "urlBookId": 8,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch19.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1953,7 +2777,11 @@
         "innerBookName": "זכריה",
         "urlBookId": 8,
         "urlSederId": 20,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch20.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch20.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch20.mp3"
+        }
     },
     {
         "bookName": "תרי עשר",
@@ -1963,7 +2791,11 @@
         "innerBookName": "זכריה",
         "urlBookId": 8,
         "urlSederId": 21,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch21.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch21.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch21.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -1972,7 +2804,11 @@
         "pasuk": "א",
         "urlBookId": 9,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch01.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -1981,7 +2817,11 @@
         "pasuk": "ז",
         "urlBookId": 9,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch02.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -1990,7 +2830,11 @@
         "pasuk": "י",
         "urlBookId": 9,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch03.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -1999,7 +2843,11 @@
         "pasuk": "יא",
         "urlBookId": 9,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch04.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2008,7 +2856,11 @@
         "pasuk": "כח",
         "urlBookId": 9,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch05.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2017,7 +2869,11 @@
         "pasuk": "יד",
         "urlBookId": 9,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch06.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2026,7 +2882,11 @@
         "pasuk": "יט",
         "urlBookId": 9,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch07.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2035,7 +2895,11 @@
         "pasuk": "יב",
         "urlBookId": 9,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch08.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2044,7 +2908,11 @@
         "pasuk": "ח",
         "urlBookId": 9,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch09.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2053,7 +2921,11 @@
         "pasuk": "כ",
         "urlBookId": 9,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch10.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2062,7 +2934,11 @@
         "pasuk": "לח",
         "urlBookId": 9,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch11.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2071,7 +2947,11 @@
         "pasuk": "יג",
         "urlBookId": 9,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch12.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2080,7 +2960,11 @@
         "pasuk": "יז",
         "urlBookId": 9,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch13.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2089,7 +2973,11 @@
         "pasuk": "א",
         "urlBookId": 9,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch14.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2098,7 +2986,11 @@
         "pasuk": "מה",
         "urlBookId": 9,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch15.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2107,7 +2999,11 @@
         "pasuk": "י",
         "urlBookId": 9,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch16.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2116,7 +3012,11 @@
         "pasuk": "עב",
         "urlBookId": 9,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch17.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2125,7 +3025,11 @@
         "pasuk": "ו",
         "urlBookId": 9,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch18.mp3"
+        }
     },
     {
         "bookName": "תהלים",
@@ -2134,7 +3038,11 @@
         "pasuk": "יד",
         "urlBookId": 9,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch19.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2143,7 +3051,11 @@
         "pasuk": "א",
         "urlBookId": 10,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch01.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2152,7 +3064,11 @@
         "pasuk": "יח",
         "urlBookId": 10,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch02.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2161,7 +3077,11 @@
         "pasuk": "יא",
         "urlBookId": 10,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch03.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2170,7 +3090,11 @@
         "pasuk": "ד",
         "urlBookId": 10,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch04.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2179,7 +3103,11 @@
         "pasuk": "י",
         "urlBookId": 10,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch05.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2188,7 +3116,11 @@
         "pasuk": "כא",
         "urlBookId": 10,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch06.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2197,7 +3129,11 @@
         "pasuk": "יג",
         "urlBookId": 10,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch07.mp3"
+        }
     },
     {
         "bookName": "משלי",
@@ -2206,7 +3142,11 @@
         "pasuk": "טז",
         "urlBookId": 10,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch08.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2215,7 +3155,11 @@
         "pasuk": "א",
         "urlBookId": 11,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch01.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2224,7 +3168,11 @@
         "pasuk": "כז",
         "urlBookId": 11,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch02.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2233,7 +3181,11 @@
         "pasuk": "יט",
         "urlBookId": 11,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch03.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2242,7 +3194,11 @@
         "pasuk": "ט",
         "urlBookId": 11,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch04.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2251,7 +3207,11 @@
         "pasuk": "ל",
         "urlBookId": 11,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch05.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2260,7 +3220,11 @@
         "pasuk": "יד",
         "urlBookId": 11,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch06.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2269,7 +3233,11 @@
         "pasuk": "לג",
         "urlBookId": 11,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch07.mp3"
+        }
     },
     {
         "bookName": "איוב",
@@ -2278,7 +3246,11 @@
         "pasuk": "לה",
         "urlBookId": 11,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch08.mp3"
+        }
     },
     {
         "bookName": "שיר השירים",
@@ -2287,7 +3259,11 @@
         "pasuk": "א",
         "urlBookId": 12,
         "urlSederId": 1,
-        "urls": {},
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b12_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b12_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b12_ch01.mp3"
+        },
         "splittingOptions": [
             {
                 "bookName": "שיר השירים",
@@ -2296,7 +3272,11 @@
                 "pasuk": "א",
                 "urlBookId": 12,
                 "urlSederId": 2,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b12_ch02.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b12_ch02.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b12_ch02.mp3"
+                }
             },
             {
                 "bookName": "שיר השירים",
@@ -2305,7 +3285,11 @@
                 "pasuk": "ב",
                 "urlBookId": 12,
                 "urlSederId": 3,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b12_ch03.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b12_ch03.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b12_ch03.mp3"
+                }
             }
         ]
     },
@@ -2316,7 +3300,11 @@
         "pasuk": "א",
         "urlBookId": 13,
         "urlSederId": 1,
-        "urls": {},
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b13_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b13_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b13_ch01.mp3"
+        },
         "splittingOptions": [
             {
                 "bookName": "רות",
@@ -2325,7 +3313,11 @@
                 "pasuk": "א",
                 "urlBookId": 13,
                 "urlSederId": 2,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b13_ch02.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b13_ch02.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b13_ch02.mp3"
+                }
             },
             {
                 "bookName": "רות",
@@ -2334,7 +3326,11 @@
                 "pasuk": "יב",
                 "urlBookId": 13,
                 "urlSederId": 3,
-                "urls": {}
+                "urls": {
+                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b13_ch03.html",
+                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b13_ch03.html",
+                    "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b13_ch03.mp3"
+                }
             }
         ]
     },
@@ -2345,7 +3341,11 @@
         "pasuk": "א",
         "urlBookId": 14,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b14_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b14_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b14_ch01.mp3"
+        }
     },
     {
         "bookName": "קהלת",
@@ -2354,7 +3354,11 @@
         "pasuk": "א",
         "urlBookId": 15,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch01.mp3"
+        }
     },
     {
         "bookName": "קהלת",
@@ -2363,7 +3367,11 @@
         "pasuk": "יג",
         "urlBookId": 15,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch02.mp3"
+        }
     },
     {
         "bookName": "קהלת",
@@ -2372,7 +3380,11 @@
         "pasuk": "א",
         "urlBookId": 15,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch03.mp3"
+        }
     },
     {
         "bookName": "קהלת",
@@ -2381,7 +3393,11 @@
         "pasuk": "ז",
         "urlBookId": 15,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch04.mp3"
+        }
     },
     {
         "bookName": "אסתר",
@@ -2390,7 +3406,11 @@
         "pasuk": "א",
         "urlBookId": 16,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch01.mp3"
+        }
     },
     {
         "bookName": "אסתר",
@@ -2399,7 +3419,11 @@
         "pasuk": "ה",
         "urlBookId": 16,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch02.mp3"
+        }
     },
     {
         "bookName": "אסתר",
@@ -2408,7 +3432,11 @@
         "pasuk": "ח",
         "urlBookId": 16,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch03.mp3"
+        }
     },
     {
         "bookName": "אסתר",
@@ -2417,7 +3445,11 @@
         "pasuk": "יא",
         "urlBookId": 16,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch04.mp3"
+        }
     },
     {
         "bookName": "אסתר",
@@ -2426,7 +3458,11 @@
         "pasuk": "טז",
         "urlBookId": 16,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch05.mp3"
+        }
     },
     {
         "bookName": "דניאל",
@@ -2435,7 +3471,11 @@
         "pasuk": "א",
         "urlBookId": 17,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch01.mp3"
+        }
     },
     {
         "bookName": "דניאל",
@@ -2444,7 +3484,11 @@
         "pasuk": "לה",
         "urlBookId": 17,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch02.mp3"
+        }
     },
     {
         "bookName": "דניאל",
@@ -2453,7 +3497,11 @@
         "pasuk": "ל",
         "urlBookId": 17,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch03.mp3"
+        }
     },
     {
         "bookName": "דניאל",
@@ -2462,7 +3510,11 @@
         "pasuk": "יב",
         "urlBookId": 17,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch04.mp3"
+        }
     },
     {
         "bookName": "דניאל",
@@ -2471,7 +3523,11 @@
         "pasuk": "יא",
         "urlBookId": 17,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch05.mp3"
+        }
     },
     {
         "bookName": "דניאל",
@@ -2480,7 +3536,11 @@
         "pasuk": "ד",
         "urlBookId": 17,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch06.mp3"
+        }
     },
     {
         "bookName": "דניאל",
@@ -2489,7 +3549,11 @@
         "pasuk": "כא",
         "urlBookId": 17,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch07.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2499,7 +3563,11 @@
         "innerBookName": "עזרא",
         "urlBookId": 18,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch01.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2509,7 +3577,11 @@
         "innerBookName": "עזרא",
         "urlBookId": 18,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch02.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2519,7 +3591,11 @@
         "innerBookName": "עזרא",
         "urlBookId": 18,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch03.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2529,7 +3605,11 @@
         "innerBookName": "עזרא",
         "urlBookId": 18,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch04.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2539,7 +3619,11 @@
         "innerBookName": "נחמיה",
         "urlBookId": 18,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch05.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2549,7 +3633,11 @@
         "innerBookName": "נחמיה",
         "urlBookId": 18,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch06.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2559,7 +3647,11 @@
         "innerBookName": "נחמיה",
         "urlBookId": 18,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch07.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2569,7 +3661,11 @@
         "innerBookName": "נחמיה",
         "urlBookId": 18,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch08.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2579,7 +3675,11 @@
         "innerBookName": "נחמיה",
         "urlBookId": 18,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch09.mp3"
+        }
     },
     {
         "bookName": "עזרא ונחמיה",
@@ -2589,7 +3689,11 @@
         "innerBookName": "נחמיה",
         "urlBookId": 18,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch10.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2599,7 +3703,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 1,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch01.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch01.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch01.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2609,7 +3717,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 2,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch02.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch02.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch02.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2619,7 +3731,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 3,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch03.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch03.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch03.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2629,7 +3745,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 4,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch04.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch04.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch04.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2639,7 +3759,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 5,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch05.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch05.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch05.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2649,7 +3773,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 6,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch06.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch06.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch06.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2659,7 +3787,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 7,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch07.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch07.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch07.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2669,7 +3801,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 8,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch08.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch08.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch08.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2679,7 +3815,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 9,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch09.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch09.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch09.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2689,7 +3829,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 10,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch10.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch10.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch10.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2699,7 +3843,11 @@
         "innerBookName": "א",
         "urlBookId": 19,
         "urlSederId": 11,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch11.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch11.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch11.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2709,7 +3857,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 12,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch12.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch12.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch12.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2719,7 +3871,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 13,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch13.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch13.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch13.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2729,7 +3885,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 14,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch14.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch14.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch14.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2739,7 +3899,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 15,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch15.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch15.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch15.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2749,7 +3913,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 16,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch16.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch16.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch16.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2759,7 +3927,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 17,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch17.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch17.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch17.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2769,7 +3941,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 18,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch18.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch18.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch18.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2779,7 +3955,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 19,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch19.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch19.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch19.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2789,7 +3969,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 20,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch20.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch20.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch20.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2799,7 +3983,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 21,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch21.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch21.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch21.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2809,7 +3997,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 22,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch22.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch22.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch22.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2819,7 +4011,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 23,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch23.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch23.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch23.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2829,7 +4025,11 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 24,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch24.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch24.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch24.mp3"
+        }
     },
     {
         "bookName": "דברי הימים",
@@ -2839,6 +4039,10 @@
         "innerBookName": "ב",
         "urlBookId": 19,
         "urlSederId": 25,
-        "urls": {}
+        "urls": {
+            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch25.html",
+            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch25.html",
+            "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch25.mp3"
+        }
     }
 ]

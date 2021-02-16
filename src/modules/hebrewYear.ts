@@ -82,7 +82,8 @@ function getYearByWeeksAndWeekdays(year) {
 
         currWeek[currDay.getDay()] = new Day(
             getHebrewRepresentation(currDay),
-            getGregRepresentation(currDay)
+            getGregRepresentation(currDay),
+            currDay.greg()
         )
 
         // if curr day is a holiday
