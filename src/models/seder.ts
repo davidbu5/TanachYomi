@@ -7,17 +7,25 @@ export class Seder {
         public perek: string,
         public pasuk: string,
         public innerBookName?: string,
+
+        public urlBookId?: number,
+        public urlSederId?: number,
+        public urls?: {
+            "plain": string,
+            "teamim": string,
+            "voice": string
+        }
     ) {
 
     }
 
     toNotMesoraString() {
         let bookName = this.bookName;
-        
+
         if (this.innerBookName) {
             if (this.innerBookName.length === 1) {
                 const bookShortName = this.bookName === "דברי הימים" ?
-                                            "דבהי" : this.bookName.slice(0, 3)
+                    "דבהי" : this.bookName.slice(0, 3)
                 bookName = bookShortName + "'" + this.innerBookName
             } else {
                 bookName = this.innerBookName
@@ -25,7 +33,7 @@ export class Seder {
         }
         return `${bookName} ${this.perek} ${this.pasuk}`
     }
-    
+
     static fromRawSeder(rawSeder: RawSeder) {
 
         const seder = new Seder(
@@ -33,9 +41,12 @@ export class Seder {
             rawSeder.sederInBook,
             rawSeder.perek,
             rawSeder.pasuk,
-            rawSeder.innerBookName
+            rawSeder.innerBookName,
+            rawSeder.urlBookId,
+            rawSeder.urlSederId,
+            rawSeder.urls
         )
-        
+
         return seder;
     }
 }
