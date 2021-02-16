@@ -11,10 +11,7 @@ export function createIcal(weeks: Day[][], yearNum?: number) {
                 start: moment(d.gregDate),
                 allDay: true,
                 summary: `${d.seder.bookName} ס' ${d.seder.sederInBook}`,
-                description: `${d.seder.bookName} ס' ${d.seder.sederInBook}\n
-                לקריאת הסדר: ${d.seder.urls.plain}\n
-                לקריאת הסדר בטעמים: ${d.seder.urls.teamim}\n
-                לשמיעת הסדר: ${d.seder.urls.voice}`,
+                description: `${d.seder.bookName} ס' ${d.seder.sederInBook}\nלקריאת הסדר: ${d.seder.urls.plain}\nלקריאת הסדר בטעמים: ${d.seder.urls.teamim}\nלשמיעת הסדר: ${d.seder.urls.voice}`,
                 url: d.seder.urls.plain
             });
 
