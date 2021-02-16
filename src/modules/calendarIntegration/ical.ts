@@ -6,7 +6,7 @@ export function createIcal(weeks: Day[][], yearNum?: number) {
     const cal = ical({name: `Tanach Yomi ${yearNum}`});
     weeks.forEach(w => {
         w.forEach(d => {
-
+            if (d)
             cal.createEvent({
                 start: moment(d.gregDate),
                 allDay: true,
