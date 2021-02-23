@@ -60,8 +60,8 @@ class RawSeder {
         const b = getNumberStr(bookNum);
         const l = getNumberStr(lineNum);
         return {
-            plain: `https://www.tanachyomi.co.il/pagesTanach/b${b}_ch${l}.html`,
-            teamim: `https://www.tanachyomi.co.il/pagesTanachTeamim/b${b}_ch${l}.html`,
+            plain: `https://www.tanachyomi.co.il/b=${b}&s=${l}`,
+            teamim: `https://www.tanachyomi.co.il/b=${b}&s=${l}&t=1`,
             voice: `https://www.tanachyomi.co.il/pagesTanachVoice/b${b}_ch${l}.mp3`
         };
     }

@@ -7,8 +7,8 @@
         "urlBookId": 1,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch01.mp3"
         }
     },
@@ -20,8 +20,8 @@
         "urlBookId": 1,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch02.mp3"
         }
     },
@@ -33,8 +33,8 @@
         "urlBookId": 1,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch03.mp3"
         }
     },
@@ -46,8 +46,8 @@
         "urlBookId": 1,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch04.mp3"
         },
         "splittingOptions": [
@@ -59,8 +59,8 @@
                 "urlBookId": 1,
                 "urlSederId": 15,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch15.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch15.html",
+                    "plain": "https://www.tanachyomi.co.il/b=01&s=15",
+                    "teamim": "https://www.tanachyomi.co.il/b=01&s=15&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch15.mp3"
                 }
             },
@@ -72,8 +72,8 @@
                 "urlBookId": 1,
                 "urlSederId": 16,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch16.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch16.html",
+                    "plain": "https://www.tanachyomi.co.il/b=01&s=16",
+                    "teamim": "https://www.tanachyomi.co.il/b=01&s=16&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch16.mp3"
                 }
             }
@@ -87,8 +87,8 @@
         "urlBookId": 1,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch05.mp3"
         }
     },
@@ -100,8 +100,8 @@
         "urlBookId": 1,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch06.mp3"
         }
     },
@@ -113,8 +113,8 @@
         "urlBookId": 1,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch07.mp3"
         }
     },
@@ -126,8 +126,8 @@
         "urlBookId": 1,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch08.mp3"
         }
     },
@@ -139,8 +139,8 @@
         "urlBookId": 1,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch09.mp3"
         }
     },
@@ -152,8 +152,8 @@
         "urlBookId": 1,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch10.mp3"
         }
     },
@@ -165,8 +165,8 @@
         "urlBookId": 1,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch11.mp3"
         }
     },
@@ -178,8 +178,8 @@
         "urlBookId": 1,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch12.mp3"
         }
     },
@@ -191,8 +191,8 @@
         "urlBookId": 1,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch13.mp3"
         }
     },
@@ -204,8 +204,8 @@
         "urlBookId": 1,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b01_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b01_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=01&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=01&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b01_ch14.mp3"
         }
     },
@@ -217,8 +217,8 @@
         "urlBookId": 2,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch01.mp3"
         }
     },
@@ -230,8 +230,8 @@
         "urlBookId": 2,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch02.mp3"
         }
     },
@@ -243,8 +243,8 @@
         "urlBookId": 2,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch03.mp3"
         }
     },
@@ -256,8 +256,8 @@
         "urlBookId": 2,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch04.mp3"
         }
     },
@@ -269,8 +269,8 @@
         "urlBookId": 2,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch05.mp3"
         }
     },
@@ -282,8 +282,8 @@
         "urlBookId": 2,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch06.mp3"
         }
     },
@@ -295,8 +295,8 @@
         "urlBookId": 2,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch07.mp3"
         }
     },
@@ -308,8 +308,8 @@
         "urlBookId": 2,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch08.mp3"
         }
     },
@@ -321,8 +321,8 @@
         "urlBookId": 2,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch09.mp3"
         }
     },
@@ -334,8 +334,8 @@
         "urlBookId": 2,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch10.mp3"
         }
     },
@@ -347,8 +347,8 @@
         "urlBookId": 2,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch11.mp3"
         }
     },
@@ -360,8 +360,8 @@
         "urlBookId": 2,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch12.mp3"
         }
     },
@@ -373,8 +373,8 @@
         "urlBookId": 2,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch13.mp3"
         }
     },
@@ -386,8 +386,8 @@
         "urlBookId": 2,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b02_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b02_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=02&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=02&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b02_ch14.mp3"
         }
     },
@@ -400,8 +400,8 @@
         "urlBookId": 3,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch01.mp3"
         }
     },
@@ -414,8 +414,8 @@
         "urlBookId": 3,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch02.mp3"
         }
     },
@@ -428,8 +428,8 @@
         "urlBookId": 3,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch03.mp3"
         }
     },
@@ -442,8 +442,8 @@
         "urlBookId": 3,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch04.mp3"
         }
     },
@@ -456,8 +456,8 @@
         "urlBookId": 3,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch05.mp3"
         }
     },
@@ -470,8 +470,8 @@
         "urlBookId": 3,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch06.mp3"
         }
     },
@@ -484,8 +484,8 @@
         "urlBookId": 3,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch07.mp3"
         }
     },
@@ -498,8 +498,8 @@
         "urlBookId": 3,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch08.mp3"
         }
     },
@@ -512,8 +512,8 @@
         "urlBookId": 3,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch09.mp3"
         }
     },
@@ -526,8 +526,8 @@
         "urlBookId": 3,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch10.mp3"
         }
     },
@@ -540,8 +540,8 @@
         "urlBookId": 3,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch11.mp3"
         }
     },
@@ -554,8 +554,8 @@
         "urlBookId": 3,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch12.mp3"
         }
     },
@@ -568,8 +568,8 @@
         "urlBookId": 3,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch13.mp3"
         }
     },
@@ -582,8 +582,8 @@
         "urlBookId": 3,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch14.mp3"
         }
     },
@@ -596,8 +596,8 @@
         "urlBookId": 3,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch15.mp3"
         }
     },
@@ -610,8 +610,8 @@
         "urlBookId": 3,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch16.mp3"
         }
     },
@@ -624,8 +624,8 @@
         "urlBookId": 3,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch17.mp3"
         }
     },
@@ -638,8 +638,8 @@
         "urlBookId": 3,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch18.mp3"
         }
     },
@@ -652,8 +652,8 @@
         "urlBookId": 3,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch19.mp3"
         }
     },
@@ -666,8 +666,8 @@
         "urlBookId": 3,
         "urlSederId": 20,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch20.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch20.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=20",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=20&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch20.mp3"
         }
     },
@@ -680,8 +680,8 @@
         "urlBookId": 3,
         "urlSederId": 21,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch21.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch21.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=21",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=21&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch21.mp3"
         }
     },
@@ -694,8 +694,8 @@
         "urlBookId": 3,
         "urlSederId": 22,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch22.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch22.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=22",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=22&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch22.mp3"
         }
     },
@@ -708,8 +708,8 @@
         "urlBookId": 3,
         "urlSederId": 23,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch23.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch23.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=23",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=23&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch23.mp3"
         }
     },
@@ -722,8 +722,8 @@
         "urlBookId": 3,
         "urlSederId": 24,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch24.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch24.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=24",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=24&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch24.mp3"
         }
     },
@@ -736,8 +736,8 @@
         "urlBookId": 3,
         "urlSederId": 25,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch25.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch25.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=25",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=25&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch25.mp3"
         }
     },
@@ -750,8 +750,8 @@
         "urlBookId": 3,
         "urlSederId": 26,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch26.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch26.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=26",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=26&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch26.mp3"
         }
     },
@@ -764,8 +764,8 @@
         "urlBookId": 3,
         "urlSederId": 27,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch27.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch27.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=27",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=27&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch27.mp3"
         }
     },
@@ -778,8 +778,8 @@
         "urlBookId": 3,
         "urlSederId": 28,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch28.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch28.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=28",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=28&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch28.mp3"
         }
     },
@@ -792,8 +792,8 @@
         "urlBookId": 3,
         "urlSederId": 29,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch29.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch29.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=29",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=29&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch29.mp3"
         }
     },
@@ -806,8 +806,8 @@
         "urlBookId": 3,
         "urlSederId": 30,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch30.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch30.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=30",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=30&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch30.mp3"
         }
     },
@@ -820,8 +820,8 @@
         "urlBookId": 3,
         "urlSederId": 31,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch31.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch31.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=31",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=31&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch31.mp3"
         }
     },
@@ -834,8 +834,8 @@
         "urlBookId": 3,
         "urlSederId": 32,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch32.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch32.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=32",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=32&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch32.mp3"
         }
     },
@@ -848,8 +848,8 @@
         "urlBookId": 3,
         "urlSederId": 33,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch33.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch33.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=33",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=33&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch33.mp3"
         }
     },
@@ -862,8 +862,8 @@
         "urlBookId": 3,
         "urlSederId": 34,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b03_ch34.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b03_ch34.html",
+            "plain": "https://www.tanachyomi.co.il/b=03&s=34",
+            "teamim": "https://www.tanachyomi.co.il/b=03&s=34&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b03_ch34.mp3"
         }
     },
@@ -876,8 +876,8 @@
         "urlBookId": 4,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch01.mp3"
         }
     },
@@ -890,8 +890,8 @@
         "urlBookId": 4,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch02.mp3"
         }
     },
@@ -904,8 +904,8 @@
         "urlBookId": 4,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch03.mp3"
         }
     },
@@ -918,8 +918,8 @@
         "urlBookId": 4,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch04.mp3"
         }
     },
@@ -932,8 +932,8 @@
         "urlBookId": 4,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch05.mp3"
         }
     },
@@ -946,8 +946,8 @@
         "urlBookId": 4,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch06.mp3"
         }
     },
@@ -960,8 +960,8 @@
         "urlBookId": 4,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch07.mp3"
         }
     },
@@ -974,8 +974,8 @@
         "urlBookId": 4,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch08.mp3"
         }
     },
@@ -988,8 +988,8 @@
         "urlBookId": 4,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch09.mp3"
         }
     },
@@ -1002,8 +1002,8 @@
         "urlBookId": 4,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch10.mp3"
         }
     },
@@ -1016,8 +1016,8 @@
         "urlBookId": 4,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch11.mp3"
         }
     },
@@ -1030,8 +1030,8 @@
         "urlBookId": 4,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch12.mp3"
         }
     },
@@ -1044,8 +1044,8 @@
         "urlBookId": 4,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch13.mp3"
         }
     },
@@ -1058,8 +1058,8 @@
         "urlBookId": 4,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch14.mp3"
         }
     },
@@ -1072,8 +1072,8 @@
         "urlBookId": 4,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch15.mp3"
         }
     },
@@ -1086,8 +1086,8 @@
         "urlBookId": 4,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch16.mp3"
         }
     },
@@ -1100,8 +1100,8 @@
         "urlBookId": 4,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch17.mp3"
         }
     },
@@ -1114,8 +1114,8 @@
         "urlBookId": 4,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch18.mp3"
         }
     },
@@ -1128,8 +1128,8 @@
         "urlBookId": 4,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch19.mp3"
         }
     },
@@ -1142,8 +1142,8 @@
         "urlBookId": 4,
         "urlSederId": 20,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch20.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch20.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=20",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=20&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch20.mp3"
         }
     },
@@ -1156,8 +1156,8 @@
         "urlBookId": 4,
         "urlSederId": 21,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch21.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch21.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=21",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=21&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch21.mp3"
         }
     },
@@ -1170,8 +1170,8 @@
         "urlBookId": 4,
         "urlSederId": 22,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch22.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch22.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=22",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=22&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch22.mp3"
         }
     },
@@ -1184,8 +1184,8 @@
         "urlBookId": 4,
         "urlSederId": 23,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch23.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch23.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=23",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=23&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch23.mp3"
         }
     },
@@ -1198,8 +1198,8 @@
         "urlBookId": 4,
         "urlSederId": 24,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch24.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch24.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=24",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=24&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch24.mp3"
         }
     },
@@ -1212,8 +1212,8 @@
         "urlBookId": 4,
         "urlSederId": 25,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch25.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch25.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=25",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=25&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch25.mp3"
         }
     },
@@ -1226,8 +1226,8 @@
         "urlBookId": 4,
         "urlSederId": 26,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch26.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch26.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=26",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=26&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch26.mp3"
         }
     },
@@ -1240,8 +1240,8 @@
         "urlBookId": 4,
         "urlSederId": 27,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch27.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch27.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=27",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=27&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch27.mp3"
         }
     },
@@ -1254,8 +1254,8 @@
         "urlBookId": 4,
         "urlSederId": 28,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch28.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch28.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=28",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=28&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch28.mp3"
         }
     },
@@ -1268,8 +1268,8 @@
         "urlBookId": 4,
         "urlSederId": 29,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch29.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch29.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=29",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=29&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch29.mp3"
         }
     },
@@ -1282,8 +1282,8 @@
         "urlBookId": 4,
         "urlSederId": 30,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch30.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch30.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=30",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=30&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch30.mp3"
         }
     },
@@ -1296,8 +1296,8 @@
         "urlBookId": 4,
         "urlSederId": 31,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch31.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch31.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=31",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=31&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch31.mp3"
         }
     },
@@ -1310,8 +1310,8 @@
         "urlBookId": 4,
         "urlSederId": 32,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch32.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch32.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=32",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=32&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch32.mp3"
         }
     },
@@ -1324,8 +1324,8 @@
         "urlBookId": 4,
         "urlSederId": 33,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch33.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch33.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=33",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=33&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch33.mp3"
         }
     },
@@ -1338,8 +1338,8 @@
         "urlBookId": 4,
         "urlSederId": 34,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch34.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch34.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=34",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=34&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch34.mp3"
         }
     },
@@ -1352,8 +1352,8 @@
         "urlBookId": 4,
         "urlSederId": 35,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b04_ch35.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b04_ch35.html",
+            "plain": "https://www.tanachyomi.co.il/b=04&s=35",
+            "teamim": "https://www.tanachyomi.co.il/b=04&s=35&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b04_ch35.mp3"
         }
     },
@@ -1365,8 +1365,8 @@
         "urlBookId": 5,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch01.mp3"
         }
     },
@@ -1378,8 +1378,8 @@
         "urlBookId": 5,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch02.mp3"
         }
     },
@@ -1391,8 +1391,8 @@
         "urlBookId": 5,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch03.mp3"
         }
     },
@@ -1404,8 +1404,8 @@
         "urlBookId": 5,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch04.mp3"
         }
     },
@@ -1417,8 +1417,8 @@
         "urlBookId": 5,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch05.mp3"
         }
     },
@@ -1430,8 +1430,8 @@
         "urlBookId": 5,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch06.mp3"
         }
     },
@@ -1443,8 +1443,8 @@
         "urlBookId": 5,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch07.mp3"
         }
     },
@@ -1456,8 +1456,8 @@
         "urlBookId": 5,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch08.mp3"
         }
     },
@@ -1469,8 +1469,8 @@
         "urlBookId": 5,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch09.mp3"
         }
     },
@@ -1482,8 +1482,8 @@
         "urlBookId": 5,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch10.mp3"
         }
     },
@@ -1495,8 +1495,8 @@
         "urlBookId": 5,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch11.mp3"
         }
     },
@@ -1508,8 +1508,8 @@
         "urlBookId": 5,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch12.mp3"
         }
     },
@@ -1521,8 +1521,8 @@
         "urlBookId": 5,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch13.mp3"
         }
     },
@@ -1534,8 +1534,8 @@
         "urlBookId": 5,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch14.mp3"
         }
     },
@@ -1547,8 +1547,8 @@
         "urlBookId": 5,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch15.mp3"
         }
     },
@@ -1560,8 +1560,8 @@
         "urlBookId": 5,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch16.mp3"
         }
     },
@@ -1573,8 +1573,8 @@
         "urlBookId": 5,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch17.mp3"
         }
     },
@@ -1586,8 +1586,8 @@
         "urlBookId": 5,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch18.mp3"
         }
     },
@@ -1599,8 +1599,8 @@
         "urlBookId": 5,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch19.mp3"
         }
     },
@@ -1612,8 +1612,8 @@
         "urlBookId": 5,
         "urlSederId": 20,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch20.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch20.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=20",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=20&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch20.mp3"
         }
     },
@@ -1625,8 +1625,8 @@
         "urlBookId": 5,
         "urlSederId": 21,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch21.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch21.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=21",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=21&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch21.mp3"
         }
     },
@@ -1638,8 +1638,8 @@
         "urlBookId": 5,
         "urlSederId": 22,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch22.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch22.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=22",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=22&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch22.mp3"
         }
     },
@@ -1651,8 +1651,8 @@
         "urlBookId": 5,
         "urlSederId": 23,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch23.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch23.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=23",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=23&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch23.mp3"
         }
     },
@@ -1664,8 +1664,8 @@
         "urlBookId": 5,
         "urlSederId": 24,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch24.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch24.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=24",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=24&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch24.mp3"
         }
     },
@@ -1677,8 +1677,8 @@
         "urlBookId": 5,
         "urlSederId": 25,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch25.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch25.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=25",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=25&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch25.mp3"
         }
     },
@@ -1690,8 +1690,8 @@
         "urlBookId": 5,
         "urlSederId": 26,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b05_ch26.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b05_ch26.html",
+            "plain": "https://www.tanachyomi.co.il/b=05&s=26",
+            "teamim": "https://www.tanachyomi.co.il/b=05&s=26&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b05_ch26.mp3"
         }
     },
@@ -1703,8 +1703,8 @@
         "urlBookId": 6,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch01.mp3"
         }
     },
@@ -1716,8 +1716,8 @@
         "urlBookId": 6,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch02.mp3"
         }
     },
@@ -1729,8 +1729,8 @@
         "urlBookId": 6,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch03.mp3"
         }
     },
@@ -1742,8 +1742,8 @@
         "urlBookId": 6,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch04.mp3"
         }
     },
@@ -1755,8 +1755,8 @@
         "urlBookId": 6,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch05.mp3"
         }
     },
@@ -1768,8 +1768,8 @@
         "urlBookId": 6,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch06.mp3"
         }
     },
@@ -1781,8 +1781,8 @@
         "urlBookId": 6,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch07.mp3"
         }
     },
@@ -1794,8 +1794,8 @@
         "urlBookId": 6,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch08.mp3"
         }
     },
@@ -1807,8 +1807,8 @@
         "urlBookId": 6,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch09.mp3"
         },
         "splittingOptions": [
@@ -1820,8 +1820,8 @@
                 "urlBookId": 6,
                 "urlSederId": 32,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch32.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch32.html",
+                    "plain": "https://www.tanachyomi.co.il/b=06&s=32",
+                    "teamim": "https://www.tanachyomi.co.il/b=06&s=32&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch32.mp3"
                 }
             },
@@ -1833,8 +1833,8 @@
                 "urlBookId": 6,
                 "urlSederId": 33,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch33.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch33.html",
+                    "plain": "https://www.tanachyomi.co.il/b=06&s=33",
+                    "teamim": "https://www.tanachyomi.co.il/b=06&s=33&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch33.mp3"
                 }
             }
@@ -1848,8 +1848,8 @@
         "urlBookId": 6,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch10.mp3"
         }
     },
@@ -1861,8 +1861,8 @@
         "urlBookId": 6,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch11.mp3"
         }
     },
@@ -1874,8 +1874,8 @@
         "urlBookId": 6,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch12.mp3"
         }
     },
@@ -1887,8 +1887,8 @@
         "urlBookId": 6,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch13.mp3"
         }
     },
@@ -1900,8 +1900,8 @@
         "urlBookId": 6,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch14.mp3"
         }
     },
@@ -1913,8 +1913,8 @@
         "urlBookId": 6,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch15.mp3"
         }
     },
@@ -1926,8 +1926,8 @@
         "urlBookId": 6,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch16.mp3"
         }
     },
@@ -1939,8 +1939,8 @@
         "urlBookId": 6,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch17.mp3"
         }
     },
@@ -1952,8 +1952,8 @@
         "urlBookId": 6,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch18.mp3"
         }
     },
@@ -1965,8 +1965,8 @@
         "urlBookId": 6,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch19.mp3"
         }
     },
@@ -1978,8 +1978,8 @@
         "urlBookId": 6,
         "urlSederId": 20,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch20.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch20.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=20",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=20&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch20.mp3"
         }
     },
@@ -1991,8 +1991,8 @@
         "urlBookId": 6,
         "urlSederId": 21,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch21.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch21.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=21",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=21&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch21.mp3"
         }
     },
@@ -2004,8 +2004,8 @@
         "urlBookId": 6,
         "urlSederId": 22,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch22.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch22.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=22",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=22&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch22.mp3"
         }
     },
@@ -2017,8 +2017,8 @@
         "urlBookId": 6,
         "urlSederId": 23,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch23.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch23.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=23",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=23&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch23.mp3"
         }
     },
@@ -2030,8 +2030,8 @@
         "urlBookId": 6,
         "urlSederId": 24,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch24.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch24.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=24",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=24&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch24.mp3"
         }
     },
@@ -2043,8 +2043,8 @@
         "urlBookId": 6,
         "urlSederId": 25,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch25.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch25.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=25",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=25&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch25.mp3"
         }
     },
@@ -2056,8 +2056,8 @@
         "urlBookId": 6,
         "urlSederId": 26,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch26.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch26.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=26",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=26&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch26.mp3"
         }
     },
@@ -2069,8 +2069,8 @@
         "urlBookId": 6,
         "urlSederId": 27,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch27.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch27.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=27",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=27&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch27.mp3"
         }
     },
@@ -2082,8 +2082,8 @@
         "urlBookId": 6,
         "urlSederId": 28,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch28.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch28.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=28",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=28&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch28.mp3"
         }
     },
@@ -2095,8 +2095,8 @@
         "urlBookId": 6,
         "urlSederId": 29,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch29.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch29.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=29",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=29&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch29.mp3"
         }
     },
@@ -2108,8 +2108,8 @@
         "urlBookId": 6,
         "urlSederId": 30,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch30.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch30.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=30",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=30&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch30.mp3"
         }
     },
@@ -2121,8 +2121,8 @@
         "urlBookId": 6,
         "urlSederId": 31,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b06_ch31.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b06_ch31.html",
+            "plain": "https://www.tanachyomi.co.il/b=06&s=31",
+            "teamim": "https://www.tanachyomi.co.il/b=06&s=31&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b06_ch31.mp3"
         }
     },
@@ -2134,8 +2134,8 @@
         "urlBookId": 7,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch01.mp3"
         }
     },
@@ -2147,8 +2147,8 @@
         "urlBookId": 7,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch02.mp3"
         }
     },
@@ -2160,8 +2160,8 @@
         "urlBookId": 7,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch03.mp3"
         }
     },
@@ -2173,8 +2173,8 @@
         "urlBookId": 7,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch04.mp3"
         }
     },
@@ -2186,8 +2186,8 @@
         "urlBookId": 7,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch05.mp3"
         }
     },
@@ -2199,8 +2199,8 @@
         "urlBookId": 7,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch06.mp3"
         }
     },
@@ -2212,8 +2212,8 @@
         "urlBookId": 7,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch07.mp3"
         }
     },
@@ -2225,8 +2225,8 @@
         "urlBookId": 7,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch08.mp3"
         }
     },
@@ -2238,8 +2238,8 @@
         "urlBookId": 7,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch09.mp3"
         }
     },
@@ -2251,8 +2251,8 @@
         "urlBookId": 7,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch10.mp3"
         }
     },
@@ -2264,8 +2264,8 @@
         "urlBookId": 7,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch11.mp3"
         }
     },
@@ -2277,8 +2277,8 @@
         "urlBookId": 7,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch12.mp3"
         }
     },
@@ -2290,8 +2290,8 @@
         "urlBookId": 7,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch13.mp3"
         }
     },
@@ -2303,8 +2303,8 @@
         "urlBookId": 7,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch14.mp3"
         }
     },
@@ -2316,8 +2316,8 @@
         "urlBookId": 7,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch15.mp3"
         }
     },
@@ -2329,8 +2329,8 @@
         "urlBookId": 7,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch16.mp3"
         }
     },
@@ -2342,8 +2342,8 @@
         "urlBookId": 7,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch17.mp3"
         }
     },
@@ -2355,8 +2355,8 @@
         "urlBookId": 7,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch18.mp3"
         }
     },
@@ -2368,8 +2368,8 @@
         "urlBookId": 7,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch19.mp3"
         }
     },
@@ -2381,8 +2381,8 @@
         "urlBookId": 7,
         "urlSederId": 20,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch20.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch20.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=20",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=20&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch20.mp3"
         }
     },
@@ -2394,8 +2394,8 @@
         "urlBookId": 7,
         "urlSederId": 21,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch21.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch21.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=21",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=21&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch21.mp3"
         }
     },
@@ -2407,8 +2407,8 @@
         "urlBookId": 7,
         "urlSederId": 22,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch22.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch22.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=22",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=22&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch22.mp3"
         }
     },
@@ -2420,8 +2420,8 @@
         "urlBookId": 7,
         "urlSederId": 23,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch23.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch23.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=23",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=23&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch23.mp3"
         }
     },
@@ -2433,8 +2433,8 @@
         "urlBookId": 7,
         "urlSederId": 24,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch24.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch24.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=24",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=24&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch24.mp3"
         }
     },
@@ -2446,8 +2446,8 @@
         "urlBookId": 7,
         "urlSederId": 25,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch25.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch25.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=25",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=25&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch25.mp3"
         }
     },
@@ -2459,8 +2459,8 @@
         "urlBookId": 7,
         "urlSederId": 26,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch26.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch26.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=26",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=26&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch26.mp3"
         }
     },
@@ -2472,8 +2472,8 @@
         "urlBookId": 7,
         "urlSederId": 27,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch27.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch27.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=27",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=27&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch27.mp3"
         }
     },
@@ -2485,8 +2485,8 @@
         "urlBookId": 7,
         "urlSederId": 28,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch28.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch28.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=28",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=28&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch28.mp3"
         }
     },
@@ -2498,8 +2498,8 @@
         "urlBookId": 7,
         "urlSederId": 29,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b07_ch29.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b07_ch29.html",
+            "plain": "https://www.tanachyomi.co.il/b=07&s=29",
+            "teamim": "https://www.tanachyomi.co.il/b=07&s=29&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b07_ch29.mp3"
         }
     },
@@ -2512,8 +2512,8 @@
         "urlBookId": 8,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch01.mp3"
         }
     },
@@ -2526,8 +2526,8 @@
         "urlBookId": 8,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch02.mp3"
         }
     },
@@ -2540,8 +2540,8 @@
         "urlBookId": 8,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch03.mp3"
         }
     },
@@ -2554,8 +2554,8 @@
         "urlBookId": 8,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch04.mp3"
         }
     },
@@ -2568,8 +2568,8 @@
         "urlBookId": 8,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch05.mp3"
         }
     },
@@ -2582,8 +2582,8 @@
         "urlBookId": 8,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch06.mp3"
         }
     },
@@ -2596,8 +2596,8 @@
         "urlBookId": 8,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch07.mp3"
         }
     },
@@ -2610,8 +2610,8 @@
         "urlBookId": 8,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch08.mp3"
         }
     },
@@ -2624,8 +2624,8 @@
         "urlBookId": 8,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch09.mp3"
         }
     },
@@ -2638,8 +2638,8 @@
         "urlBookId": 8,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch10.mp3"
         }
     },
@@ -2652,8 +2652,8 @@
         "urlBookId": 8,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch11.mp3"
         }
     },
@@ -2666,8 +2666,8 @@
         "urlBookId": 8,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch12.mp3"
         }
     },
@@ -2680,8 +2680,8 @@
         "urlBookId": 8,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch13.mp3"
         }
     },
@@ -2694,8 +2694,8 @@
         "urlBookId": 8,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch14.mp3"
         }
     },
@@ -2708,8 +2708,8 @@
         "urlBookId": 8,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch15.mp3"
         }
     },
@@ -2722,8 +2722,8 @@
         "urlBookId": 8,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch16.mp3"
         }
     },
@@ -2736,8 +2736,8 @@
         "urlBookId": 8,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch17.mp3"
         }
     },
@@ -2750,8 +2750,8 @@
         "urlBookId": 8,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch18.mp3"
         }
     },
@@ -2764,8 +2764,8 @@
         "urlBookId": 8,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch19.mp3"
         }
     },
@@ -2778,8 +2778,8 @@
         "urlBookId": 8,
         "urlSederId": 20,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch20.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch20.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=20",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=20&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch20.mp3"
         }
     },
@@ -2792,8 +2792,8 @@
         "urlBookId": 8,
         "urlSederId": 21,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b08_ch21.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b08_ch21.html",
+            "plain": "https://www.tanachyomi.co.il/b=08&s=21",
+            "teamim": "https://www.tanachyomi.co.il/b=08&s=21&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b08_ch21.mp3"
         }
     },
@@ -2805,8 +2805,8 @@
         "urlBookId": 9,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch01.mp3"
         }
     },
@@ -2818,8 +2818,8 @@
         "urlBookId": 9,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch02.mp3"
         }
     },
@@ -2831,8 +2831,8 @@
         "urlBookId": 9,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch03.mp3"
         }
     },
@@ -2844,8 +2844,8 @@
         "urlBookId": 9,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch04.mp3"
         }
     },
@@ -2857,8 +2857,8 @@
         "urlBookId": 9,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch05.mp3"
         }
     },
@@ -2870,8 +2870,8 @@
         "urlBookId": 9,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch06.mp3"
         }
     },
@@ -2883,8 +2883,8 @@
         "urlBookId": 9,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch07.mp3"
         }
     },
@@ -2896,8 +2896,8 @@
         "urlBookId": 9,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch08.mp3"
         }
     },
@@ -2909,8 +2909,8 @@
         "urlBookId": 9,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch09.mp3"
         }
     },
@@ -2922,8 +2922,8 @@
         "urlBookId": 9,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch10.mp3"
         }
     },
@@ -2935,8 +2935,8 @@
         "urlBookId": 9,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch11.mp3"
         }
     },
@@ -2948,8 +2948,8 @@
         "urlBookId": 9,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch12.mp3"
         }
     },
@@ -2961,8 +2961,8 @@
         "urlBookId": 9,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch13.mp3"
         }
     },
@@ -2974,8 +2974,8 @@
         "urlBookId": 9,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch14.mp3"
         }
     },
@@ -2987,8 +2987,8 @@
         "urlBookId": 9,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch15.mp3"
         }
     },
@@ -3000,8 +3000,8 @@
         "urlBookId": 9,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch16.mp3"
         }
     },
@@ -3013,8 +3013,8 @@
         "urlBookId": 9,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch17.mp3"
         }
     },
@@ -3026,8 +3026,8 @@
         "urlBookId": 9,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch18.mp3"
         }
     },
@@ -3039,8 +3039,8 @@
         "urlBookId": 9,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b09_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b09_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=09&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=09&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b09_ch19.mp3"
         }
     },
@@ -3052,8 +3052,8 @@
         "urlBookId": 10,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch01.mp3"
         }
     },
@@ -3065,8 +3065,8 @@
         "urlBookId": 10,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch02.mp3"
         }
     },
@@ -3078,8 +3078,8 @@
         "urlBookId": 10,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch03.mp3"
         }
     },
@@ -3091,8 +3091,8 @@
         "urlBookId": 10,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch04.mp3"
         }
     },
@@ -3104,8 +3104,8 @@
         "urlBookId": 10,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch05.mp3"
         }
     },
@@ -3117,8 +3117,8 @@
         "urlBookId": 10,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch06.mp3"
         }
     },
@@ -3130,8 +3130,8 @@
         "urlBookId": 10,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch07.mp3"
         }
     },
@@ -3143,8 +3143,8 @@
         "urlBookId": 10,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b10_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b10_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=10&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=10&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b10_ch08.mp3"
         }
     },
@@ -3156,8 +3156,8 @@
         "urlBookId": 11,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch01.mp3"
         }
     },
@@ -3169,8 +3169,8 @@
         "urlBookId": 11,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch02.mp3"
         }
     },
@@ -3182,8 +3182,8 @@
         "urlBookId": 11,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch03.mp3"
         }
     },
@@ -3195,8 +3195,8 @@
         "urlBookId": 11,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch04.mp3"
         }
     },
@@ -3208,8 +3208,8 @@
         "urlBookId": 11,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch05.mp3"
         }
     },
@@ -3221,8 +3221,8 @@
         "urlBookId": 11,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch06.mp3"
         }
     },
@@ -3234,8 +3234,8 @@
         "urlBookId": 11,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch07.mp3"
         }
     },
@@ -3247,8 +3247,8 @@
         "urlBookId": 11,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b11_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b11_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=11&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=11&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b11_ch08.mp3"
         }
     },
@@ -3260,8 +3260,8 @@
         "urlBookId": 12,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b12_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b12_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=12&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=12&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b12_ch01.mp3"
         },
         "splittingOptions": [
@@ -3273,8 +3273,8 @@
                 "urlBookId": 12,
                 "urlSederId": 2,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b12_ch02.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b12_ch02.html",
+                    "plain": "https://www.tanachyomi.co.il/b=12&s=02",
+                    "teamim": "https://www.tanachyomi.co.il/b=12&s=02&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b12_ch02.mp3"
                 }
             },
@@ -3286,8 +3286,8 @@
                 "urlBookId": 12,
                 "urlSederId": 3,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b12_ch03.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b12_ch03.html",
+                    "plain": "https://www.tanachyomi.co.il/b=12&s=03",
+                    "teamim": "https://www.tanachyomi.co.il/b=12&s=03&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b12_ch03.mp3"
                 }
             }
@@ -3301,8 +3301,8 @@
         "urlBookId": 13,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b13_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b13_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=13&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=13&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b13_ch01.mp3"
         },
         "splittingOptions": [
@@ -3314,8 +3314,8 @@
                 "urlBookId": 13,
                 "urlSederId": 2,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b13_ch02.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b13_ch02.html",
+                    "plain": "https://www.tanachyomi.co.il/b=13&s=02",
+                    "teamim": "https://www.tanachyomi.co.il/b=13&s=02&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b13_ch02.mp3"
                 }
             },
@@ -3327,8 +3327,8 @@
                 "urlBookId": 13,
                 "urlSederId": 3,
                 "urls": {
-                    "plain": "https://www.tanachyomi.co.il/pagesTanach/b13_ch03.html",
-                    "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b13_ch03.html",
+                    "plain": "https://www.tanachyomi.co.il/b=13&s=03",
+                    "teamim": "https://www.tanachyomi.co.il/b=13&s=03&t=1",
                     "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b13_ch03.mp3"
                 }
             }
@@ -3342,8 +3342,8 @@
         "urlBookId": 14,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b14_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b14_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=14&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=14&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b14_ch01.mp3"
         }
     },
@@ -3355,8 +3355,8 @@
         "urlBookId": 15,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=15&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=15&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch01.mp3"
         }
     },
@@ -3368,8 +3368,8 @@
         "urlBookId": 15,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=15&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=15&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch02.mp3"
         }
     },
@@ -3381,8 +3381,8 @@
         "urlBookId": 15,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=15&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=15&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch03.mp3"
         }
     },
@@ -3394,8 +3394,8 @@
         "urlBookId": 15,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b15_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b15_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=15&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=15&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b15_ch04.mp3"
         }
     },
@@ -3407,8 +3407,8 @@
         "urlBookId": 16,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=16&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=16&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch01.mp3"
         }
     },
@@ -3420,8 +3420,8 @@
         "urlBookId": 16,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=16&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=16&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch02.mp3"
         }
     },
@@ -3433,8 +3433,8 @@
         "urlBookId": 16,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=16&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=16&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch03.mp3"
         }
     },
@@ -3446,8 +3446,8 @@
         "urlBookId": 16,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=16&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=16&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch04.mp3"
         }
     },
@@ -3459,8 +3459,8 @@
         "urlBookId": 16,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b16_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b16_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=16&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=16&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b16_ch05.mp3"
         }
     },
@@ -3472,8 +3472,8 @@
         "urlBookId": 17,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=17&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=17&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch01.mp3"
         }
     },
@@ -3485,8 +3485,8 @@
         "urlBookId": 17,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=17&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=17&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch02.mp3"
         }
     },
@@ -3498,8 +3498,8 @@
         "urlBookId": 17,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=17&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=17&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch03.mp3"
         }
     },
@@ -3511,8 +3511,8 @@
         "urlBookId": 17,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=17&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=17&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch04.mp3"
         }
     },
@@ -3524,8 +3524,8 @@
         "urlBookId": 17,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=17&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=17&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch05.mp3"
         }
     },
@@ -3537,8 +3537,8 @@
         "urlBookId": 17,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=17&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=17&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch06.mp3"
         }
     },
@@ -3550,8 +3550,8 @@
         "urlBookId": 17,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b17_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b17_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=17&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=17&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b17_ch07.mp3"
         }
     },
@@ -3564,8 +3564,8 @@
         "urlBookId": 18,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch01.mp3"
         }
     },
@@ -3578,8 +3578,8 @@
         "urlBookId": 18,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch02.mp3"
         }
     },
@@ -3592,8 +3592,8 @@
         "urlBookId": 18,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch03.mp3"
         }
     },
@@ -3606,8 +3606,8 @@
         "urlBookId": 18,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch04.mp3"
         }
     },
@@ -3620,8 +3620,8 @@
         "urlBookId": 18,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch05.mp3"
         }
     },
@@ -3634,8 +3634,8 @@
         "urlBookId": 18,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch06.mp3"
         }
     },
@@ -3648,8 +3648,8 @@
         "urlBookId": 18,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch07.mp3"
         }
     },
@@ -3662,8 +3662,8 @@
         "urlBookId": 18,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch08.mp3"
         }
     },
@@ -3676,8 +3676,8 @@
         "urlBookId": 18,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch09.mp3"
         }
     },
@@ -3690,8 +3690,8 @@
         "urlBookId": 18,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b18_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b18_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=18&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=18&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b18_ch10.mp3"
         }
     },
@@ -3704,8 +3704,8 @@
         "urlBookId": 19,
         "urlSederId": 1,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch01.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch01.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=01",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=01&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch01.mp3"
         }
     },
@@ -3718,8 +3718,8 @@
         "urlBookId": 19,
         "urlSederId": 2,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch02.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch02.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=02",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=02&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch02.mp3"
         }
     },
@@ -3732,8 +3732,8 @@
         "urlBookId": 19,
         "urlSederId": 3,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch03.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch03.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=03",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=03&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch03.mp3"
         }
     },
@@ -3746,8 +3746,8 @@
         "urlBookId": 19,
         "urlSederId": 4,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch04.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch04.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=04",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=04&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch04.mp3"
         }
     },
@@ -3760,8 +3760,8 @@
         "urlBookId": 19,
         "urlSederId": 5,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch05.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch05.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=05",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=05&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch05.mp3"
         }
     },
@@ -3774,8 +3774,8 @@
         "urlBookId": 19,
         "urlSederId": 6,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch06.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch06.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=06",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=06&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch06.mp3"
         }
     },
@@ -3788,8 +3788,8 @@
         "urlBookId": 19,
         "urlSederId": 7,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch07.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch07.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=07",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=07&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch07.mp3"
         }
     },
@@ -3802,8 +3802,8 @@
         "urlBookId": 19,
         "urlSederId": 8,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch08.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch08.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=08",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=08&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch08.mp3"
         }
     },
@@ -3816,8 +3816,8 @@
         "urlBookId": 19,
         "urlSederId": 9,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch09.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch09.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=09",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=09&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch09.mp3"
         }
     },
@@ -3830,8 +3830,8 @@
         "urlBookId": 19,
         "urlSederId": 10,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch10.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch10.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=10",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=10&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch10.mp3"
         }
     },
@@ -3844,8 +3844,8 @@
         "urlBookId": 19,
         "urlSederId": 11,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch11.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch11.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=11",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=11&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch11.mp3"
         }
     },
@@ -3858,8 +3858,8 @@
         "urlBookId": 19,
         "urlSederId": 12,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch12.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch12.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=12",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=12&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch12.mp3"
         }
     },
@@ -3872,8 +3872,8 @@
         "urlBookId": 19,
         "urlSederId": 13,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch13.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch13.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=13",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=13&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch13.mp3"
         }
     },
@@ -3886,8 +3886,8 @@
         "urlBookId": 19,
         "urlSederId": 14,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch14.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch14.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=14",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=14&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch14.mp3"
         }
     },
@@ -3900,8 +3900,8 @@
         "urlBookId": 19,
         "urlSederId": 15,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch15.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch15.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=15",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=15&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch15.mp3"
         }
     },
@@ -3914,8 +3914,8 @@
         "urlBookId": 19,
         "urlSederId": 16,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch16.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch16.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=16",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=16&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch16.mp3"
         }
     },
@@ -3928,8 +3928,8 @@
         "urlBookId": 19,
         "urlSederId": 17,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch17.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch17.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=17",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=17&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch17.mp3"
         }
     },
@@ -3942,8 +3942,8 @@
         "urlBookId": 19,
         "urlSederId": 18,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch18.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch18.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=18",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=18&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch18.mp3"
         }
     },
@@ -3956,8 +3956,8 @@
         "urlBookId": 19,
         "urlSederId": 19,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch19.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch19.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=19",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=19&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch19.mp3"
         }
     },
@@ -3970,8 +3970,8 @@
         "urlBookId": 19,
         "urlSederId": 20,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch20.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch20.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=20",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=20&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch20.mp3"
         }
     },
@@ -3984,8 +3984,8 @@
         "urlBookId": 19,
         "urlSederId": 21,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch21.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch21.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=21",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=21&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch21.mp3"
         }
     },
@@ -3998,8 +3998,8 @@
         "urlBookId": 19,
         "urlSederId": 22,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch22.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch22.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=22",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=22&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch22.mp3"
         }
     },
@@ -4012,8 +4012,8 @@
         "urlBookId": 19,
         "urlSederId": 23,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch23.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch23.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=23",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=23&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch23.mp3"
         }
     },
@@ -4026,8 +4026,8 @@
         "urlBookId": 19,
         "urlSederId": 24,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch24.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch24.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=24",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=24&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch24.mp3"
         }
     },
@@ -4040,8 +4040,8 @@
         "urlBookId": 19,
         "urlSederId": 25,
         "urls": {
-            "plain": "https://www.tanachyomi.co.il/pagesTanach/b19_ch25.html",
-            "teamim": "https://www.tanachyomi.co.il/pagesTanachTeamim/b19_ch25.html",
+            "plain": "https://www.tanachyomi.co.il/b=19&s=25",
+            "teamim": "https://www.tanachyomi.co.il/b=19&s=25&t=1",
             "voice": "https://www.tanachyomi.co.il/pagesTanachVoice/b19_ch25.mp3"
         }
     }
