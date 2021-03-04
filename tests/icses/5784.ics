@@ -1,0 +1,4472 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Tanach Yomi 5784
+X-WR-CALNAME:Tanach Yomi 5784
+BEGIN:VEVENT
+UID:000-c7fg20
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231008
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' א
+DESCRIPTION:יהושע ס' א\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=01\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:00008tj6f8
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231009
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ב
+DESCRIPTION:יהושע ס' ב\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=02\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ue4c7q
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ג
+DESCRIPTION:יהושע ס' ג\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=03\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-g8rhx4
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231011
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ד
+DESCRIPTION:יהושע ס' ד\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=04\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-f9m8s9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231012
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ה
+DESCRIPTION:יהושע ס' ה\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=05\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000cc9qqo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ו
+DESCRIPTION:יהושע ס' ו\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=06\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=06&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:0000w7or2i
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231015
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ז
+DESCRIPTION:יהושע ס' ז\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=07\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=07&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000-nc92y7
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231016
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ח
+DESCRIPTION:יהושע ס' ח\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=08\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=08&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-nlrpoj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231017
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' ט
+DESCRIPTION:יהושע ס' ט\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=09\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=09&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:000-hpj07u
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231018
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' י
+DESCRIPTION:יהושע ס' י\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=01&s=10\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=01&s=10&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b01_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-zcs485
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231019
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' יא
+DESCRIPTION:יהושע ס' יא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=01&s=11\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=01&s=11&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b01_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000082i50k
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231020
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' יב
+DESCRIPTION:יהושע ס' יב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=01&s=12\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=01&s=12&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b01_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:000-lz3ger
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231022
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' יג
+DESCRIPTION:יהושע ס' יג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=01&s=13\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=01&s=13&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b01_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-npp9mz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231023
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יהושע ס' יד
+DESCRIPTION:יהושע ס' יד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=01&s=14\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=01&s=14&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b01_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=01&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:0000l915tj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231024
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' א
+DESCRIPTION:שופטים ס' א\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=01\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=01&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-viww23
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231025
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ב
+DESCRIPTION:שופטים ס' ב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=02\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=02&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000l243hk
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231026
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ג
+DESCRIPTION:שופטים ס' ג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=03\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=03&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000wiagxq
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ד
+DESCRIPTION:שופטים ס' ד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=04\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=04&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-q3f9d1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231029
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ה
+DESCRIPTION:שופטים ס' ה\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=05\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=05&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000aqrioa
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231030
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ו
+DESCRIPTION:שופטים ס' ו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=06\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=06&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:0000of7ok6
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231031
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ז
+DESCRIPTION:שופטים ס' ז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=07\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=07&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:00002ui7po
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231101
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ח
+DESCRIPTION:שופטים ס' ח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=08\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=08&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ep8284
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' ט
+DESCRIPTION:שופטים ס' ט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=09\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=09&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:000-oc1x64
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231103
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' י
+DESCRIPTION:שופטים ס' י\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=02&s=10\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=02&s=10&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b02_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:0000w2b4kb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' יא
+DESCRIPTION:שופטים ס' יא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=02&s=11\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=02&s=11&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b02_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000-1iiq4t
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' יב
+DESCRIPTION:שופטים ס' יב\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=02&s=12\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=02&s=12&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b02_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:000-u9l4qf
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' יג
+DESCRIPTION:שופטים ס' יג\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=02&s=13\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=02&s=13&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b02_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ktrh64
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שופטים ס' יד
+DESCRIPTION:שופטים ס' יד\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=02&s=14\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=02&s=14&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b02_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=02&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ulr5ui
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' א
+DESCRIPTION:שמואל ס' א\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=01\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:0000pjyg32
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ב
+DESCRIPTION:שמואל ס' ב\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=02\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000076mjc1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ג
+DESCRIPTION:שמואל ס' ג\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=03\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000xeaxi4
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ד
+DESCRIPTION:שמואל ס' ד\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=04\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-mtwgvb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ה
+DESCRIPTION:שמואל ס' ה\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=05\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:000-csaxcp
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ו
+DESCRIPTION:שמואל ס' ו\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=06\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=06&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-wfcyw3
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ז
+DESCRIPTION:שמואל ס' ז\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=07\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=07&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:0000wt1wbt
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231117
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ח
+DESCRIPTION:שמואל ס' ח\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=08\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=08&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-x24qhe
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ט
+DESCRIPTION:שמואל ס' ט\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=09\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=09&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ekn54h
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' י
+DESCRIPTION:שמואל ס' י\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=10\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=10&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-jb2wss
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231121
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' יא
+DESCRIPTION:שמואל ס' יא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=11\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=11&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000-cmqtib
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' יב
+DESCRIPTION:שמואל ס' יב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=12\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=12&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:0000hf03ib
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231123
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' יג
+DESCRIPTION:שמואל ס' יג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=13\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=13&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-uk7uwu
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' יד
+DESCRIPTION:שמואל ס' יד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=14\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=14&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:0000284k6n
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231126
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' טו
+DESCRIPTION:שמואל ס' טו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=15\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=15&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:0000d8c87m
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' טז
+DESCRIPTION:שמואל ס' טז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=16\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=16&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:000-2bl8oc
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231128
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' יז
+DESCRIPTION:שמואל ס' יז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=17\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=17&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:000-wcp5n0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231129
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' יח
+DESCRIPTION:שמואל ס' יח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=18\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=18&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ki59j5
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' יט
+DESCRIPTION:שמואל ס' יט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=19\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=19&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:000068s9jq
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כ
+DESCRIPTION:שמואל ס' כ\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=20\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=20&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:0000a579pz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כא
+DESCRIPTION:שמואל ס' כא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=21\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=21&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:0000omlt6w
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כב
+DESCRIPTION:שמואל ס' כב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=22\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=22&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch22.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=22
+END:VEVENT
+BEGIN:VEVENT
+UID:0000dnmmlb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231205
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כג
+DESCRIPTION:שמואל ס' כג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=23\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=23&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch23.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=23
+END:VEVENT
+BEGIN:VEVENT
+UID:000-qr71gh
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כד
+DESCRIPTION:שמואל ס' כד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=24\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=24&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch24.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=24
+END:VEVENT
+BEGIN:VEVENT
+UID:000-qdl6ae
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כה
+DESCRIPTION:שמואל ס' כה\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=25\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=25&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch25.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=25
+END:VEVENT
+BEGIN:VEVENT
+UID:000-5qmvd1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כו
+DESCRIPTION:שמואל ס' כו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=26\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=26&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch26.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=26
+END:VEVENT
+BEGIN:VEVENT
+UID:000-wf03gk
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כז
+DESCRIPTION:שמואל ס' כז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=27\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=27&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch27.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=27
+END:VEVENT
+BEGIN:VEVENT
+UID:000-fbf4ne
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כח
+DESCRIPTION:שמואל ס' כח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=28\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=28&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch28.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=28
+END:VEVENT
+BEGIN:VEVENT
+UID:0000gc6dvn
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' כט
+DESCRIPTION:שמואל ס' כט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=29\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=29&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch29.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=29
+END:VEVENT
+BEGIN:VEVENT
+UID:0000qzyybz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231213
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' ל
+DESCRIPTION:שמואל ס' ל\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=03&s=30\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=03&s=30&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b03_ch30.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=30
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ris6s7
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' לא
+DESCRIPTION:שמואל ס' לא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=31\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=31&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch31.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=31
+END:VEVENT
+BEGIN:VEVENT
+UID:000-k1hn29
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' לב
+DESCRIPTION:שמואל ס' לב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=32\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=32&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch32.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=32
+END:VEVENT
+BEGIN:VEVENT
+UID:000-jhs460
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' לג
+DESCRIPTION:שמואל ס' לג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=33\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=33&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch33.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=33
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ypivkb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שמואל ס' לד
+DESCRIPTION:שמואל ס' לד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=03&s=34\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=03&s=34&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b03_ch34.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=03&s=34
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ahphk0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231219
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' א
+DESCRIPTION:מלכים ס' א\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=01\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-lviur8
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ב
+DESCRIPTION:מלכים ס' ב\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=02\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ns7zwn
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ג
+DESCRIPTION:מלכים ס' ג\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=03\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-c0dflo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ד
+DESCRIPTION:מלכים ס' ד\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=04\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-5abpep
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231224
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ה
+DESCRIPTION:מלכים ס' ה\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=05\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:000-xivq3d
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ו
+DESCRIPTION:מלכים ס' ו\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=06\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=06&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ac6l6m
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231226
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ז
+DESCRIPTION:מלכים ס' ז\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=07\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=07&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:0000vdwucd
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231227
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ח
+DESCRIPTION:מלכים ס' ח\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=08\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=08&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-qy8rs2
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ט
+DESCRIPTION:מלכים ס' ט\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=09\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=09&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:00002yel2l
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231229
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' י
+DESCRIPTION:מלכים ס' י\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=10\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=10&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:00004mhn3c
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20231231
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' יא
+DESCRIPTION:מלכים ס' יא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=11\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=11&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000-dnnvww
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240101
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' יב
+DESCRIPTION:מלכים ס' יב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=12\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=12&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:000-llu9ye
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' יג
+DESCRIPTION:מלכים ס' יג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=13\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=13&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:0000nac7ld
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240103
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' יד
+DESCRIPTION:מלכים ס' יד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=14\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=14&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:000-d686n0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' טו
+DESCRIPTION:מלכים ס' טו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=15\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=15&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:000-73x9j8
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' טז
+DESCRIPTION:מלכים ס' טז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=16\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=16&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:000-sni1bq
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' יז
+DESCRIPTION:מלכים ס' יז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=17\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=17&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:000-6b8w6b
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' יח
+DESCRIPTION:מלכים ס' יח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=18\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=18&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:000-bgn6qu
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' יט
+DESCRIPTION:מלכים ס' יט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=19\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=19&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:0000h2vvw5
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כ
+DESCRIPTION:מלכים ס' כ\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=20\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=20&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:0000cq46if
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240111
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כא
+DESCRIPTION:מלכים ס' כא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=21\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=21&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:0000bc7966
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כב
+DESCRIPTION:מלכים ס' כב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=22\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=22&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch22.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=22
+END:VEVENT
+BEGIN:VEVENT
+UID:0000uo7qx0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כג
+DESCRIPTION:מלכים ס' כג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=23\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=23&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch23.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=23
+END:VEVENT
+BEGIN:VEVENT
+UID:0000pf0eu1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כד
+DESCRIPTION:מלכים ס' כד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=24\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=24&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch24.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=24
+END:VEVENT
+BEGIN:VEVENT
+UID:00000t2hcy
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כה
+DESCRIPTION:מלכים ס' כה\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=25\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=25&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch25.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=25
+END:VEVENT
+BEGIN:VEVENT
+UID:000-i1hbo6
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240117
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כו
+DESCRIPTION:מלכים ס' כו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=26\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=26&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch26.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=26
+END:VEVENT
+BEGIN:VEVENT
+UID:00000x73sb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כז
+DESCRIPTION:מלכים ס' כז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=27\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=27&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch27.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=27
+END:VEVENT
+BEGIN:VEVENT
+UID:000-o0qtub
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כח
+DESCRIPTION:מלכים ס' כח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=28\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=28&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch28.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=28
+END:VEVENT
+BEGIN:VEVENT
+UID:000-gfe69v
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240121
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' כט
+DESCRIPTION:מלכים ס' כט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=29\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=29&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch29.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=29
+END:VEVENT
+BEGIN:VEVENT
+UID:0000jyxbth
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' ל
+DESCRIPTION:מלכים ס' ל\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=04&s=30\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=04&s=30&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b04_ch30.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=30
+END:VEVENT
+BEGIN:VEVENT
+UID:0000nbwk3q
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240123
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' לא
+DESCRIPTION:מלכים ס' לא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=31\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=31&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch31.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=31
+END:VEVENT
+BEGIN:VEVENT
+UID:000-j88td9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' לב
+DESCRIPTION:מלכים ס' לב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=32\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=32&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch32.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=32
+END:VEVENT
+BEGIN:VEVENT
+UID:000-sups3j
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' לג
+DESCRIPTION:מלכים ס' לג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=33\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=33&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch33.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=33
+END:VEVENT
+BEGIN:VEVENT
+UID:0000pepi5d
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240126
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' לד
+DESCRIPTION:מלכים ס' לד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=34\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=34&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch34.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=34
+END:VEVENT
+BEGIN:VEVENT
+UID:0000lpquqr
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240128
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:מלכים ס' לה
+DESCRIPTION:מלכים ס' לה\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=04&s=35\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=04&s=35&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b04_ch35.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=04&s=35
+END:VEVENT
+BEGIN:VEVENT
+UID:000-i1zbyn
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240129
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' א
+DESCRIPTION:ישעיהו ס' א\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=01\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=01&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:0000g5w6n4
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ב
+DESCRIPTION:ישעיהו ס' ב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=02\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=02&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000-ua8yo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240131
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ג
+DESCRIPTION:ישעיהו ס' ג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=03\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=03&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ni2as3
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ד
+DESCRIPTION:ישעיהו ס' ד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=04\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=04&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:00005erfbo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ה
+DESCRIPTION:ישעיהו ס' ה\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=05\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=05&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000o47v6t
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ו
+DESCRIPTION:ישעיהו ס' ו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=06\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=06&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-1qhvt9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240205
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ז
+DESCRIPTION:ישעיהו ס' ז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=07\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=07&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:0000dyn0kd
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ח
+DESCRIPTION:ישעיהו ס' ח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=08\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=08&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:0000dh20re
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' ט
+DESCRIPTION:ישעיהו ס' ט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=09\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=09&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:000059sq61
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' י
+DESCRIPTION:ישעיהו ס' י\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=10\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=10&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-32pymg
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240209
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' יא
+DESCRIPTION:ישעיהו ס' יא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=11\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=11&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000-xo1h0i
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' יב
+DESCRIPTION:ישעיהו ס' יב\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=12\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=12&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:000-7639id
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' יג
+DESCRIPTION:ישעיהו ס' יג\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=13\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=13&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ygyn9o
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240213
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' יד
+DESCRIPTION:ישעיהו ס' יד\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=14\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=14&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:000-vgmf9o
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' טו
+DESCRIPTION:ישעיהו ס' טו\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=15\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=15&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:0000v56el9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' טז
+DESCRIPTION:ישעיהו ס' טז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=16\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=16&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:000-xm2087
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' יז
+DESCRIPTION:ישעיהו ס' יז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=17\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=17&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:000-eoxy8f
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' יח
+DESCRIPTION:ישעיהו ס' יח\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=18\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=18&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:000-z561oh
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240219
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' יט
+DESCRIPTION:ישעיהו ס' יט\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=19\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=19&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:0000kpkt4v
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' כ
+DESCRIPTION:ישעיהו ס' כ\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=05&s=20\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=05&s=20&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b05_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:000037ndnn
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' כא
+DESCRIPTION:ישעיהו ס' כא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=21\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=21&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:0000xmkylg
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' כב
+DESCRIPTION:ישעיהו ס' כב\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=22\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=22&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch22.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=22
+END:VEVENT
+BEGIN:VEVENT
+UID:000-braeax
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' כג
+DESCRIPTION:ישעיהו ס' כג\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=23\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=23&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch23.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=23
+END:VEVENT
+BEGIN:VEVENT
+UID:000-3j3p0s
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' כד
+DESCRIPTION:ישעיהו ס' כד\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=24\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=24&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch24.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=24
+END:VEVENT
+BEGIN:VEVENT
+UID:0000uhakyf
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240226
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' כה
+DESCRIPTION:ישעיהו ס' כה\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=25\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=25&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch25.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=25
+END:VEVENT
+BEGIN:VEVENT
+UID:000-yhu5w1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240227
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ישעיהו ס' כו
+DESCRIPTION:ישעיהו ס' כו\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=05&s=26\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=05&s=26&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b05_ch26.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=05&s=26
+END:VEVENT
+BEGIN:VEVENT
+UID:000-lbuxb6
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' א
+DESCRIPTION:ירמיהו ס' א\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=01\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=01&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-9e7cgs
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240229
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ב
+DESCRIPTION:ירמיהו ס' ב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=02\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=02&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000gx3umu
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240301
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ג
+DESCRIPTION:ירמיהו ס' ג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=03\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=03&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000wfsa5z
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240303
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ד
+DESCRIPTION:ירמיהו ס' ד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=04\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=04&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-bb4cyi
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240304
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ה
+DESCRIPTION:ירמיהו ס' ה\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=05\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=05&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:000-78b0io
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240305
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ו
+DESCRIPTION:ירמיהו ס' ו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=06\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=06&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-929vk5
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240306
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ז
+DESCRIPTION:ירמיהו ס' ז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=07\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=07&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000-owyv13
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240307
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ח
+DESCRIPTION:ירמיהו ס' ח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=08\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=08&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:0000o0mlu5
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240308
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ט
+DESCRIPTION:ירמיהו ס' ט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=09\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=09&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:000-rtgcdt
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240310
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' י
+DESCRIPTION:ירמיהו ס' י\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=10\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=10&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-yxc85t
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240311
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' יא
+DESCRIPTION:ירמיהו ס' יא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=11\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=11&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:0000mjr4mn
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240312
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' יב
+DESCRIPTION:ירמיהו ס' יב\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=12\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=12&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:000-4cdrwz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240313
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' יג
+DESCRIPTION:ירמיהו ס' יג\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=13\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=13&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-q247c1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240314
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' יד
+DESCRIPTION:ירמיהו ס' יד\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=14\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=14&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:00008b0y0i
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240315
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' טו
+DESCRIPTION:ירמיהו ס' טו\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=15\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=15&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:00002dgqxo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240317
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' טז
+DESCRIPTION:ירמיהו ס' טז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=16\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=16&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:000-tzm8ky
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240318
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' יז
+DESCRIPTION:ירמיהו ס' יז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=17\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=17&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:000-gq787c
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240319
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' יח
+DESCRIPTION:ירמיהו ס' יח\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=18\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=18&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:00002cr9ik
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240320
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' יט
+DESCRIPTION:ירמיהו ס' יט\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=19\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=19&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:000-d0bzvz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240321
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כ
+DESCRIPTION:ירמיהו ס' כ\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=20\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=20&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:000-lz81xu
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240322
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כא
+DESCRIPTION:ירמיהו ס' כא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=21\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=21&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:0000t2wqkr
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240325
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כב
+DESCRIPTION:ירמיהו ס' כב\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=22\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=22&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch22.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=22
+END:VEVENT
+BEGIN:VEVENT
+UID:000-trgdzj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240326
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כג
+DESCRIPTION:ירמיהו ס' כג\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=23\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=23&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch23.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=23
+END:VEVENT
+BEGIN:VEVENT
+UID:000-sfs349
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240327
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כד
+DESCRIPTION:ירמיהו ס' כד\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=24\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=24&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch24.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=24
+END:VEVENT
+BEGIN:VEVENT
+UID:000042tjv8
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240328
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כה
+DESCRIPTION:ירמיהו ס' כה\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=25\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=25&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch25.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=25
+END:VEVENT
+BEGIN:VEVENT
+UID:000-q7a3tc
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240329
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כו
+DESCRIPTION:ירמיהו ס' כו\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=26\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=26&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch26.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=26
+END:VEVENT
+BEGIN:VEVENT
+UID:000-og0qou
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240331
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כז
+DESCRIPTION:ירמיהו ס' כז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=27\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=27&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch27.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=27
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ccabg3
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240401
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כח
+DESCRIPTION:ירמיהו ס' כח\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=28\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=28&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch28.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=28
+END:VEVENT
+BEGIN:VEVENT
+UID:0000j98o56
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240402
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' כט
+DESCRIPTION:ירמיהו ס' כט\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=29\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=29&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch29.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=29
+END:VEVENT
+BEGIN:VEVENT
+UID:0000de0cf2
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240403
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' ל
+DESCRIPTION:ירמיהו ס' ל\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=06&s=30\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=06&s=30&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b06_ch30.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=30
+END:VEVENT
+BEGIN:VEVENT
+UID:00005huloj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240404
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:ירמיהו ס' לא
+DESCRIPTION:ירמיהו ס' לא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=06&s=31\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=06&s=31&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b06_ch31.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=06&s=31
+END:VEVENT
+BEGIN:VEVENT
+UID:000-av25hv
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240405
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' א
+DESCRIPTION:יחזקאל ס' א\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=01\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=01&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:0000xmc7nl
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240407
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ב
+DESCRIPTION:יחזקאל ס' ב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=02\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=02&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-65cv9i
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240408
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ג
+DESCRIPTION:יחזקאל ס' ג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=03\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=03&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000lm3hbm
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240409
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ד
+DESCRIPTION:יחזקאל ס' ד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=04\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=04&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:00006bagwo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240410
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ה
+DESCRIPTION:יחזקאל ס' ה\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=05\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=05&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000zginqb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240411
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ו
+DESCRIPTION:יחזקאל ס' ו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=06\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=06&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-m97wy3
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240412
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ז
+DESCRIPTION:יחזקאל ס' ז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=07\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=07&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000-nvijxi
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240414
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ח
+DESCRIPTION:יחזקאל ס' ח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=08\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=08&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:0000jdsily
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240415
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' ט
+DESCRIPTION:יחזקאל ס' ט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=09\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=09&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:0000adosod
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240416
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' י
+DESCRIPTION:יחזקאל ס' י\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=10\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=10&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-6pntrf
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240417
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' יא
+DESCRIPTION:יחזקאל ס' יא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=11\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=11&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000-r7l4hr
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240418
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' יב
+DESCRIPTION:יחזקאל ס' יב\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=12\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=12&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ei4hu2
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240419
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' יג
+DESCRIPTION:יחזקאל ס' יג\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=13\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=13&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-lkij6x
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240421
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' יד
+DESCRIPTION:יחזקאל ס' יד\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=14\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=14&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:000-tp00tn
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240422
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' טו
+DESCRIPTION:יחזקאל ס' טו\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=15\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=15&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:000-wrc4zc
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240424
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' טז
+DESCRIPTION:יחזקאל ס' טז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=16\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=16&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:000-togmvj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240425
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' יז
+DESCRIPTION:יחזקאל ס' יז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=17\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=17&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:0000m6w2s7
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240426
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' יח
+DESCRIPTION:יחזקאל ס' יח\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=18\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=18&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:000-6xll3l
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240428
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' יט
+DESCRIPTION:יחזקאל ס' יט\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=19\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=19&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ejjgfl
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240430
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כ
+DESCRIPTION:יחזקאל ס' כ\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=07&s=20\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=07&s=20&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b07_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:000-vrisjm
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240501
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כא
+DESCRIPTION:יחזקאל ס' כא\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=21\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=21&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:000-m2nxbi
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240502
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כב
+DESCRIPTION:יחזקאל ס' כב\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=22\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=22&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch22.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=22
+END:VEVENT
+BEGIN:VEVENT
+UID:000-avmu4m
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240503
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כג
+DESCRIPTION:יחזקאל ס' כג\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=23\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=23&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch23.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=23
+END:VEVENT
+BEGIN:VEVENT
+UID:00000rs04z
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240505
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כד
+DESCRIPTION:יחזקאל ס' כד\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=24\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=24&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch24.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=24
+END:VEVENT
+BEGIN:VEVENT
+UID:000-f8obww
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240506
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כה
+DESCRIPTION:יחזקאל ס' כה\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=25\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=25&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch25.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=25
+END:VEVENT
+BEGIN:VEVENT
+UID:000-kympef
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240507
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כו
+DESCRIPTION:יחזקאל ס' כו\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=26\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=26&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch26.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=26
+END:VEVENT
+BEGIN:VEVENT
+UID:000-j64m6e
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240508
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כז
+DESCRIPTION:יחזקאל ס' כז\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=27\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=27&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch27.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=27
+END:VEVENT
+BEGIN:VEVENT
+UID:0000rj84pt
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240509
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כח
+DESCRIPTION:יחזקאל ס' כח\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=28\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=28&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch28.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=28
+END:VEVENT
+BEGIN:VEVENT
+UID:000-cu4mq4
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240510
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:יחזקאל ס' כט
+DESCRIPTION:יחזקאל ס' כט\nלקריאת הסדר: https://www.tana
+ chyomi.co.il/?b=07&s=29\nלקריאת הסדר בטעמים: https://www.t
+ anachyomi.co.il/?b=07&s=29&t=1\nלשמיעת הסדר: https://www.tanachy
+ omi.co.il/pagesTanachVoice/b07_ch29.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=07&s=29
+END:VEVENT
+BEGIN:VEVENT
+UID:0000iyj2p1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240512
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' א
+DESCRIPTION:תרי עשר ס' א\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=01\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=01&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:0000vhko7a
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240513
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ב
+DESCRIPTION:תרי עשר ס' ב\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=02\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=02&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000vw19jz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240515
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ג
+DESCRIPTION:תרי עשר ס' ג\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=03\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=03&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000xiiwvs
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240516
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ד
+DESCRIPTION:תרי עשר ס' ד\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=04\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=04&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:00004fneaz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240517
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ה
+DESCRIPTION:תרי עשר ס' ה\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=05\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=05&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:000-wfg55q
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240519
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ו
+DESCRIPTION:תרי עשר ס' ו\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=06\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=06&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-18g0ww
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240520
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ז
+DESCRIPTION:תרי עשר ס' ז\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=07\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=07&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000-kf77ro
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240521
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ח
+DESCRIPTION:תרי עשר ס' ח\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=08\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=08&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:0000dyuhhi
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240522
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' ט
+DESCRIPTION:תרי עשר ס' ט\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=09\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=09&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:000-c0rdd8
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240523
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' י
+DESCRIPTION:תרי עשר ס' י\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=10\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=10&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-d3llkw
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240524
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' יא
+DESCRIPTION:תרי עשר ס' יא\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=11\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=11&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:0000qug9ft
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240526
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' יב
+DESCRIPTION:תרי עשר ס' יב\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=12\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=12&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:00002ekjp4
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240527
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' יג
+DESCRIPTION:תרי עשר ס' יג\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=13\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=13&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-2csw5z
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240528
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' יד
+DESCRIPTION:תרי עשר ס' יד\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=14\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=14&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:000-wpdw7i
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240529
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' טו
+DESCRIPTION:תרי עשר ס' טו\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=15\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=15&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:0000yqmjpp
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240530
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' טז
+DESCRIPTION:תרי עשר ס' טז\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=16\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=16&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:000-1msur9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240531
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' יז
+DESCRIPTION:תרי עשר ס' יז\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=17\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=17&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:000-yyf31y
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240602
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' יח
+DESCRIPTION:תרי עשר ס' יח\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=18\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=18&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:00003rlpor
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240603
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' יט
+DESCRIPTION:תרי עשר ס' יט\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=19\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=19&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:000-gkw50m
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240604
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' כ
+DESCRIPTION:תרי עשר ס' כ\nלקריאת הסדר: https://www.tanac
+ hyomi.co.il/?b=08&s=20\nלקריאת הסדר בטעמים: https://www.ta
+ nachyomi.co.il/?b=08&s=20&t=1\nלשמיעת הסדר: https://www.tanachyo
+ mi.co.il/pagesTanachVoice/b08_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:0000eurbdf
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240605
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תרי עשר ס' כא
+DESCRIPTION:תרי עשר ס' כא\nלקריאת הסדר: https://www.tan
+ achyomi.co.il/?b=08&s=21\nלקריאת הסדר בטעמים: https://www.
+ tanachyomi.co.il/?b=08&s=21&t=1\nלשמיעת הסדר: https://www.tanach
+ yomi.co.il/pagesTanachVoice/b08_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=08&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ibqcss
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240606
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' א
+DESCRIPTION:תהלים ס' א\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=01\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:0000es9mxj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240607
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ב
+DESCRIPTION:תהלים ס' ב\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=02\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-aumbiv
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240609
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ג
+DESCRIPTION:תהלים ס' ג\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=03\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-9qx7tk
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240610
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ד
+DESCRIPTION:תהלים ס' ד\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=04\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-f8wgaw
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240611
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ה
+DESCRIPTION:תהלים ס' ה\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=05\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000qv9jex
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240613
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ו
+DESCRIPTION:תהלים ס' ו\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=06\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=06&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:0000yhg7vq
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240614
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ז
+DESCRIPTION:תהלים ס' ז\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=07\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=07&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:00008bzae6
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240616
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ח
+DESCRIPTION:תהלים ס' ח\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=08\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=08&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-e5vcno
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240617
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' ט
+DESCRIPTION:תהלים ס' ט\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=09\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=09&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:000014f65b
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240618
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' י
+DESCRIPTION:תהלים ס' י\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=09&s=10\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=09&s=10&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b09_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000027b1y3
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240619
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' יא
+DESCRIPTION:תהלים ס' יא\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=11\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=11&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:00009smgcv
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240620
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' יב
+DESCRIPTION:תהלים ס' יב\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=12\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=12&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:000-q2vsq1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240621
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' יג
+DESCRIPTION:תהלים ס' יג\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=13\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=13&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:0000tl0an4
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240623
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' יד
+DESCRIPTION:תהלים ס' יד\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=14\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=14&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:0000dnovdp
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240624
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' טו
+DESCRIPTION:תהלים ס' טו\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=15\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=15&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:000-u7nkew
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240625
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' טז
+DESCRIPTION:תהלים ס' טז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=16\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=16&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:0000wxls4x
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240626
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' יז
+DESCRIPTION:תהלים ס' יז\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=17\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=17&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:000-78bld9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240627
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' יח
+DESCRIPTION:תהלים ס' יח\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=18\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=18&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:0000v0ykp0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240628
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:תהלים ס' יט
+DESCRIPTION:תהלים ס' יט\nלקריאת הסדר: https://www.tanach
+ yomi.co.il/?b=09&s=19\nלקריאת הסדר בטעמים: https://www.tan
+ achyomi.co.il/?b=09&s=19&t=1\nלשמיעת הסדר: https://www.tanachyom
+ i.co.il/pagesTanachVoice/b09_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=09&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ye331u
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240630
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' א
+DESCRIPTION:משלי ס' א\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=01\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-p8j2a0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240701
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' ב
+DESCRIPTION:משלי ס' ב\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=02\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000lo0w9b
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240702
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' ג
+DESCRIPTION:משלי ס' ג\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=03\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-49p4ci
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240703
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' ד
+DESCRIPTION:משלי ס' ד\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=04\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:0000670sen
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240704
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' ה
+DESCRIPTION:משלי ס' ה\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=05\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000p4w9sd
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240705
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' ו
+DESCRIPTION:משלי ס' ו\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=06\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=06&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-cu0sn4
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240707
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' ז
+DESCRIPTION:משלי ס' ז\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=07\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=07&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000024lhe0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240708
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:משלי ס' ח
+DESCRIPTION:משלי ס' ח\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=10&s=08\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=10&s=08&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b10_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=10&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-69ixl1
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240709
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' א
+DESCRIPTION:איוב ס' א\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=01\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-nb1k8x
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240710
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' ב
+DESCRIPTION:איוב ס' ב\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=02\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000039a8wr
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240711
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' ג
+DESCRIPTION:איוב ס' ג\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=03\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000c4aefz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240712
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' ד
+DESCRIPTION:איוב ס' ד\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=04\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ag6d2v
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240714
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' ה
+DESCRIPTION:איוב ס' ה\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=05\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ea6779
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240715
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' ו
+DESCRIPTION:איוב ס' ו\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=06\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=06&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-z4k82f
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240716
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' ז
+DESCRIPTION:איוב ס' ז\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=07\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=07&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000-8a2e85
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240717
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איוב ס' ח
+DESCRIPTION:איוב ס' ח\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=11&s=08\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=11&s=08&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b11_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=11&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:0000yt5zq5
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240718
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:שיר השירים ס' א
+DESCRIPTION:שיר השירים ס' א\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=12&s=01\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=12&s=01&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b12_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=12&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-omhgp6
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240719
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:רות ס' א1
+DESCRIPTION:רות ס' א1\nלקריאת הסדר: https://www.tanachyomi.
+ co.il/?b=13&s=02\nלקריאת הסדר בטעמים: https://www.tanachyo
+ mi.co.il/?b=13&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.co.
+ il/pagesTanachVoice/b13_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=13&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000jhswlw
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240721
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:רות ס' א2
+DESCRIPTION:רות ס' א2\nלקריאת הסדר: https://www.tanachyomi.
+ co.il/?b=13&s=03\nלקריאת הסדר בטעמים: https://www.tanachyo
+ mi.co.il/?b=13&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.co.
+ il/pagesTanachVoice/b13_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=13&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000e7o9u0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240722
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:איכה ס' א
+DESCRIPTION:איכה ס' א\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=14&s=01\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=14&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b14_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=14&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:0000uxq4mw
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240723
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:קהלת ס' א
+DESCRIPTION:קהלת ס' א\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=15&s=01\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=15&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b15_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=15&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ikn3e0
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240724
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:קהלת ס' ב
+DESCRIPTION:קהלת ס' ב\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=15&s=02\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=15&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b15_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=15&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-e06cvb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240725
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:קהלת ס' ג
+DESCRIPTION:קהלת ס' ג\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=15&s=03\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=15&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b15_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=15&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-xwx94d
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240726
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:קהלת ס' ד
+DESCRIPTION:קהלת ס' ד\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=15&s=04\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=15&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b15_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=15&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ncpsdm
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240728
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:אסתר ס' א
+DESCRIPTION:אסתר ס' א\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=16&s=01\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=16&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b16_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=16&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:0000fxv17q
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240729
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:אסתר ס' ב
+DESCRIPTION:אסתר ס' ב\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=16&s=02\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=16&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b16_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=16&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-kt3h2u
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240730
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:אסתר ס' ג
+DESCRIPTION:אסתר ס' ג\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=16&s=03\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=16&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b16_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=16&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-qi0qpa
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240731
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:אסתר ס' ד
+DESCRIPTION:אסתר ס' ד\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=16&s=04\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=16&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b16_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=16&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:0000lae24s
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240801
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:אסתר ס' ה
+DESCRIPTION:אסתר ס' ה\nלקריאת הסדר: https://www.tanachyomi
+ .co.il/?b=16&s=05\nלקריאת הסדר בטעמים: https://www.tanachy
+ omi.co.il/?b=16&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.co
+ .il/pagesTanachVoice/b16_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=16&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:000-lsw9so
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240802
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דניאל ס' א
+DESCRIPTION:דניאל ס' א\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=17&s=01\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=17&s=01&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b17_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=17&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-n5zplq
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240804
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דניאל ס' ב
+DESCRIPTION:דניאל ס' ב\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=17&s=02\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=17&s=02&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b17_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=17&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000o6qjoy
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240805
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דניאל ס' ג
+DESCRIPTION:דניאל ס' ג\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=17&s=03\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=17&s=03&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b17_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=17&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-st75y3
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240806
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דניאל ס' ד
+DESCRIPTION:דניאל ס' ד\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=17&s=04\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=17&s=04&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b17_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=17&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:0000s3h6wj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240807
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דניאל ס' ה
+DESCRIPTION:דניאל ס' ה\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=17&s=05\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=17&s=05&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b17_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=17&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000t0k31q
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240808
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דניאל ס' ו
+DESCRIPTION:דניאל ס' ו\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=17&s=06\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=17&s=06&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b17_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=17&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:00008lauri
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240809
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דניאל ס' ז
+DESCRIPTION:דניאל ס' ז\nלקריאת הסדר: https://www.tanachyo
+ mi.co.il/?b=17&s=07\nלקריאת הסדר בטעמים: https://www.tanac
+ hyomi.co.il/?b=17&s=07&t=1\nלשמיעת הסדר: https://www.tanachyomi.
+ co.il/pagesTanachVoice/b17_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=17&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000-k2hjs2
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240811
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' א
+DESCRIPTION:עזרא ונחמיה ס' א\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=01\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=01&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-kdzuhp
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240812
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ב
+DESCRIPTION:עזרא ונחמיה ס' ב\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=02\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=02&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-wo7isd
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240814
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ג
+DESCRIPTION:עזרא ונחמיה ס' ג\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=03\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=03&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:0000dvw7ut
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240815
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ד
+DESCRIPTION:עזרא ונחמיה ס' ד\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=04\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=04&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:000-dc5xum
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240816
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ה
+DESCRIPTION:עזרא ונחמיה ס' ה\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=05\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=05&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:000-yyt65c
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240818
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ו
+DESCRIPTION:עזרא ונחמיה ס' ו\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=06\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=06&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-coeio2
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240819
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ז
+DESCRIPTION:עזרא ונחמיה ס' ז\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=07\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=07&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:0000er49sc
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240820
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ח
+DESCRIPTION:עזרא ונחמיה ס' ח\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=08\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=08&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-jkqqvh
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240821
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' ט
+DESCRIPTION:עזרא ונחמיה ס' ט\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=09\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=09&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:000-bblw4q
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240822
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:עזרא ונחמיה ס' י
+DESCRIPTION:עזרא ונחמיה ס' י\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=18&s=10\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=18&s=10&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b18_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=18&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-f678vo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240823
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' א
+DESCRIPTION:דברי הימים ס' א\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=01\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=01&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ezmnqj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240825
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ב
+DESCRIPTION:דברי הימים ס' ב\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=02\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=02&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:0000nq9jny
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240826
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ג
+DESCRIPTION:דברי הימים ס' ג\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=03\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=03&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-z2vnet
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240827
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ד
+DESCRIPTION:דברי הימים ס' ד\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=04\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=04&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:0000326rpo
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240828
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ה
+DESCRIPTION:דברי הימים ס' ה\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=05\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=05&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:0000m5yn19
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240829
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ו
+DESCRIPTION:דברי הימים ס' ו\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=06\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=06&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:000-uoce01
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240830
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ז
+DESCRIPTION:דברי הימים ס' ז\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=07\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=07&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:000-fe3848
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240901
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ח
+DESCRIPTION:דברי הימים ס' ח\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=08\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=08&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-hre2d3
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240902
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ט
+DESCRIPTION:דברי הימים ס' ט\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=09\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=09&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:0000q5dwng
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240903
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' י
+DESCRIPTION:דברי הימים ס' י\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=10\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=10&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:000-azguzr
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240904
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יא
+DESCRIPTION:דברי הימים ס' יא\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=11\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=11&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000-isso0i
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240905
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יב
+DESCRIPTION:דברי הימים ס' יב\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=12\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=12&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:0000darek6
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240906
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יג
+DESCRIPTION:דברי הימים ס' יג\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=13\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=13&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:00000emf4y
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240908
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יד
+DESCRIPTION:דברי הימים ס' יד\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=14\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=14&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:0000qzg7rb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240909
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' טו
+DESCRIPTION:דברי הימים ס' טו\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=15\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=15&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:00005tmf8g
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240910
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' טז
+DESCRIPTION:דברי הימים ס' טז\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=16\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=16&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:000051sbkq
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240911
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יז
+DESCRIPTION:דברי הימים ס' יז\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=17\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=17&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:0000-82v58
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240912
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יח
+DESCRIPTION:דברי הימים ס' יח\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=18\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=18&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:000-4a7idu
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240913
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יט
+DESCRIPTION:דברי הימים ס' יט\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=19\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=19&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:000-hrc0xu
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240915
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כ
+DESCRIPTION:דברי הימים ס' כ\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=20\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=20&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:000-c4sy1w
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240916
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כא
+DESCRIPTION:דברי הימים ס' כא\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=21\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=21&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:0000fh10io
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240917
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כב
+DESCRIPTION:דברי הימים ס' כב\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=22\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=22&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch22.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=22
+END:VEVENT
+BEGIN:VEVENT
+UID:00000ibo4t
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240918
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כג
+DESCRIPTION:דברי הימים ס' כג\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=23\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=23&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch23.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=23
+END:VEVENT
+BEGIN:VEVENT
+UID:0000qhz7vz
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240919
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כד
+DESCRIPTION:דברי הימים ס' כד\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=24\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=24&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch24.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=24
+END:VEVENT
+BEGIN:VEVENT
+UID:00004f00st
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כה
+DESCRIPTION:דברי הימים ס' כה\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=25\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=25&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch25.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=25
+END:VEVENT
+BEGIN:VEVENT
+UID:0000aea8af
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240922
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' א
+DESCRIPTION:דברי הימים ס' א\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=01\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=01&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch01.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=01
+END:VEVENT
+BEGIN:VEVENT
+UID:000-pbcclm
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240923
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ב
+DESCRIPTION:דברי הימים ס' ב\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=02\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=02&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch02.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=02
+END:VEVENT
+BEGIN:VEVENT
+UID:000-a80zt6
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240924
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ג
+DESCRIPTION:דברי הימים ס' ג\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=03\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=03&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch03.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=03
+END:VEVENT
+BEGIN:VEVENT
+UID:000-hl8lk9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240925
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ד
+DESCRIPTION:דברי הימים ס' ד\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=04\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=04&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch04.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=04
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ppsjb9
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240926
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ה
+DESCRIPTION:דברי הימים ס' ה\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=05\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=05&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch05.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=05
+END:VEVENT
+BEGIN:VEVENT
+UID:000-46r197
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240927
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ו
+DESCRIPTION:דברי הימים ס' ו\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=06\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=06&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch06.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=06
+END:VEVENT
+BEGIN:VEVENT
+UID:0000k3hczs
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240929
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ז
+DESCRIPTION:דברי הימים ס' ז\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=07\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=07&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch07.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=07
+END:VEVENT
+BEGIN:VEVENT
+UID:0000e550hv
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20240930
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ח
+DESCRIPTION:דברי הימים ס' ח\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=08\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=08&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch08.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=08
+END:VEVENT
+BEGIN:VEVENT
+UID:000-bkh1qj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241001
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' ט
+DESCRIPTION:דברי הימים ס' ט\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=09\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=09&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch09.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=09
+END:VEVENT
+BEGIN:VEVENT
+UID:0000j4d2nb
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241002
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' י
+DESCRIPTION:דברי הימים ס' י\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=10\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=10&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch10.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=10
+END:VEVENT
+BEGIN:VEVENT
+UID:0000ltoh7p
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241006
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יא
+DESCRIPTION:דברי הימים ס' יא\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=11\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=11&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch11.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=11
+END:VEVENT
+BEGIN:VEVENT
+UID:000-sr25ju
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241007
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יב
+DESCRIPTION:דברי הימים ס' יב\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=12\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=12&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch12.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=12
+END:VEVENT
+BEGIN:VEVENT
+UID:0000yjcrdl
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241008
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יג
+DESCRIPTION:דברי הימים ס' יג\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=13\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=13&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch13.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=13
+END:VEVENT
+BEGIN:VEVENT
+UID:000-17otmc
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241009
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יד
+DESCRIPTION:דברי הימים ס' יד\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=14\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=14&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch14.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=14
+END:VEVENT
+BEGIN:VEVENT
+UID:000-kdqhiv
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' טו
+DESCRIPTION:דברי הימים ס' טו\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=15\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=15&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch15.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=15
+END:VEVENT
+BEGIN:VEVENT
+UID:0000tpys4b
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241011
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' טז
+DESCRIPTION:דברי הימים ס' טז\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=16\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=16&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch16.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=16
+END:VEVENT
+BEGIN:VEVENT
+UID:0000rhzlbx
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יז
+DESCRIPTION:דברי הימים ס' יז\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=17\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=17&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch17.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=17
+END:VEVENT
+BEGIN:VEVENT
+UID:000-hyf8fi
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241014
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יח
+DESCRIPTION:דברי הימים ס' יח\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=18\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=18&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch18.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=18
+END:VEVENT
+BEGIN:VEVENT
+UID:0000r1n753
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241015
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' יט
+DESCRIPTION:דברי הימים ס' יט\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=19\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=19&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch19.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=19
+END:VEVENT
+BEGIN:VEVENT
+UID:000-l3qsmh
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241016
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כ
+DESCRIPTION:דברי הימים ס' כ\nלקריאת הסדר: https://www
+ .tanachyomi.co.il/?b=19&s=20\nלקריאת הסדר בטעמים: https://
+ www.tanachyomi.co.il/?b=19&s=20&t=1\nלשמיעת הסדר: https://www.ta
+ nachyomi.co.il/pagesTanachVoice/b19_ch20.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=20
+END:VEVENT
+BEGIN:VEVENT
+UID:000-94a9on
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241018
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כא
+DESCRIPTION:דברי הימים ס' כא\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=21\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=21&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch21.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=21
+END:VEVENT
+BEGIN:VEVENT
+UID:0000j5vaqm
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241020
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כב
+DESCRIPTION:דברי הימים ס' כב\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=22\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=22&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch22.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=22
+END:VEVENT
+BEGIN:VEVENT
+UID:000-ixrlge
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241021
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כג
+DESCRIPTION:דברי הימים ס' כג\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=23\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=23&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch23.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=23
+END:VEVENT
+BEGIN:VEVENT
+UID:0000pt2ozj
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241022
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כד
+DESCRIPTION:דברי הימים ס' כד\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=24\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=24&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch24.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=24
+END:VEVENT
+BEGIN:VEVENT
+UID:0000-6txwq
+SEQUENCE:0
+DTSTAMP:20210304T192103Z
+DTSTART;VALUE=DATE:20241023
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:דברי הימים ס' כה
+DESCRIPTION:דברי הימים ס' כה\nלקריאת הסדר: https://w
+ ww.tanachyomi.co.il/?b=19&s=25\nלקריאת הסדר בטעמים: https:
+ //www.tanachyomi.co.il/?b=19&s=25&t=1\nלשמיעת הסדר: https://www.
+ tanachyomi.co.il/pagesTanachVoice/b19_ch25.mp3
+URL;VALUE=URI:https://www.tanachyomi.co.il/?b=19&s=25
+END:VEVENT
+END:VCALENDAR

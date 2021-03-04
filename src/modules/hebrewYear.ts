@@ -1,4 +1,5 @@
 import { Day } from "../models/day";
+import * as moment from "moment";
 
 var gematriya: any = require('gematriya');
 
@@ -83,7 +84,7 @@ function getYearByWeeksAndWeekdays(year) {
         currWeek[currDay.getDay()] = new Day(
             getHebrewRepresentation(currDay),
             getGregRepresentation(currDay),
-            currDay.greg()
+            moment(currDay.greg()).add(1, 'day').toDate()
         )
 
         // if curr day is a holiday

@@ -2,7 +2,9 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './tests/excels.ts',
+  entry: {
+    excels: './tests/excels.ts', icses: './tests/icses.ts'
+  },
   target: 'node',
   module: {
     rules: [
@@ -14,10 +16,10 @@ module.exports = {
     ],
   },
   resolve: {
-    extensions: [ '.tsx', '.ts', '.js', '.json' ],
+    extensions: ['.tsx', '.ts', '.js', '.json'],
   },
   output: {
-    filename: 'excels.js',
+    filename: '[name].js',
     path: path.resolve(__dirname, "./tests"),
   },
 };
